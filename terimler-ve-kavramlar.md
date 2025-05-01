@@ -66,6 +66,6 @@ Bir şirketin faaliyetlerine son verip mal varlığının paraya çevrilerek ala
 
 * Tasfiye süreci, borçların ödenmesi, kalan varlıkların paylaşılması ve şirketin tüzel kişiliğinin sona ermesiyle tamamlanır.
 * Tasfiye memuru, bu süreci yönetmekle görevli kişidir.
-* 
+
 <br>
 
