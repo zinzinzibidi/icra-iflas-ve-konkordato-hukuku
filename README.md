@@ -34,4 +34,4 @@ Keyifli okumalar
 2. [deepseek yapay zekâ uygulaması](https://chat.deepseek.com/)
 3. Şematik İcra ve İflas Hukuku, Prof. Dr. Cenk AKİL, Dr. Öğr. Üyesi Süleyman TOPAK, Güncellenmiş 2. Baskı, Ekim 2024, Seçkin Yayıncılık, Sertifika No: 45644, ISBN: 978-975-02-9572-0
 4. Konkordato ve İflas, Mahmut COŞKUN, 8. Yargı Paketine Göre Güncellenmiş 3. Baskı, Nisan 2024, Seçkin Yayıncılık, Sertifika No: 45644, ISBN: 978-975-02-9220-0
-5. İcra ve İflas Kanunu, Editor Av. Celal ÜLGEN, 24. Baskı, Eylül 2024, Beta Basım Yayın Dağıtım, Sertifika No: 49286, ISBN: 978-625-423-795-9
+5. İcra ve İflas Kanunu, Editör Av. Celal ÜLGEN, 24. Baskı, Eylül 2024, Beta Basım Yayın Dağıtım, Sertifika No: 49286, ISBN: 978-625-423-795-9
