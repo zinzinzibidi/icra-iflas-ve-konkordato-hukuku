@@ -18,6 +18,16 @@ Keyifli okumalar
 
 [Terimler ve Kavramlar](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/terimler-ve-kavramlar.md)
 
+## Kısaltmalar
+
+* AVK: Avukatlık Kanunu
+* HMK: Hukuk Muhakemeleri Kanunu
+* İİK: İcra ve İflas Kanunu
+* TBK: Türk Borçlar Kanunu
+* TCK: Türk Ceza Kanunu
+* TMK: Türk Medeni Kanunu
+* UYAP: Ulusal Yargı Ağı Projesi
+
 ## Yararlanılan Kaynaklar
 
 1. [google arama motoru](https://www.google.com/)
