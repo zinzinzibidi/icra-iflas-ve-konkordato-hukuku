@@ -22,8 +22,8 @@ Cebri icra, ya icra ya da iflas yoluyla olabilmektedir.
 
 olmak üzere kendi içinde ayrılmaktadır.
 
-> [!Bilgi]
-> Optional information to help a user be more successful.
+> [!Tip]
+> İlamlı ve ilamsız icra konularına ilerleyen bölümlerde değineceğiz. Şimdilik "Cebri icra" denilince aklımıza "İcra ve İflas Hukuku"nun gelmesi yeterli. Diğer bir ifade ile cebri icra hem icra hem de iflas hükümlerini kapsamaktadır.
 
 
 
