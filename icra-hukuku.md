@@ -22,7 +22,7 @@ Cebri icra, ya icra ya da iflas yoluyla olabilmektedir.
 
 olmak üzere kendi içinde ayrılmaktadır.
 
-> [!TIP]
+> [!Bilgi]
 > Optional information to help a user be more successful.
 
 
