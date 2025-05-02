@@ -14,6 +14,8 @@ Bu bölümde İcra ve İflas Hukuku ile Konkordato Hukukuyla ilgili tüm terim v
 
 &nbsp;&nbsp;[İhdas etmek](#ihdas-etmek)
 
+&nbsp;&nbsp;[İstinabe etmek](#istinabe-etmek)
+
 &nbsp;&nbsp;[Tasfiye](#tasfiye)
 
 ---
@@ -130,6 +132,13 @@ Meydana gelmek.
 
 "Cebri icra yolunun işlevselliğinin sağlanması adına birtakım icra ve iflâs suçları ihdas edilmiştir."[^1]
 
+<a id="istinabe-etmek"></a>
+## İstinabe etmek
+
+Davanın görülmekte olduğu mahkemeye gönderilmek için başka bir yerde bulunan bir tanığın oradaki mahkeme tarafından ifadesinin alınması
+
+"İcra dairesi yetki çevresi dışındaki işlemler için başka icra dairelerini istinabe edebilir."[^2]
+
 <a id="tasfiye"></a>
 ## Tasfiye
 
@@ -141,6 +150,7 @@ Bir şirketin faaliyetlerine son verip mal varlığının paraya çevrilerek ala
 <br>
 
 [^1]: Şematik İcra ve İflas Hukuku, Prof. Dr. Cenk AKİL, Dr. Öğr. Üyesi Süleyman TOPAK, Güncellenmiş 2. Baskı, Ekim 2024, s.19
+[^2]: Şematik İcra ve İflas Hukuku, Prof. Dr. Cenk AKİL, Dr. Öğr. Üyesi Süleyman TOPAK, Güncellenmiş 2. Baskı, Ekim 2024, s.21
 
 
 
