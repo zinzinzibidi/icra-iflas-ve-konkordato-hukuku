@@ -8,4 +8,21 @@ Cebri "zor kullanılarak yaptırılan" anlamına gelmektedir. İcra ise "Yapma, 
 
 Borçlunun borcunu vadesinde ödememesi durumunda alacaklının alacağını almak için başvurabileceği tek yol İcra ve İflas Kanunu'ndan belirtilen cebri icra yoludur. Cebri icra ile borçlunun borcunu ödememesi durumunda alacaklı devlet gücüyle (hukuk yoluyla) alacağını zorla tahsil edebilmektedir.
 
+Cebri icra, ya icra ya da iflas yoluyla olabilmektedir. 
+
+İcra
+
+* İlamlı İcra
+* İlamsız İcra
+
+İflas
+
+* Takipsiz (Doğrudan) İflas
+* Takipli İflas
+
+olmak üzere kendi içinde ayrılmaktadır.
+
+
+
+
 
