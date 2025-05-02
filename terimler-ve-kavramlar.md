@@ -152,7 +152,7 @@ Taraflar:
 ### Kullanım Alanları 
 
 * Bir malın gerçek sahibi tarafından gasbedilmiş (haksız ele geçirilmiş) olması durumunda
-* İcra takibinde haczedilen bir malın, haciz dışı olduğunun iddia edilmesi.
+* İcra takibinde haczedilen bir malın, haciz dışı olduğunun iddia edilmesi
 * Tapu kaydı ile fiili durumun uyuşmaması (örneğin, bir arsanın tapuda birine ait gözükmesi ama başka birinin uzun süredir kullanımda olması)
 
 ### İstihkak Davası Türleri
