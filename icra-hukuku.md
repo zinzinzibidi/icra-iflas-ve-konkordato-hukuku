@@ -29,7 +29,7 @@ olmak üzere kendi içinde ayrılmaktadır.
 
 Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adlandırılmaktadır. 
 
-İcra ve İflas Hukuku
+İcra ve İflas Hukuku mevzuat
 
 * [2004 sayılı İcra ve İflas Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2004.pdf)
 * [7445 sayılı İcra ve İflas Kanunu ile Bazı Kanunlardas Değişiklik Yapılmasına Dair Kanun](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7445.pdf)
@@ -39,7 +39,7 @@ Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adl
 * Yargıtay Kararları
 * Anayasa Mahkemesi Kararları
 
-ve benzeri birçok kanun, yönetmelik ve kararı kapsayan hukuk dalıdır.
+ve benzeri birçok kanun, yönetmelik ve kararı kapsamaktadır.
 
 ## Cebri İcra Kurumları
 
