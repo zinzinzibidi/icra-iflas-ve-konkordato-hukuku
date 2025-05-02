@@ -14,6 +14,8 @@ Bu bölümde İcra ve İflas Hukuku ile Konkordato Hukukuyla ilgili tüm terim v
 
 &nbsp;&nbsp;[İhdas etmek](#ihdas-etmek)
 
+&nbsp;&nbsp;[İstihkak Davası](#istihkak-davasi)
+
 &nbsp;&nbsp;[İstinabe etmek](#istinabe-etmek)
 
 &nbsp;&nbsp;[Tasfiye](#tasfiye)
@@ -131,6 +133,37 @@ Mahkeme kararı olmadan, doğrudan icra dairesine başvurularak yapılan takipti
 Meydana gelmek.
 
 "Cebri icra yolunun işlevselliğinin sağlanması adına birtakım icra ve iflâs suçları ihdas edilmiştir."[^1]
+
+<a id="istihkak-davasi"></a>
+## İstihkak Davası
+
+İstihkak davası, Türk hukukunda bir mal veya hakkın kime ait olduğunu tespit etmek veya bir malın üzerindeki mülkiyet hakkını talep etmek amacıyla açılan bir davadır. Bu dava, özellikle bir malın gerçek sahibi ile mal üzerinde hak iddia eden kişi arasındaki anlaşmazlıkları çözmek için kullanılır.
+
+### İstihkak Davasının Temel Özellikleri
+
+Konusu: Bir taşınır veya taşınmaz malın mülkiyetinin kime ait olduğunun belirlenmesi veya bir hakkın varlığının tespitidir.
+
+Taraflar:
+
+* Davacı: Malın kendisine ait olduğunu iddia eden kişi.
+* Davalı: Malı elinde bulunduran veya hak iddia eden kişi.
+* Hukuki Dayanak: Türk Medeni Kanunu (TMK) ve İcra ve İflas Kanunu'nda (İİK) düzenlenmiştir.
+
+### Kullanım Alanları 
+
+* Bir malın gerçek sahibi tarafından gasbedilmiş (haksız ele geçirilmiş) olması durumunda
+* İcra takibinde haczedilen bir malın, haciz dışı olduğunun iddia edilmesi.
+* Tapu kaydı ile fiili durumun uyuşmaması (örneğin, bir arsanın tapuda birine ait gözükmesi ama başka birinin uzun süredir kullanımda olması)
+
+### İstihkak Davası Türleri
+
+* Taşınır İstihkak Davası: Bir eşyanın (araba, mücevher, para vb.) kime ait olduğunun belirlenmesi için açılır.
+* Taşınmaz İstihkak Davası: Bir gayrimenkulün (arsa, ev, tarla) mülkiyetinin tespiti veya tahliyesi için açılır.
+* İcra Hukukunda İstihkak Davası: Haciz işlemlerinde, üçüncü bir kişinin "bu mal benim" diyerek itiraz etmesi üzerine açılan dava
+
+#### Önemli Noktalar
+
+İstihkak davası, tapu iptal davası veya tahliye davası gibi diğer davalardan farklıdır. Amacı, mülkiyetin hukuki olarak kime ait olduğunu kesin olarak belirlemektir.
 
 <a id="istinabe-etmek"></a>
 ## İstinabe etmek
