@@ -10,6 +10,8 @@ Bu bölümde İcra ve İflas Hukuku ile Konkordato Hukukuyla ilgili tüm terim v
 
 &nbsp;&nbsp;[Ayni Hak](#ayni-hak)
 
+&nbsp;&nbsp;[Cebri İcra](#cebri-icra)
+
 &nbsp;&nbsp;[İhdas etmek](#ihdas-etmek)
 
 &nbsp;&nbsp;[Tasfiye](#tasfiye)
@@ -91,6 +93,35 @@ Mülkiyet hakkını kısıtlayan veya başkasına bazı yetkiler tanıyan haklar
 
 * Ayni hak, bir eşya üzerinde doğrudan hakimiyet sağlar ve herkese karşı ileri sürülebilir.
 * Şahsi hak ise sadece belirli kişiler arasındaki borç ilişkisinden doğar. Örneğin, bir satım sözleşmesindeki alacak hakkı
+
+<a id="cebri-icra"></a>
+## Cebri İcra
+
+Cebri İcra, bir alacaklının, borçlunun borcunu ödememesi durumunda devlet gücüyle (hukuk yoluyla) zorla tahsil etme sürecidir. Türk hukuk sisteminde İcra ve İflas Kanunu (İİK) çerçevesinde düzenlenmiştir.
+
+### Cebri İcra'nın Amacı
+* Borçlunun ödemeyi gönüllü yapmaması halinde, alacağın hukuki yollarla zorla tahsil edilmesini sağlamak
+* Hukuk devleti ilkesi gereği, bireylerin kendi haklarını kendilerinin zor kullanarak almasını engellemek ve bunu devlet kontrolüne vermek
+
+### Cebri İcra Türleri
+
+#### İlamlı İcra
+
+Mahkeme kararı (ilam) ile yürütülen icra takibidir.
+
+Örnek: Bir davada mahkeme, borçlunun ödeme yapmasına karar verirse, bu karar icra dairesi aracılığıyla uygulanır.
+
+#### İlamsız İcra
+
+Mahkeme kararı olmadan, doğrudan icra dairesine başvurularak yapılan takiptir.
+
+Örnek: Senet, çek veya resmi bir belgeye dayanan alacaklar için ilamsız icra yolu açılabilir.
+
+#### Önemli Noktalar
+
+* Cebri icra, kanuni süreçlere uygun olmalıdır. Keyfi uygulamalar hukuka aykırıdır.
+* Borçlu, muaccel (ödeme zamanı gelmiş) ve kesinleşmiş bir borç olmadan cebri icraya maruz kalamaz.
+* İcra dairesi, alacaklı adına hareket eder ancak işlemler yargı denetimindedir.
 
 <a id="ihdas-etmek"></a>
 ## İhdas etmek
