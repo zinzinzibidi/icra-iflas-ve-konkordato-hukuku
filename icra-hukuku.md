@@ -53,7 +53,9 @@ temel icra kurumlarıdır. Bunun dışında icra mahkemesi dışında kalan mahk
 
 ### İcra Dairesi
 
-Cebri icranın birinci derece görevli kurumudur. İcra ve İflas Kanunu'nun 1. maddesinde
+Cebri icranın birinci derece görevli kurumudur.
+
+İcra ve İflas Kanunu, Madde 1:
 
 > Her asliye mahkemesinin yargı çevresinde yeteri kadar icra dairesi bulunur.
 >  
@@ -61,8 +63,14 @@ Cebri icranın birinci derece görevli kurumudur. İcra ve İflas Kanunu'nun 1. 
 icra müdür yardımcısı, icra katibi ile adli yargı ilk derece mahkemesi adalet komisyonları 
 tarafından görevlendirilecek mübaşir ve hizmetli bulunur. 
 
+İcra dairelerine ilk maddede değinilmesinden de anlaşılacağı üzere tüm icra konularında en önemli görevi icra daireleri yürütmektedir. 
 
+### İcra Dairelerinin Yükümlülükleri
 
+* Dosya ve Tutanak Düzenlemek
+* Alacağı Ödemek ve Alacak Konusu Eşyayı Muhafaza Etmek
+* Menfaati Olan İşleri Görememe
+* Menfaati Olan Sözleşme Yapamama
 
 
 
