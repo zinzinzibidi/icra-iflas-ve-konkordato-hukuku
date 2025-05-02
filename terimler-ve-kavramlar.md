@@ -8,6 +8,8 @@ Bu bölümde İcra ve İflas Hukuku ile Konkordato Hukukuyla ilgili tüm terim v
 
 &nbsp;&nbsp;[Asliye Mahkemesi](#asliye-mahkemesi)
 
+&nbsp;&nbsp;[Ayni Hak](#ayni-hak)
+
 &nbsp;&nbsp;[İhdas etmek](#ihdas-etmek)
 
 &nbsp;&nbsp;[Tasfiye](#tasfiye)
@@ -60,6 +62,36 @@ Asliye Mahkemesi, Türk hukuk sisteminde genel görevli mahkemelerden biridir ve
 * Tek hakimli mahkemelerdir.
 * Kararlarına karşı istinaf (Bölge Adliye Mahkemesi) yoluna başvurulabilir.
 * 2016 öncesinde "Asliye Mahkemesi" hem hukuk hem ceza davalarına bakmaktaydı. Ancak yeni sistemde ayrılmıştır.
+
+<a id="ayni-hak"></a>
+## İhdas etmek
+
+Ayni hak, bir mal üzerinde sahibine doğrudan ve mutlak yetkiler veren, Türk Medeni Kanunu’nda düzenlenmiş temel bir hukuki kavramdır.
+
+### Mülkiyet Hakkı (Tam Ayni Hak)
+En geniş kapsamlı ayni haktır.
+
+* Malik (sahip), eşyayı kullanma (intifa), ondan yararlanma (menfaat) ve onunla ilgili her türlü tasarrufta bulunma (satma, kiraya verme, vb.) yetkisine sahiptir.
+
+Örnek: Bir evin sahibi olmak, bir arabanın mülkiyetine sahip olmak.
+
+### Sınırlı Ayni Haklar (Eksik Ayni Haklar)
+Mülkiyet hakkını kısıtlayan veya başkasına bazı yetkiler tanıyan haklardır. Başlıcaları:
+
+* İrtifak Hakları: Bir taşınmaz lehine başka bir taşınmaz üzerinde kurulan haklar (örneğin, geçit hakkı, su irtifakı).
+* Taşınmaz Yükü (Gayrimenkul Mükellefiyeti): Bir taşınmaz malikinin, başkasına belirli bir edimde bulunma yükümlülüğü (örneğin, bir arsanın belirli bir kısmını imara açmama yükümlülüğü).
+* Rehin Hakları: Bir alacağın teminatı olarak bir mal üzerinde kurulan hak (örneğin, ipotek, rehin hakkı).
+
+### Ayni Hakların Korunması
+
+* İstihkak Davası: Malın haksız el konulması durumunda geri alınması için açılan dava
+* Şikâyet Hakkı: Ayni hakkın ihlal edilmesi durumunda hukuki yollara başvurma
+
+### Ayni Hak vs. Şahsi Hak (Alacak Hakkı) Farkı
+
+Ayni hak, bir eşya üzerinde doğrudan hakimiyet sağlar ve herkese karşı ileri sürülebilir.
+
+Şahsi hak ise sadece belirli kişiler arasındaki borç ilişkisinden doğar (örneğin, bir satım sözleşmesindeki alacak hakkı).
 
 <a id="ihdas-etmek"></a>
 ## İhdas etmek
