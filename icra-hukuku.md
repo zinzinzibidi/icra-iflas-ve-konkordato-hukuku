@@ -41,6 +41,22 @@ Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adl
 
 ve benzeri birçok kanun, yönetmelik ve kararı kapsayan hukuk dalıdır.
 
+## Cebri İcra Kurumları
+
+* İcra Dairesi
+* İcra Daireleri Başkanlığı
+* İcra Mahkemesi
+* Bölge Adliye Mahkemesi
+* Yargıtay'ın İlgili Daireleri
+
+temel icra kurumlarıdır. Bunun dışında icra mahkemesi dışında kalan mahkemeler, cuhmuriyet savcıları, adalet müfettişleri yardımcı rolündedir.
+
+### İcra Dairesi
+
+Cebri icranın birinci derece görevli kurumudur. İcra ve İflas Kanunu'nun 1. maddesinde
+
+
+
 
 
 
