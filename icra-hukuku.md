@@ -49,7 +49,7 @@ ve benzeri birçok kanun, yönetmelik ve kararı içermektedir.
 * Bölge Adliye Mahkemesi
 * Yargıtay'ın İlgili Daireleri
 
-temel icra kurumlarıdır. Bunun dışında icra mahkemesi dışında kalan mahkemeler, cuhmuriyet savcıları, adalet müfettişleri yardımcı rolündedir.
+temel icra kurumlarıdır. Bunun dışında icra mahkemesi dışında kalan mahkemeler, cumhuriyet savcıları, adalet müfettişleri yardımcı rolündedir.
 
 ### İcra Dairesi
 
