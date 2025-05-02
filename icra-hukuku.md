@@ -39,7 +39,7 @@ Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adl
 * Yargıtay Kararları
 * Anayasa Mahkemesi Kararları
 
-gibi birçok kanun, yönetmelik ve kararı kapsayan hukuk dalıdır.
+ve benzeri birçok kanun, yönetmelik ve kararı kapsayan hukuk dalıdır.
 
 
 
