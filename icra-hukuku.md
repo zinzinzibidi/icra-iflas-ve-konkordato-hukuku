@@ -17,8 +17,8 @@ Cebri icra, ya icra ya da iflas yoluyla olabilmektedir.
 
 İflas
 
-* Takipsiz (Doğrudan) İflas
 * Takipli İflas
+* Takipsiz (Doğrudan) İflas
 
 olmak üzere kendi içinde ayrılmaktadır.
 
