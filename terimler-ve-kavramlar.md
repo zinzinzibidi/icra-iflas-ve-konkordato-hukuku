@@ -8,6 +8,8 @@ Bu bölümde İcra ve İflas Hukuku ile Konkordato Hukukuyla ilgili tüm terim v
 
 &nbsp;&nbsp;[Asliye Mahkemesi](#asliye-mahkemesi)
 
+&nbsp;&nbsp;[İhdas etmek](#ihdas-etmek)
+
 &nbsp;&nbsp;[Tasfiye](#tasfiye)
 
 ---
@@ -59,6 +61,13 @@ Asliye Mahkemesi, Türk hukuk sisteminde genel görevli mahkemelerden biridir ve
 * Kararlarına karşı istinaf (Bölge Adliye Mahkemesi) yoluna başvurulabilir.
 * 2016 öncesinde "Asliye Mahkemesi" hem hukuk hem ceza davalarına bakmaktaydı. Ancak yeni sistemde ayrılmıştır.
 
+<a id="ihdas-etmek"></a>
+## İhdas etmek
+
+Meydana gelmek.
+
+"Cebri icra yolunun işlevselliğinin sağlanması adına birtakım icra ve iflâs suçları ihdas edilmiştir."[^1]
+
 <a id="tasfiye"></a>
 ## Tasfiye
 
@@ -68,4 +77,8 @@ Bir şirketin faaliyetlerine son verip mal varlığının paraya çevrilerek ala
 * Tasfiye memuru, bu süreci yönetmekle görevli kişidir.
 
 <br>
+
+[^1]: Şematik İcra ve İflas Hukuku, Prof. Dr. Cenk AKİL, Dr. Öğr. Üyesi Süleyman TOPAK, Güncellenmiş 2. Baskı, Ekim 2024, s.19
+
+
 
