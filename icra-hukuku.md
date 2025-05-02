@@ -55,7 +55,8 @@ temel icra kurumlarıdır. Bunun dışında icra mahkemesi dışında kalan mahk
 
 Cebri icranın birinci derece görevli kurumudur. İcra ve İflas Kanunu'nun 1. maddesinde
 
-> Her asliye mahkemesinin yargı çevresinde yeteri kadar icra dairesi bulunur.  
+> Her asliye mahkemesinin yargı çevresinde yeteri kadar icra dairesi bulunur.
+>  
 > Her icra dairesinde Adalet Bakanlığı tarafından atanacak bir icra müdürü, yeteri kadar 
 icra müdür yardımcısı, icra katibi ile adli yargı ilk derece mahkemesi adalet komisyonları 
 tarafından görevlendirilecek mübaşir ve hizmetli bulunur. 
