@@ -64,7 +64,7 @@ Asliye Mahkemesi, Türk hukuk sisteminde genel görevli mahkemelerden biridir ve
 * 2016 öncesinde "Asliye Mahkemesi" hem hukuk hem ceza davalarına bakmaktaydı. Ancak yeni sistemde ayrılmıştır.
 
 <a id="ayni-hak"></a>
-## İhdas etmek
+## Ayni Hak
 
 Ayni hak, bir mal üzerinde sahibine doğrudan ve mutlak yetkiler veren, Türk Medeni Kanunu’nda düzenlenmiş temel bir hukuki kavramdır.
 
