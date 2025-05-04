@@ -22,7 +22,7 @@ Cebri icra, ya icra ya da iflas yoluyla olabilmektedir.
 
 olmak üzere kendi içinde ayrılmaktadır.
 
-> [!Note]
+> [!Tip]
 > İlamlı ve ilamsız konularına ilerleyen bölümlerde değineceğiz. Şimdilik "Cebri icra" denilince aklımıza "İcra ve İflas Hukuku"nun gelmesi yeterli. Diğer bir ifade ile cebri icra, hem icra hukuku hem de iflas hukuku hükümlerini kapsamaktadır.
 
 ## İcra ve İflas Hukukunun Dayanağı
@@ -70,7 +70,7 @@ temel icra kurumlarıdır. Bunun dışında icra mahkemesi dışında kalan mahk
 
 Cebri icranın birinci derece görevli kurumudur.
 
-> [!Tip]
+> [!Note]
 > İcra ve İflas Kanunu, Madde 1:
 > 
 > Her asliye mahkemesinin yargı çevresinde yeteri kadar icra dairesi bulunur.
@@ -104,7 +104,7 @@ tarafından görevlendirilecek mübaşir ve hizmetli bulunur.
 
 #### Dosya ve Tutanak Düzenlemek
 
-> [!Tip]
+> [!Note]
 > İcra ve İflas Kanunu, Madde 8:
 > 
 > İcra ve iflas daireleri yaptıkları muamelelerle kendilerine vakı talep ve beyanlar hakkında bir tutanak yaparlar. Sözlü itirazlar ile talep ve beyanların altları ilgililer ve icra memuru veya yardımcısı veya katibi tarafından imzalanır.
