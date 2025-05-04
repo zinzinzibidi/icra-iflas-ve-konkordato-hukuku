@@ -409,7 +409,7 @@ Kronolojik olarak dava sürelerini incelersek... İcra mahkemesinin aldığı bi
 > İcra mahkemesinin verdiği tazyik ve disiplin hapsine ilişkin kararlara karşı, tebliğ tarihinden itibaren iki hafta içinde itiraz edilebilir. Mahkeme itirazı incelemesi için dosyayı o yerde icra mahkemesinin birden fazla dairesinin bulunması hâlinde, numara olarak kendisini izleyen daireye, son numaralı daire için birinci daireye, o yerde icra mahkemesinin tek dairesi bulunması hâlinde asliye ceza mahkemesine, icra mahkemesi hâkimi ile asliye ceza mahkemesi hâkiminin aynı hâkim olması hâlinde ise en yakın asliye ceza mahkemesine gönderir. İtiraz incelemesi neticesinde verilen karar kesindir.
 
 > [!Important]
-> İcra mahkemesi "hukuk mahkemesi" sıfatıyla kararını tebliğ etmişse bu karara karşı bölge adliye mahkemesine istinaf, bölge adliye mahkemesi kararına karşı ise Yargıtay'a temyiz yoluna gidilebilir.
+> İcra mahkemesi kararını "hukuk mahkemesi" sıfatıyla tebliğ etmişse bu karara karşı bölge adliye mahkemesine istinaf, bölge adliye mahkemesi kararına karşı ise Yargıtay'a temyiz yoluna gidilebilir.
 >
 > İcra mahkemesi kanunun on altıncı bap'ındaki maddelere istinaden kararını "ceza mahkemesi" sıfatıyla tebliğ etmişse bu karara karşı 353 üncü madde de belirtildiği üzere birden fazla icra mahkemesi dairesinin bulunması durumunda bir sonraki icra mahkemesi dairesine, tek icra mahkemesi dairenin bulunması durumunda ise asliye ceza mahkemesine itiraz edilebilir. Eğer icra mahkemesi ile asliye ceza mahkemesi hakimleri aynı ise en yakın asliye ceza mahkemesine itirazda bulunulabilir. İtiraz sonucu verilen kararlara karşı istinaf ve temyiz yolu kapalıdır.
 >
