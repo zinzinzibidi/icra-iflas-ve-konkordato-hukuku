@@ -252,7 +252,7 @@ Diğer bir örnek: İcra dosyasına bakan personel, alacaklının babasının er
 >
 > İcra ve İflas Dairesi görevlilerinin kusurlarından doğan tazminat davaları, ancak idare aleyhine açılabilir. Devletin, zararın meydana gelmesinde kusuru bulunan görevlilere rücu hakkı saklıdır. Bu davalara adliye mahkemelerinde bakılır.
 
-Eğer icra takibi sırasında veya sonrasında icra dairesi personelinin kusurundan kaynaklanan maddi bir hata durumu varsa dava doğrudan icra personeline açılmaz, Adalet Bakanlığı aleyhine adliye mahkemesinde açılır. Normal şartlar altında [2577 sayılı İdari Yargılama Usulü Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2577.pdf) (İYUK)[^1] uyarınca, icra dairesi personeli dahil devlet memurlarının görevleri sırasında verdikleri zararlardan dolayı açılacak tazminat davaları, idari yargı kapsamında idare mahkemelerinde açılabilirken İcra ve İflas Kanunu bu davaların idare mahkemeleri yerine adliye mahkemelerinde açılabileceği ayrımına gitmiştir.
+Eğer icra takibi sırasında veya sonrasında icra dairesi personelinin kusurundan kaynaklanan maddi hata durumu varsa dava doğrudan icra personeline açılmaz, Adalet Bakanlığı aleyhine adliye mahkemesinde açılır. Normal şartlar altında [2577 sayılı İdari Yargılama Usulü Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2577.pdf) (İYUK)[^1] uyarınca, icra dairesi personeli dahil devlet memurlarının görevleri sırasında verdikleri zararlardan dolayı açılacak tazminat davaları, idari yargı kapsamında idare mahkemelerinde açılabilirken İcra ve İflas Kanunu bu davaların idare mahkemeleri yerine adliye mahkemelerinde açılabileceği ayrımına gitmiştir.
 
 Adliye mahkemelerinden kasıt
 
