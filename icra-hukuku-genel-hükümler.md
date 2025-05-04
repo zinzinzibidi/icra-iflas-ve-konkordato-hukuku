@@ -35,6 +35,7 @@ Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adl
 * [7445 sayılı İcra ve İflas Kanunu ile Bazı Kanunlardas Değişiklik Yapılmasına Dair Kanun](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7445.pdf)
 * [7499 sayılı Ceza Muhakemesi Kanunu İle Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7499.pdf)
 * [İcra ve İflâs Kanunu Yönetmeliği](https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.8043.pdf)
+* [6100 sayılı Hukuk Muhakemeleri Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf)
 * [7201 sayılı Tebligat Kanunu](https://www.mevzuat.gov.tr/mevzuatmetin/1.3.7201.pdf)
 * [213 sayılı Vergi Usul Kanunu](https://www.mevzuat.gov.tr/mevzuatmetin/1.4.213.pdf)
 * Yargıtay Kararları
@@ -187,7 +188,17 @@ talimat gereği yapılır. Talimat, paranın icra ve iflas dairesi hesabına yat
 > 2. Karı veya kocasının, nişanlısının yahut kan ve sıhri usul ve füruunun veya üçüncü derece dahil olmak üzere bu dereceye kadar olan kan ve sıhri civar hısımlarının,
 > 3. Kanuni mümessili veya vekili yahut müstahdemi bulunduğu bir şahsın,
 > 
-> Menfaati olan işleri göremeyip derhal icra mahkemesine haber vermeye mecburdur. İcra mahkemesi müracaatı yerinde görürse o işi diğer bir memura, bulunmıyan yerlerde katiplerinden birine verir. 
+> Menfaati olan işleri göremeyip derhal icra mahkemesine haber vermeye mecburdur. İcra mahkemesi müracaatı yerinde görürse o işi diğer bir memura, bulunmıyan yerlerde katiplerinden birine verir.
+
+"Müstahdem" hizmetli'yi, "sıhri" evlilik yoluyla meydana gelen akrabalık'ı, "füru" alt soy'u, "hısım" evlilik yoluyla birbirine bağlı olan yan soy'u, "kanuni mümessil" kanuni temsilciyi belirtmektedir.
+
+Kanunda açıkça belirtiği üzere kan bağı olsun ya da olmasın akrabalık ilişkisi olan hiçbir icra personeli o icra işi ile uğraşamaz.
+
+Örneğin; takip konusu borçlu icra dosyasına bakan personelin annesinin kız kardeşinin (teyzesinin) kızının nişanlısı olamaz. Dikkat edilirse personelin kuzeninin nişanlısı ile icra personeli arasında bir kan bağı mevcut olmamasına (sıhri hısımlık olmasına) rağmen 10. maddede belirtildiği üzere bu takip dosyası üzerinde ilgili icra dairesi personeli çalışmamaktadır.
+
+Diğer bir örnek: Takip konusu alacaklı icra dosyasına bakan personelin babasının erkek kardeşinin (amcasının) çocuğunun annesi (yengesi) olamaz. Yine aralarında bir kan bağı olmamasına rağmen ilgili icra dairesi personeli sıhri hısımlıktan dolayı takip dosyası üzerinde çalışamamaktadır.
+
+İcra personelinin menfaatinin söz konusu olduğu durumlarda icra mahkemesine şikâyet yoluna başvurulabilir. İcra mahkemesi hakiminin de kan ya da sıhri hısımlığı söz konusu ile [6100 sayılı Hukuk Muhakemeleri Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf)'nun 34 maddesi hükümleri geçerlidir.
 
 
 
