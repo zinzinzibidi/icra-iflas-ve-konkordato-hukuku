@@ -420,6 +420,22 @@ Kronolojik olarak dava sürelerini incelersek... İcra mahkemesinin aldığı bi
 
 İcra hukukunda şikayet ve itiraz ayrımına [İcra Mahkemesi](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-mahkemesi) bölümünde değinmiştik. Genel bir tanım yapacak olursak şikâyet, icra (ve iflâs) dairelerinin işlemlerinin icra ve iflâs hukukuna uygun olarak yerine getirip getirmediklerinin denetlenmesini sağlayan kendine özgü bir hukuki çaredir. Şikâyetin konusu icra (ve iflâs) dairesinin yapmış olduğu işlemlerdir. [^2]
 
+Şikâyet sadece icra mahkemesine yapılabilir. İcra dairesine yapılan şikâyetler hükümsüzdür ve sonuç doğurmazlar.
+
+Şikâyet konusunun işlemin kanuna aykırı olması ya da somut olaya uygun olmaması durumunda konunun öğrenilmesinden 7 gün içerisinde icra mahkemesine şikâyette bulunulabilir. 7 günü geçmesi durumunda takdir icra mahkemesi hakiminindir. Kanuna aykırı olan işleme örnek olarak icra müdürünün talep edilmeden haciz işlemine başlaması gösterileiblir. Somut olaya uygun olmaması durumuna ise icra müdürünün borçlunun ücretinin tamamını haczetmesi gösterilebilir.
+
+> [!Tip]
+> Ücretin ne kadarının haczedilebileceği, çalışanın medeni durumu, bakmakla yükümlü olduğu kişiler ve asgari geçim indirimi (AGİ) gibi faktörlere bağlıdır. İcra ve İflas Kanunu'nun 83. maddesi özellikle borçlunun ücretinin ne kadarının haczedilebileceğine yöneliktir.
+
+> [!Note]
+> İcra ve İflas Kanunu, Madde 83:
+>
+> Maaşlar, tahsisat ve her nevi ücretler, intifa hakları ve hasılatı, ilama müstenit olmayan nafakalar, tekaüt maaşları, sigortalar veya tekaüt sandıkları tarafından tahsis edilen iratlar, borçlu ve ailesinin geçinmeleri için icra memurunca lüzumlu olarak takdir edilen miktar tenzil edildikten sonra haczolunabilir.
+>
+> Ancak haczolunacak miktar bunların dörtte birinden az olamaz. Birden fazla haciz var ise sıraya konur. Sırada önde olan haczin kesintisi bitmedikçe sonraki haciz için kesintiye geçilemez.
+
+Kanundan da anlaşılacağı üzere icra müdürü borçlunun tüm maaşını haczedemez. Borçlunun kendisinin ve ailesini geçimine yetecek maaş tutarını borçluya bıraktıktan sonra kalan paraya haciz uygulayabilir. 
+
 
 
 
