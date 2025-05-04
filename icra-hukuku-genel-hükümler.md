@@ -268,7 +268,7 @@ ile ceza davalarına bakan
 
 Şu ana kadar icra dairesi personelinin hukuki sorumluluğuna değindik. İcra dairesi personeli malların haczi sırasında borçlu ile fiziki olarak kavga etti diyelim. Borçlu tarafından da darp raporu alınmış olsun. Bu gibi durumda icra konusu borçlu, personeli dava etmek için asliye ceza mahkemesi yoluna başvurabilir. Bu ise icra dairesi personelinin cezai sorumluluğudur.
 
-Eğer icra mahkemesi davacıyı haklı bulursa İİK'nun 5. maddesinin "Devletin, zararın meydana gelmesinde kusuru bulunan görevlilere rücu hakkı saklıdır." ifadesinde de anlaşılacağı üzere personele rücu edilebilir. Diğer bir ifade ile dava konusu tutar personelin banka hesabındaki bakiyeden alınabilir ya da yeterli bakiye yoksa mal varlığına haciz koyulabilir.
+Eğer icra mahkemesi davacıyı haklı bulursa İİK'nun 5. maddesinin "Devletin, zararın meydana gelmesinde kusuru bulunan görevlilere rücu hakkı saklıdır." ifadesinde de anlaşılacağı üzere personele rücu edilebilir. Diğer bir ifade ile dava konusu tutar personelin banka hesabındaki bakiyeden alınabilir ya da yeterli bakiye yoksa mal varlığına haciz koyulabilir. Dilerse rücu etmez, Adalet Bakanlığının yedek akçelerinden tazminat tutarı davacıya ödendikten sonra personele kınama cezası verilebilir. "saklıdır" ifadesinden bu iki olasılığın gerçekleşebileceği anlaşılmaktadır.
 
 Son olarak icra dairesi personeli icra işini bilerek sürüncemede bırakırsa ya da geçerli bir sebep olmadan yapmayı reddederse [657 sayılı Devlet Memurları Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf)'nun hükümleri doğrultusunda personele disiplin cezası uygulanır. Bu ise personelin disiplin sorumluluğunu belirtir.
 
