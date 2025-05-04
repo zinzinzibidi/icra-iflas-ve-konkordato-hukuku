@@ -6,7 +6,6 @@
 
 * [Cebri İcra](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/edit/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#cebri-icra)
 
-
 <a link="#cebri-icra"></a>
 ## Cebri İcra
 
