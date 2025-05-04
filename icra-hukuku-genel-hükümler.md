@@ -327,7 +327,7 @@ Kanunda belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının 
 * İcra ve iflas suçlarının önemli bir bölümüne "icra ceza mahkemesi" sıfatıyla bakar.
 
 > [!Tip]
-> Dikkat edilirse "itiraz" icra konusuna yöneliktir. İcra dairesi aleyhine değildir. "Şikayet" ise icra dairesine yöneliktir. İcra konusu tutara ya da eşyaya yönelik değildir.
+> Dikkat edilirse "itiraz" icra konusuna yöneliktir. İcra dairesi aleyhine değildir. "Şikayet" ise icra dairesi aleyhinedir. İcra konusu tutara ya da eşyaya yönelik değildir.
 
 #### İcra Ceza Mahkemesi
 
