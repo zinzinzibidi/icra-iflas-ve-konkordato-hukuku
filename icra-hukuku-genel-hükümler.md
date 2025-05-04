@@ -189,7 +189,7 @@ Ulusal Yargı Ağı Projesi'ne (UYAP'a) [uyap.gov.tr](https://uyap.gov.tr/) adre
 
 ##### Alacağı Ödemek ve Alacak Konusu Eşyayı Muhafaza Etmek
 
-İcra dairelerinin temel görevlerinden biri de alacağı alacaklığa ödemek ya da takip konusu eşyayı takip süreci sonuçlanana kadar muhafaza etmektir. Eşyanın muhafaza edilmesindeki amaç borçlunun paraya çevrilebilir eşyayı saklama ya da üçüncü kişilere satma olasılığıdır. Bu şekilde borçlu tarafından mal kaçırmanın ve malı saklamanın önüne geçilmiş olunur.
+İcra dairelerinin temel görevlerinden biri de alacağı alacaklıya ödemek ya da takip konusu eşyayı takip süreci sonuçlanana kadar muhafaza etmektir. Eşyanın muhafaza edilmesindeki amaç borçlunun paraya çevrilebilir eşyayı saklama ya da üçüncü kişilere satma olasılığıdır. Bu şekilde borçlu tarafından mal kaçırmanın ve malı saklamanın önüne geçilmiş olunur.
 
 > [!Note]
 > İcra ve İflas Kanunu, Madde 9:
