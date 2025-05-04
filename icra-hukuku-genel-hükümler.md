@@ -353,7 +353,13 @@ Diyelim ki Ahmet adlı biri Mehmet adlı farklı bir kişiden 100.000 TL borç a
 
 İcra ceza mahkemelerinin görev ve hükümlerini içeren on altıncı bap'ta icra dairesi aleyhine olan şikâyet hakkı, şikâyet konusu fiilin öğrenildiği tarihten itibaren 3 ay, fiilin işlendiği tarihten itibaren ise en fazla 1 yıl içinde düşmektedir.
 
-Örneğin; borçlu alacaklının kan bağı olduğu bir icra memurunun takip dosyası üzerinde çalıştığını öğrenirse 3 ay içerisinde icra mahkemesine şikâyet yoluna gidebilir ve icrayı durdurabilir. Eğer borçlu bu durumu takip başladıktan 1 sene sonra öğrenirse borçlunun şikâyet yolu kalmamaktadır. Alacaklı ile icra memuru arasında kan bağı olmasına rağmen icra mahkemesi şikayetin hükümsüz olduğuna kanaat getirir ve icra dairesi tarafından icra prosedürlerine devam edilir.
+> [!Note]
+> İcra ve İflas Kanunu, Madde 340:
+>
+> 111 inci madde mucibince veya alacaklının muvafakati ile icra dairesinde kararlaştırılan borcu ödeme şartını, makbul bir sebep olmaksızın ihlal eden borçlunun, alacaklının şikâyeti üzerine, üç aya kadar tazyik hapsine karar verilir. Hapsin tatbikine 
+başlandıktan sonra borçlu borcun tamamını veya o tarihe kadar icra veznesine yatırmak zorunda olduğu meblağı öderse tahliye edilir; ödemelerini tekrar keserse, hakkında tazyik hapsine yeniden karar verilir. Ancak, bir borçtan dolayı tazyik hapsinin süresi üç ayı geçemez. 
+
+Diyelim ki takip süreci 2 ocak 2026'da icra tarafından başlatılmış olsun. Borçlu alacaklıya olan borcunu 1 eylül 2026 tarihinde 4 ay sonra 4 ocak 2027 tarihinde ödeyeceğini beyan etsin. Alacaklı da bunu kabul edip icra dairesine bildirsin. 4 ay sonra, 4 ocak 2027'de borçlu alacaklıya olan borcunu ödemezse alacaklı madde 340'ı öne sürüp borçlunun 3 aya kadar tazyik hapsi için icra mahkemesine şikayette bulunabilir. Fakat bu şikayet madde 347'de belirtildiği üzere 4 ocak 2028'den sonraki bir tarihte yapıldığı takdirde icra mahkemesince hükümsüzlük kararı verilecek, borçlu 3 aya kadar tayzik hapsine mahkum edilmeyecektir.
 
 
 
