@@ -22,7 +22,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[İcra Dairesi Personelinin Sorumlulukları](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-dairesi-personelinin-sorumluluklar%C4%B1)
 
-&nbsp;&nbsp;&nbsp;[İcra Daireleri Başkanlığı]()
+&nbsp;&nbsp;&nbsp;[İcra Daireleri Başkanlığı](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-daireleri-ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1)
 
 <a id="#cebri-icra"></a>
 ## Cebri İcra
