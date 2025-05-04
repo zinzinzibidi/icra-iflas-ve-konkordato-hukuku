@@ -250,5 +250,5 @@ Eğer icra takibi sırasında veya sonrasında icra dairesi personelinin kusurun
 
 
 
-[^1]: Dayanağı 
+[^1]: Dayanağı [2709 sayılı Türkiye Cumhuriyeti Anayasası](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf)'nın 129. maddesidir.
 
