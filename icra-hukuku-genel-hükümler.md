@@ -353,7 +353,7 @@ Diyelim ki Ahmet adlı biri Mehmet adlı farklı bir kişiden 100.000 TL borç a
 
 İcra ceza mahkemelerinin görev ve hükümlerini içeren on altıncı bap'ta icra dairesi aleyhine olan şikâyet hakkı, şikâyet konusu fiilin öğrenildiği tarihten itibaren 3 ay, fiilin işlendiği tarihten itibaren ise en fazla 1 yıl içinde düşmektedir.
 
-Örneğin; borçlu alacaklının kan bağı olduğu bir icra memurunun takip dosyası üzerinde çalıştığını öğrenirse 3 ay içerisinde icra mahkemesine şikâyet yoluna gidebilir ve icrayı durdurabilir. Eğer borçlu bu durumu takip başladıktan 1 sene sonra öğrenirse borçlunun şikâyet yolu kalmamaktadır. Alacaklı ile icra memuru arasından kan bağı olmasına rağmen icra mahkemesi şikayetin hükümsüz olduğuna kanaat getirir ve icra dairesi tarafından icra prosedürlerine devam edilir.
+Örneğin; borçlu alacaklının kan bağı olduğu bir icra memurunun takip dosyası üzerinde çalıştığını öğrenirse 3 ay içerisinde icra mahkemesine şikâyet yoluna gidebilir ve icrayı durdurabilir. Eğer borçlu bu durumu takip başladıktan 1 sene sonra öğrenirse borçlunun şikâyet yolu kalmamaktadır. Alacaklı ile icra memuru arasında kan bağı olmasına rağmen icra mahkemesi şikayetin hükümsüz olduğuna kanaat getirir ve icra dairesi tarafından icra prosedürlerine devam edilir.
 
 
 
