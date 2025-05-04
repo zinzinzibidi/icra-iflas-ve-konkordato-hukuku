@@ -180,7 +180,7 @@ Dosya numaraları takibin yapıldığı yılın numarası ile başlar. Ardından
     <img src="https://zinzinzibidi.com/img/github/uyap-vatandas-icra-dosya-sorgulama.jpg" alt="uyap vatandaş icra dosyası sorgulama (görsel)" style="width:600px" />
 </p>
 
-Ulusal Yargı Ağı Projesi'ne (UYAP'a) [uyap.gov.tr](https://uyap.gov.tr/) adresinden ulaşabilir, [vatandas.uyap.gov.tr](https://vatandas.uyap.gov.tr/) alt alan adından e-Devlet kullanıcı bilgileriniz ile giriş yaptığınızda hakkınızda açılan ya da borçlu tarafa açtığınız icra takip dosyasının olup olmadığını vatandaş statüsü ile sorgulayabilirsiniz.
+Ulusal Yargı Ağı Projesi'ne (UYAP'a) [uyap.gov.tr](https://uyap.gov.tr/) adresinden ulaşabilir, [vatandas.uyap.gov.tr](https://vatandas.uyap.gov.tr/) alt alan adından e-Devlet kullanıcı bilgileriniz ile giriş yaptığınızda hakkınızda açılan ya da borçlu tarafa açtığınız icra takip dosyası olup olmadığını vatandaş statüsü ile sorgulayabilirsiniz.
 
 <p align="center">
     <img src="https://zinzinzibidi.com/img/github/edevlet-vatandas-icra-dosya-sorgulama.jpg" alt="edevlet vatandaş icra dosyası sorgulama (görsel)" style="width:720px" />
