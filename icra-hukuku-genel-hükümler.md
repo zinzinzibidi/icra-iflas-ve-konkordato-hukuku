@@ -351,7 +351,9 @@ Diyelim ki Ahmet adlı biri Mehmet adlı farklı bir kişiden 100.000 TL borç a
 > 
 > Bu Bapta yer alan fiillerden dolayı şikâyet hakkı, fiilin öğrenildiği tarihten itibaren üç ay ve her halde fiilin işlendiği tarihten itibaren bir yıl geçmekle düşer.
 
-İcra ceza mahkemelerinin görev ve hükümlerini içeren on altıncı bap'ta da belirtildiği üzere icra dairesi aleyhine olan şikâyet hakkı şikayet konusu fiilin öğrenildiği tarihten itibaren 3 ay, fiilin işlendiği tarihten itibaren ise en fazla 1 yıl içinde düşmektedir. Örneğin; borçlu alacaklının kan bağı olduğu bir icra memurunun takip dosyası üzerinde çalıştığını öğrenirse 3 ay içerisinde icra mahkemesine şikayet yoluna gidebilir ve icrayı durdurabilir. Eğer borçlu bu durumu takip başladıktan 1 sene sonra öğrenirse borçlunun şikayet yolu kalmamaktadır. İcra süreci durdurulmadan takip sürecine devam edilir.
+İcra ceza mahkemelerinin görev ve hükümlerini içeren on altıncı bap'ta da belirtildiği üzere icra dairesi aleyhine olan şikâyet hakkı, şikâyet konusu fiilin öğrenildiği tarihten itibaren 3 ay, fiilin işlendiği tarihten itibaren ise en fazla 1 yıl içinde düşmektedir.
+
+Örneğin; borçlu alacaklının kan bağı olduğu bir icra memurunun takip dosyası üzerinde çalıştığını öğrenirse 3 ay içerisinde icra mahkemesine şikâyet yoluna gidebilir ve icrayı durdurabilir. Eğer borçlu bu durumu takip başladıktan 1 sene sonra öğrenirse borçlunun şikâyet yolu kalmamaktadır. İcra durdurulmadan takip sürecine devam edilir.
 
 
 
