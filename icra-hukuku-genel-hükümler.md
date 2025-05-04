@@ -101,5 +101,17 @@ tarafından görevlendirilecek mübaşir ve hizmetli bulunur.
 * Menfaati Olan İşleri Görememe
 * Menfaati Olan Sözleşme Yapamama
 
+#### Dosya ve Tutanak Düzenlemek
+
+İcra ve İflas Kanunu, Madde 8:
+
+> İcra ve iflas daireleri yaptıkları muamelelerle kendilerine vakı talep ve beyanlar hakkında bir tutanak yaparlar. Sözlü itirazlar ile talep ve beyanların altları ilgililer ve icra memuru veya yardımcısı veya katibi tarafından imzalanır.
+>  
+> İcra ve iflas dairelerince verilen kararlar gerekçeli olarak tutanaklara yazılır.
+>
+> İlgililer bu tutanakları görebilir ve bunların örneğini alabilir.
+>
+> İcra ve iflas dairelerinin tutanakları, hilafı sabit oluncaya kadar muteberdir.
+
 
 
