@@ -434,7 +434,9 @@ Kronolojik olarak dava sürelerini incelersek... İcra mahkemesinin aldığı bi
 >
 > Ancak haczolunacak miktar bunların dörtte birinden az olamaz. Birden fazla haciz var ise sıraya konur. Sırada önde olan haczin kesintisi bitmedikçe sonraki haciz için kesintiye geçilemez.
 
-Kanundan da anlaşılacağı üzere icra müdürü borçlunun tüm maaşını haczedemez. Borçlunun kendisinin ve ailesini geçimine yetecek maaş tutarını borçluya bıraktıktan sonra kalan paraya haciz uygulayabilir. 
+Kanundan da anlaşılacağı üzere icra müdürü borçlunun tüm maaşını haczedemez. Borçlunun kendisinin ve ailesini geçimine yetecek maaş tutarını borçluya bıraktıktan sonra kalan paraya haciz uygulayabilir. Borçlu icra müdürünün madde 83'e aykırı bir işlem yaptığını öne sürerse 7 gün içerisinde şikâyet hakkını kullanabilir ve icra mahkemesine şikâyet başvurusunda bulunabilir.
+
+Kimi durumlarda şikâyet süresizdir. Örneğin; icra müdürü takip talebini işleme koymaz ve alacaklının hakkını yerine getirmezse ya da kanunun öngördüğü şekilde üç gün içerisinde ödeme emrini düzenleyerek borçluya göndermezse ve alacaklının hakkını sürüncemede bıkarırsa şikâyet süreye tâbi değildir. 
 
 
 
