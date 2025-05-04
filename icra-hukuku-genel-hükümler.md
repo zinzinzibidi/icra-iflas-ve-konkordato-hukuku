@@ -3,8 +3,8 @@
 İlk çağlarda borç ilişkisinden kaynaklı sorunlar şiddet ve tehdit içerikli olaylarla çözülebilirken günümüz modern hukuku bu tür sorunların önüne geçebilmek, toplumda oluşabilecek husumet ve kargaşayı önleyebilmek adına alacak davalarının medeni kurallar dahilinde sonuca bağlanması amacıyla vardır. Örneğin; Roma Hukuku döneminde *manus iniectio* (el koyma) hükümleri gereği borçlu, borcunu ödemezse alacaklı onu zincire vurup köle olarak çalıştırabilirdi. Günümüzde alacak davası yüzünden borçluyu zincire vurup köle olarak çalıştırmak 5237 sayılı Türk Ceza Kanunu (TCK) hükümlerince suç kabul edilmekte, buna rağmen alacaklının alacağını temin edebilmesi için de İcra ve İflas Kanunu'na (İİK) başvurabileceğini belirtmektedir.
 
 ## Bölümler
-
-(Başa dönmek için klavyenizdeki Sol CTRL tuşu basılı iken Home tuşuna basabilirsiniz.)
+> [!Tip]
+> En başa dönmek için klavyenizdeki Sol CTRL tuşu basılı iken Home tuşunu kullanabilirsiniz.
 
 &nbsp;[Cebri İcra](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#cebri-i%CC%87cra)
 
