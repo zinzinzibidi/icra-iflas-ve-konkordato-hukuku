@@ -233,4 +233,22 @@ Diğer bir örnek: Takip konusu alacaklı icra dosyasına bakan personelin babas
 
 "Tetkik" inceleme, araştırma, "akit" sözleşme anlamına gelmektedir. İİK'nun 11. maddesinde açıkça belirtildiği üzere icra nedeniyle muhafaza edilen eşyalar üzerinde icra personeli, kendilerinin taraf olduğu alım satım sözleşmesi dahil hiçbir menfaat sözleşmesi yapamazlar. Bu sözleşmeleri başkası adına dahi yapamazlar.
 
+#### İcra Dairesi Personelinin Sorumlulukları
+
+Hukuki, cezai ve disiplin olmak üzere 3 sorumluluğu bulunmaktadır.
+
+> [!Note]
+> İcra ve İflas Kanunu, Madde 5:
+>
+> İcra ve İflas Dairesi görevlilerinin kusurlarından doğan tazminat davaları, ancak idare aleyhine açılabilir. Devletin, zararın meydana gelmesinde kusuru bulunan görevlilere rücu hakkı saklıdır. Bu davalara adliye mahkemelerinde bakılır.
+
+Eğer icra takibi sırasında veya sonrasında icra dairesi personelinin kusurundan kaynaklanan maddi bir hata durumu varsa dava doğrudan icra personeline açılmaz, Adalet Bakanlığı aleyhine adliye mahkemesinde açılır. Normal şartlar altında [2577 sayılı İdari Yargılama Usulü Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2577.pdf) (İYUK)[^1] uyarınca, icra dairesi personeli dahil devlet memurlarının görevleri sırasında verdikleri zararlardan dolayı açılacak tazminat davaları, idari yargı kapsamında idare mahkemelerinde açılırken İcra ve İflas Kanunu bu davaların idare mahkemeleri yerine adliye mahkemelerinde açılabileceği ayrımına gitmiştir.
+
+
+
+
+
+
+
+[^1]: Dayanağı 
 
