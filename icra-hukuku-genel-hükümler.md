@@ -244,6 +244,23 @@ Hukuki, cezai ve disiplin olmak üzere 3 sorumluluğu bulunmaktadır.
 
 Eğer icra takibi sırasında veya sonrasında icra dairesi personelinin kusurundan kaynaklanan maddi bir hata durumu varsa dava doğrudan icra personeline açılmaz, Adalet Bakanlığı aleyhine adliye mahkemesinde açılır. Normal şartlar altında [2577 sayılı İdari Yargılama Usulü Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2577.pdf) (İYUK)[^1] uyarınca, icra dairesi personeli dahil devlet memurlarının görevleri sırasında verdikleri zararlardan dolayı açılacak tazminat davaları, idari yargı kapsamında idare mahkemelerinde açılırken İcra ve İflas Kanunu bu davaların idare mahkemeleri yerine adliye mahkemelerinde açılabileceği ayrımına gitmiştir.
 
+Adliye mahkemelerinden kasıt hukuk davalarına bakan
+
+* Asliye Hukuk Mahkemesi
+* Sulh Hukuk Mahkemesi
+* Ticaret Mahkemesi
+
+ile ceza davalarına bakan
+
+* Asliye Ceza Mahkemesi
+* Sulh Ceza Mahkemesi
+* Ağır Ceza Mahkemesi
+
+'dir. Fakat icra mahkemeleri, icra ve iflas işlemlerinden doğan uyuşmazlıklara bakan özel bir adliye mahkemesi statüsünde olduğu için icra dairesi personelinin kusurundan kaynaklanan maddi hata durumunda sadece icra mahkemesine başvurulabilir. Asliye Hukuk, Sulh Hukuk gibi diğer adliye mahkemelerine başvurulamaz.
+
+> [!Tip]
+> Tüketici mahkemeleri de icra mahkemesi gibi özel mahkeme statüsündedir. Bu mahkemelerde tüketici haklarına ilişkin davalar görülür.
+
 
 
 
