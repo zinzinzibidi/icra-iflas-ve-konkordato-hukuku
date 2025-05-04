@@ -137,7 +137,7 @@ mühürlenir.
 >
 > Elektronik işlemlerin Ulusal Yargı Ağı Bilişim Sistemi vasıtasıyla yapılmasına dair usul ve esaslar, Adalet Bakanlığı tarafından çıkarılan yönetmelikle düzenlenir.
 
-Test
+Her türlü icra ve iflas işlemlerinde 2012 yılındandan itibaren kullanılmaya başlanan Ulusal Yargı Ağı Bilişim Sistemi (UYAP Bilişim Sistemi) icra ve iflas tutanak ve dosyalarının fiziki olarak hazırlansa bile elektronik ortamda saklanmasını zorunlu kılmıştır. 8. maddede zorunlu hallerde ıslak imza kullanılsa bile elektronik imzaların atılacağı ve bu imzaların ıslak imzalar ile aynı hükümde olacağı vurgulanmıştır.
 
 
 
