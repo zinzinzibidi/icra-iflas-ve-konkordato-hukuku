@@ -443,18 +443,20 @@ Kanununda ayrıca "sigortalar veya tekaüt sandıkları tarafından tahsis edile
 
 Kimi durumlarda ise şikâyet süresizdir. Örneğin; icra müdürü takip talebini işleme koymaz ve alacaklının hakkını yerine getirmezse ya da kanunun öngördüğü şekilde 3 gün içerisinde ödeme emrini düzenleyerek borçluya göndermez ve alacaklının hakkını sürüncemede bıkarırsa şikâyet süreye tâbi değildir.
 
-## Şikâyet Yolları
+### Şikâyet Yolları
 
 * Dilekçeyle doğrudan icra mahkemesine
 * Sözlü olarak beyan edilmesi ile ve icra mahkemesinde tutanak tutulmasıyla
 * Elektronik ortamda UYAP üzerinden
 
-olmak üzere üç farklı şekilde yapılabilmektedir. Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe ile yapılabilmesidir.
+olmak üzere üç farklı şekilde yapılabilmektedir.
+
+Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe ile yapılabilmesidir.
 
 >[!Tip]
 > Kambiyo senetlerinden kasıt poliçe (bono), banka çeki ya da emre yazılı borç senedidir. [6102 sayılı Türk Ticaret Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6102.pdf)'nun 670 inci maddesinden itibaren kambiyo senetleri anlatılmaktadır.
 
-
+### Şikâyet Başvurularının İcra Mahkemesince İncelenmediği Durummlar
 
 
 
