@@ -346,7 +346,7 @@ Kanunda belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının 
 >
 > Bu suç alacaklının şikâyeti üzerine takip olunur. Borçluyu fazla borç altına girmeye veya talih oyunu ile spekülasyonlarda bulunmaya sevk etmiş yahut ağır faiz almak suretiyle zaafından istifade etmiş olan alacaklıların şikâyet hakkı yoktur.
 
-Diyelim ki Ahmet adlı biri Mehmet adlı farklı bir kişiden 100.000 TL borç almış olsun. Ahmet, Mehmet'ten aldığı 100.000 TL'yi Mehmet'in icra takibi başlatmasından bir sene önce özel bir yatırım şirketine yatırsın ve kaldıraçlı işlem yapsın. Ahmet kaldıraçlı işlem sonrası yatırdığı tüm parayı kaybetsin. Eğer Mehmet'in elinde icra sonrası verilen aciz belgesi varsa Mehmet ya da vekili, icra mahkemesine bu belgeyi ibraz edip, kendisinden alınan borç para ile basiretsizce spükalatif bir işlem yapıldığını öne sürerek on beş günden altı aya kadar hapis cezası alması amacıyla Ahmet aleyhine dava açabilir.
+Diyelim ki Ahmet adlı biri Mehmet adlı kişiden 100.000 TL borç almış olsun. Ahmet, Mehmet'ten aldığı 100.000 TL'yi Mehmet'in icra takibi başlatmasından bir sene önce özel bir yatırım şirketine yatırsın ve kaldıraçlı işlem yapsın. Ahmet kaldıraçlı işlem sonrası yatırdığı tüm parayı kaybetsin. Eğer Mehmet'in elinde icra sonrası verilen aciz belgesi varsa Mehmet ya da vekili, icra mahkemesine bu belgeyi ibraz edip, kendisinden alınan borç para ile basiretsizce spükalatif bir işlem yapıldığını öne sürerek on beş günden altı aya kadar hapis cezası alması amacıyla Ahmet aleyhine dava açabilir.
 
 > [!Note]
 > İcra ve İflas Kanunu, Madde 347:
