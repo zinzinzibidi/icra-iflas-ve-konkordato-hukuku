@@ -78,7 +78,21 @@ Cebri icranın birinci derece görevli kurumudur.
 icra müdür yardımcısı, icra katibi ile adli yargı ilk derece mahkemesi adalet komisyonları 
 tarafından görevlendirilecek mübaşir ve hizmetli bulunur. 
 
-İcra dairelerine ilk maddede değinilmesinden de anlaşılacağı üzere tüm icra konularında en önemli görevi icra daireleri yürütmektedir. 
+İcra dairelerine ilk maddede değinilmesinden de anlaşılacağı üzere tüm icra konularında en önemli görevi icra daireleri yürütmektedir.
+
+### İcra Dairesinin Temel Görevleri
+
+* Ödeme emri düzenleyip borçluya göndermek
+* Borçlunun mallarının haczedilmesi
+* Haczedilen malın paraya çevrilmesi
+* Paraya çevrilen para ile alacaklının alacağının ödenmesi
+* Konusu paradan başka şey olan ilamların icra edilmesi
+
+### İcra Dairesinin Yetkileri
+
+* Her makam ile doğrudan yazışabilir ve bilgi isteyebilir.
+* Gerekirse zor kullanabilir.
+* Yetkisi dışındaki işlemler için başka icra daireleri ile istinabe edebilir.
 
 ### İcra Dairelerinin Yükümlülükleri
 
