@@ -169,7 +169,7 @@ Cebri icranın birinci derece görevli kurumudur.
 
 2012 yılından itibaren kullanılması zorunlu olan Ulusal Yargı Ağı Projesi Bilişim Sistemi (UYAP Bilişim Sistemi) ile icra ve iflas tutanak ve dosyaları fiziki olarak hazırlansa bile bu dosyaların elektronik ortamda saklanmasını zorunlu kılmıştır. Kanunun 8 inci maddesinde elektronik imzaların öncelik olması gerektiği, elektronik imzaların atılamadığı durumlarda ıslak imzalı belgelerin UYAP Bilişim Sistemi'ne aktarılması gerektiği belirtilmiştir.
 
-Dosya numaraları takibin yapıldığı yılın numarası ile başlar. Ardından sıra numarası eklenir. Örneğin; 2027/1424 sayılı Takip Dosyası.<br>
+Dosya numaraları takibin yapıldığı yılın numarası ile başlar. Ardından sıra numarası eklenir. Örneğin; 2027/1424 sayılı İcra Dosyası.<br>
 2027 takibin yapıldığı yılı, 1424 ise bu yıldaki 1424. takip dosyasını belirtmektedir.
 
 > [!Tip]
