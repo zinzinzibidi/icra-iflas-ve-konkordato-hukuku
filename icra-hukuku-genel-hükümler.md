@@ -24,6 +24,8 @@
 
 &nbsp;&nbsp;&nbsp;[İcra Daireleri Başkanlığı](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-daireleri-ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1)
 
+&nbsp;&nbsp;&nbsp;[İcra Mahkemesi]()
+
 <a id="#cebri-icra"></a>
 ## Cebri İcra
 
@@ -299,6 +301,18 @@ Son olarak icra dairesi personeli işini bilerek sürüncemede bırakırsa ya da
 Kanunda belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının fazla olduğu illerde Adalet Bakanlığınca icra daireleri başkanlığı kurulabilir. Başkanlığın başında görevini yapacağını muvafakat eden (kabul eden) hakim ya da savcı, "... icra daireleri başkanı" başkanı sıfatıyla görevini sürdürür. Başkanlığın asıl görevi icra dairelerinin işlerini gözetmek ve denetlemektir. Bu nedenle alacaklı icra takibini icra dairesi başkanlığında başlatamaz. Takibin icra dairesince başlatılması esastır.
 
 İcra daireleri başkanlık listesi için [tıklayınız](https://iidb.adalet.gov.tr/Home/SayfaDetay/icra-daireleri-baskanliklari).
+
+### İcra Mahkemesi
+
+İcra dairelerinin icra sürecindeki işlemlerin hukuka uygun olup olmadığnı denetlemekle görevli temel cebri icra kurumundan biridir.
+
+> [!Note]
+> İcra ve İflas Kanunu, Madde 4:
+>
+> İcra ve iflâs dairelerinin muamelelerine karşı yapılan şikâyetlerle itirazların incelenmesi icra mahkemesi hâkimi yahut kanun gereğince bu görev kendisine verilmiş olan hâkim tarafından yapılır. İş durumunun gerekli kıldığı yerlerde Hâkimler ve Savcılar Yüksek Kurulunun olumlu görüşü ile Adalet Bakanlığınca icra mahkemesinin birden fazla dairesi kurulabilir. Bu durumda icra mahkemesi daireleri numaralandırılır. İcra mahkemesinin birden fazla dairesi bulunan yerlerde iş dağılımı ve buna ilişkin esaslar, Hâkimler ve Savcılar Yüksek Kurulunca belirlenir. Her icra mahkemesi hâkimi, kendisine Adlî Yargı Adalet Komisyonu Başkanlığınca dönüşümlü olarak bağlanan icra ve iflâs dairelerinin muamelelerine yönelik şikâyetleri ve itirazları inceler, icra daireleri başkanlığı kurulmayan yerlerde bu dairelerin gözetim ve denetimlerini yapar, idarî işlerine bakar.
+>
+> İcra yetkisini haiz sulh mahkemelerinin muamelelerine karşı vuku bulacak şikayet ve itirazların icra mahkemesi o mahkemenin hakimidir. 
+
 
 
 
