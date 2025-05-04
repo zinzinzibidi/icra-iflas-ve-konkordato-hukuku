@@ -143,17 +143,32 @@ Meydana gelmek.
 
 ### İntifa Hakkının Özellikleri
 
-* Konusu: Taşınır veya taşınmaz mallar (ev, arazi, araba, hisse senedi vb.) olabilir.
+Konusu: Taşınır veya taşınmaz mallar (ev, arazi, araba, hisse senedi vb.) olabilir.
 
-* Sahibi (İntifa Hakkı Sahibi): Malı kullanma, kiraya verme veya ürünlerinden yararlanma yetkisine sahiptir, ancak mülkiyet hakkı malikin (asıl sahibin) elinde kalır.
+Sahibi (İntifa Hakkı Sahibi): Malı kullanma, kiraya verme veya ürünlerinden yararlanma yetkisine sahiptir, ancak mülkiyet hakkı malikin (asıl sahibin) elinde kalır.
 
-* Süresi:
+Süresi:
 
-| * Kişi lehine kurulmuşsa, intifa hakkı sahibinin ölümüyle sona erer.
+* Kişi lehine kurulmuşsa, intifa hakkı sahibinin ölümüyle sona erer.
+* Belirli bir süre için kurulmuşsa, süre dolunca biter.
+* TMK’ya göre en fazla 30 yıl için tesis edilebilir (TMK m.796).
 
-| * Belirli bir süre için kurulmuşsa, süre dolunca biter.
+### İntifa Hakkı Nasıl Kurulur?
 
-| * TMK’ya göre en fazla 30 yıl için tesis edilebilir (TMK m.796).
+* Taşınmazlar için: Tapu siciline şerh verilerek (tapu müdürlüğünde resmi işlemle)
+* Taşınırlar için: Zilyetliğin devri veya sözleşmeyle
+
+### Hangi Durumlarda Sona Erer?
+
+* İntifa hakkı sahibinin ölümü (şahsa bağlı bir hak olduğu için)
+* Sürenin dolması
+* Malın tamamen yok olması
+* Tarafların anlaşması veya feragat
+
+### İntifa Hakkına Örnekler 
+
+* Bir babanın evini çocuğuna devretmesi, ancak kendisinin ölümüne kadar kira gelirini almaya devam etmesi
+* Bir şirketin hisselerinin gelirinin belirli bir kişiye bırakılması
 
 <a id="istihkak-davasi"></a>
 ## İstihkak Davası
