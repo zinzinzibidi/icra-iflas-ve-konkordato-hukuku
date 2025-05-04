@@ -34,7 +34,7 @@
 
 &nbsp;&nbsp;&nbsp;[Şikâyet Yolları](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#%C5%9Fik%C3%A2yet-yollar%C4%B1)
 
-&nbsp;&nbsp;&nbsp;[Şikâyet Başvurularının İcra Mahkemesince İncelenmediği Haller]( 
+&nbsp;&nbsp;&nbsp;[Şikâyet Başvurularının İcra Mahkemesince İncelenmediği Haller](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#%C5%9Fik%C3%A2yet-ba%C5%9Fvurular%C4%B1n%C4%B1n-i%CC%87cra-mahkemesince-i%CC%87ncelenmedi%C4%9Fi-haller) 
 
 
 
