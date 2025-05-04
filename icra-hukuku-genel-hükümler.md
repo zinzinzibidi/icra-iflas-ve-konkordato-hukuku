@@ -440,7 +440,7 @@ Kanundan da anlaşılacağı üzere icra müdürü borçlunun tüm maaşını ha
 
 Kanununda ayrıca "sigortalar veya tekaüt sandıkları tarafından tahsis edilen iratlar" hükmü dikkat çekicidir. İcra müdürünün kanunun elverdiği ölçüde borçlunun bireysel emeklilik sisteminde ya da emekli sandığında bulunan birikimleri üzerine de haciz koyma yetkisi bulunmaktadır.
 
-Kimi durumlarda şikâyet süresizdir. Örneğin; icra müdürü takip talebini işleme koymaz ve alacaklının hakkını yerine getirmezse ya da kanunun öngördüğü şekilde 3 gün içerisinde ödeme emrini düzenleyerek borçluya göndermez ve alacaklının hakkını sürüncemede bıkarırsa şikâyet süreye tâbi değildir. 
+Kimi durumlarda ise şikâyet süresizdir. Örneğin; icra müdürü takip talebini işleme koymaz ve alacaklının hakkını yerine getirmezse ya da kanunun öngördüğü şekilde 3 gün içerisinde ödeme emrini düzenleyerek borçluya göndermez ve alacaklının hakkını sürüncemede bıkarırsa şikâyet süreye tâbi değildir. 
 
 
 
