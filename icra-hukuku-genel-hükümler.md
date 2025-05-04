@@ -379,7 +379,7 @@ Diyelim ki takip süreci başlatılmış olsun. Borçlu alacaklıya olan borcunu
 >
 > İstinaf yoluna başvuru satıştan başka icra işlemlerini durdurmaz. İcranın devamı için gereken evrak alıkonularak bunların birer örneği bölge adliye mahkemesine gönderilecek dosyaya konulur.
 
-363 üncü ve bir sonraki 364 üncü madde borçlu ve alacaklıyı icra mahkemesi kararlarına karşı korumak için vardır. Eğer davayı kaybeden taraf icra mahkemesi kararının hatalı olduğunu öne sürüyorsa kararın açıklandığı tarihten itibaren iki hafta içerisinde bölge adliye mahkemesine istinaf yoluna gidilebilir ve istinaf davası açılabilir. İstinaf "mahkemenin verdiği kararı kabul etmeyerek bir üst mahkemeye götürme" anlamına gelmektedir. Bölge adliye mahkemesi istinaf davalarını borçluyu ve alacaklıyı duruşma salonuna çağırarak baştan başlatmaz. İcra mahkemesinin dava dosyasını dosya üzerinden inceler ve hukuka uygun olup olmadığını inceler.
+363 üncü ve bir sonraki 364 üncü madde borçlu ve alacaklıyı icra mahkemesi kararlarına karşı korumak için vardır. Eğer davayı kaybeden taraf icra mahkemesi kararının hatalı olduğunu öne sürüyorsa kararın açıklandığı tarihten itibaren iki hafta içerisinde bölge adliye mahkemesine istinaf yoluna gidilebilir ve istinaf davası açılabilir. İstinaf, "mahkemenin verdiği kararı kabul etmeyerek bir üst mahkemeye götürme" anlamına gelmektedir. Bölge adliye mahkemesi hakimi istinaf davalarına taraf olan borçlu ve alacaklıyı duruşma salonuna çağırarak icra mahkemesinin sonlandırdığı davayı baştan başlatmaz. İcra mahkemesinin dava dosyasını dosya üzerinden inceler ve hukuka uygun olup olmadığını inceler.
 
 ### Yargıtay'ın İlgili Daireleri
 
