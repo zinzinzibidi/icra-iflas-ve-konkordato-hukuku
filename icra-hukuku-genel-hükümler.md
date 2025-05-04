@@ -313,7 +313,7 @@ Kanunda belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının 
 
 ### İcra Mahkemesi
 
-İcra dairelerinin icra sürecindeki işlemlerinin hukuka uygun olup olmadığnı denetlemekle görevli temel cebri icra kurumundan biridir.
+İcra dairelerinin icra sürecindeki işlemlerinin hukuka uygun olup olmadığını denetlemekle görevli temel cebri icra kurumundan biridir.
 
 > [!Note]
 > İcra ve İflas Kanunu, Madde 4:
@@ -333,7 +333,7 @@ Kanunda belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının 
 
 #### İcra Ceza Mahkemesi
 
-İcra mahkemelerinin icra ve iflas suçlarına "icra ceza mahkemesi" sıfatıyla bakabildiğini İcra ve İflas Kanunu'un on altıncı bap'ında bulunan 331 ve 354 arasındaki maddelerde görebilmekteyiz.
+İcra mahkemelerinin icra ve iflas suçlarına "icra ceza mahkemesi" sıfatıyla bakabildiğini kanunun on altıncı bap'ını oluşturan 331 ve 354 arasındaki maddelerde görebilmekteyiz.
 
 Örnek vermek gerekirse
 
