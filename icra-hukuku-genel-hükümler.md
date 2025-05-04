@@ -280,7 +280,9 @@ Eğer icra mahkemesi davacıyı haklı bulursa tazminat tutarı için personele 
 >
 > İcra ve iflas memur ve yardımcılarının disiplin cezasını gerektiren fiil ve hallerinden dolayı, haklarında Devlet Memurları Kanununun disiplin cezalarına ilişkin hükümleri uygulanır.
 
-Son olarak icra dairesi personeli işini bilerek sürüncemede bırakırsa ya da geçerli bir sebep olmadan işini yapmaktan kaçınırsa [657 sayılı Devlet Memurları Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf)'nun hükümleri doğrultusunda personele disiplin cezası uygulanır. Disiplin sorumluluğunu icra dairesi personelinin üç temel sorumluluğundan biridir ve idari ve disiplin sorumlulukları icra daireleri başkanlığı tarafından gözetilir.
+Son olarak icra dairesi personeli işini bilerek sürüncemede bırakırsa ya da geçerli bir sebep olmadan işini yapmaktan kaçınırsa [657 sayılı Devlet Memurları Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf)'nun hükümleri doğrultusunda personele disiplin cezası uygulanır. Disiplin sorumluluğunu icra dairesi personelinin üç temel sorumluluğundan biridir.
+
+İdari ve disiplin sorumlulukları icra daireleri başkanlığı tarafından gözetilir.
 
 ### İcra Daireleri Başkanlığı
 
