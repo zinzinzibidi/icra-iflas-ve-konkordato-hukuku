@@ -4,6 +4,8 @@
 
 ## Bölümler
 
+(Başa dönmek için klavyenizdeki Sol CTRL tuşu basılı iken Home tuşuna basabilirsiniz.)
+
 &nbsp;[Cebri İcra](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#cebri-i%CC%87cra)
 
 &nbsp;[İcra ve İflas Hukukunun Dayanağı](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-ve-i%CC%87flas-hukukunun-dayana%C4%9F%C4%B1)
