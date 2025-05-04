@@ -1,5 +1,3 @@
-<img src="https://zinzinzibidi.com/img/tweaks-fonts.png" alt="fedora scale" style="width:600"/>
-
 # İcra Hukuku - Genel Hükümler
 
 İlk çağlarda borç ilişkisinden kaynaklı sorunlar şiddet ve tehdit içerikli olaylarla çözülebilirken günümüz modern hukuku bu tür sorunların önüne geçebilmek, toplumda oluşabilecek husumet ve kargaşayı önleyebilmek adına alacak davalarının medeni kurallar dahilinde sonuca bağlanması amacıyla vardır. Örneğin; Roma Hukuku döneminde *manus iniectio* (el koyma) hükümleri gereği borçlu, borcunu ödemezse alacaklı onu zincire vurup köle olarak çalıştırabilirdi. Günümüzde alacak davası yüzünden borçluyu zincire vurup köle olarak çalıştırmak 5237 sayılı Türk Ceza Kanunu (TCK) hükümlerince suç kabul edilmekte, buna rağmen alacaklının alacağını temin edebilmesi için de İcra ve İflas Kanunu'na (İİK) başvurabileceğini belirtmektedir.
@@ -146,6 +144,8 @@ Dosya numaraları takibin yapıldığı yılın numarası ile başlar. Ardından
 
 > [!Tip]
 > Bu noktada "tutanak" ile "dosya" arasındaki farkı belirtmekte fayda var. Tutanak, alacaklı ile icra dairesi arasındaki beyanları içeren yazılı belgedir. Dosya ise takibin başlaması ile birlikte icra dairesi ile borçlu arasındaki belgeleri içerir. Bu nedenle tutanak aynı zamanda takip dosyasının ayrılmaz bir parçasıdır.
+
+<img src="https://zinzinzibidi.com/img/github/uyap-vatandas-icra-dosya-sorgulama.jpg" alt="uyap vatandaş icra dosyası sorgulama (görsel)" style="width:400"/>
 
 Ulusal Yargı Ağı Projesi'ne (UYAP'a) [uyap.gov.tr](https://uyap.gov.tr/) adresinden ulaşabilir, [vatandas.uyap.gov.tr](https://vatandas.uyap.gov.tr/) alt alan adından e-Devlet kullanıcı bilgileriniz ile giriş yaptığınızda hakkınızda açılan ya da borçlu tarafa açtığınız icra takip dosyasının olup olmadığını vatandaş statüsü ile sorgulayabilirsiniz.
 
