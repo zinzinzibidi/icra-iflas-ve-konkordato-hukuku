@@ -174,4 +174,20 @@ talimat gereği yapılır. Talimat, paranın icra ve iflas dairesi hesabına yat
 
 Örneğin; A Bankasında borçlunun 10.000 TL tutarlı bir Vadesiz TL, 300.000 TL ve 400.000 TL tutarlı iki farklı Vadeli TL mevduat hesabı olduğunu varsayalım. İcra dairesinden 100.000 TL tutarlı e-Haciz bildirimi bankaya ulaştığında A Bankasının operasyon personeli 300.000 TL tutarlı vadeli mevduat hesabının 100.000 TL'lik kısmına bloke koyar. Bu şekilde borçlunun 300.000 TL bakiyeli vadeli mevduat hesabının sadece 200.000 TL'lik kısmı kullanılabilir olur. Borçlu bu 200.000 TL'lik kullanılabilir bakiye ile isterse vadeli mevduat hesabından para çekebilir, isterse de hesaba para yatırabilir. e-Haciz nedeniyle blokeye alınan 100.000 TL ile banka personeli dahil kimse bankacılık işlemleri yapamaz. Özetle, borçlunun tüm hesaplarına bloke koyulmaz. Sadece takip konusu borç tutarı kadar bloke uygulanır. İcra müdürünün maddi hatası olması durumunda şikâyet yoluna başvurulabilir.
 
+#### Menfaati Olan İşleri Görememe
+
+İcra dairesi personelinin icra konusu ile ilgili menfaatinin olması durumunda uygulanacak esasları belirtir.
+
+> [!Note]
+> İcra ve İflas Kanunu, Madde 10:
+> İcra ve iflas işlerine bakan memur ve müstahdemler
+> 1. Kendisinin,
+> 2. Karı veya kocasının, nişanlısının yahut kan ve sıhri usul ve füruunun veya üçüncü derece dahil olmak üzere bu dereceye kadar olan kan ve sıhri civar hısımlarının,
+> 3. Kanuni mümessili veya vekili yahut müstahdemi bulunduğu bir şahsın,
+> 
+> Menfaati olan işleri göremeyip derhal icra mahkemesine haber vermeye mecburdur. 
+İcra mahkemesi müracaatı yerinde görürse o işi diğer bir memura, bulunmıyan yerlerde 
+katiplerinden birine verir. 
+
+
 
