@@ -224,7 +224,7 @@ Diğer bir örnek: Takip konusu alacaklı icra dosyasına bakan personelin babas
 
 ##### Menfaati Olan Sözleşme Yapamama
 
-İcra personeli takip konusu dosya üzerinde kendilerine yararı olan sözleşmeler yapamamaktadır.
+İcra dairesi personeli takip konusu dosya üzerinde kendisine yararı olan sözleşmeler yapamamaktadır.
 
 > [!Note]
 > İcra ve İflas Kanunu, Madde 11:
