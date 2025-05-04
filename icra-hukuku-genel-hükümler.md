@@ -34,7 +34,9 @@
 
 &nbsp;&nbsp;&nbsp;[Şikâyet Yolları](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#%C5%9Fik%C3%A2yet-yollar%C4%B1)
 
-&nbsp;&nbsp;&nbsp;[Şikâyet Başvurularının İcra Mahkemesince İncelenmediği Haller](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#%C5%9Fik%C3%A2yet-ba%C5%9Fvurular%C4%B1n%C4%B1n-i%CC%87cra-mahkemesince-i%CC%87ncelenmedi%C4%9Fi-haller) 
+&nbsp;&nbsp;&nbsp;[Şikâyet Başvurularının İcra Mahkemesince İncelenmediği Haller](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#%C5%9Fik%C3%A2yet-ba%C5%9Fvurular%C4%B1n%C4%B1n-i%CC%87cra-mahkemesince-i%CC%87ncelenmedi%C4%9Fi-haller)
+
+&nbsp;&nbsp;&nbsp;[Şikâyetin Sonuçlanması](
 
 
 
@@ -464,7 +466,7 @@ Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe i
 
 ### Şikâyet Başvurularının İcra Mahkemesince İncelenmediği Haller
 
-* Konkordato komiserinin mühlet içinde konkordatoya ilişkin işlemleriyle ilgili şikâyetler komiseri görevlendiren asliye ticaret mahkemesi tarafından kesin olarak karara bağlanır. (İİK, Md. 290/4)
+* Konkordato komiserinin mühlet içinde konkordatoya ilişkin işlemleriyle ilgili şikâyetler komiseri görevlendiren asliye ticaret mahkemesi tarafından kesin olarak karara bağlanır. (İİK, md. 290/4)
 * Ortaklığın satış suretiyle giderilmesine ilişkin işlemlere karşı yöneltilecek şikâyetler ortaklığın giderilmesine karar vermeiş olan sulh hukuk mahkemesi tarafından incelenir.
 * Terekinin iflas hükümlerine göre tasfiyesinde tasfiye memurlarının işlemlerine karşı yapılacak şikayetler sulh hukuk mahkemesi tarafındann incelenir.
 * ihtiyati tedbir kararının uygulanmasına ilişkin şikâyetler ihtiyati tedbir kararını vermiş olan mahkeme tarafından incelenir.[^3] 
@@ -476,6 +478,21 @@ Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe i
 > * Keşif ya da bilirkişi incelemesine ihtiyaç duyulan hallerde
 > 
 > şikâyet başvurularının duruşmalı olarak incelenmesi gerektiğini içtihat etmiştir.[^4]
+
+### Şikâyetin Sonuçlanması
+
+Şikâyet başvuruları icra mahkemesi tarafından
+
+* Hükümsüz bulunabilir.
+* Kabul edilebilir ve şikâyet konusu iptal edilebilir. Örneğin; icra müdürü haczi kabul olmayan bir malı haczetmişse haciz işlemi iptal edilir. Somut bir örnek vermek gerekirse haciz sırasında evde bulunan altın bilezik borçlu yerine borçlunun annesine aitse şikâyet sonrası altın bilezik borçluya iade edilir.
+* Kabul edilebilir ve şikâyet konusu düzeltilebilir. Örneğin; borçlunun banka hesabında 400.000 TL'si olmasına rağmen alacak konusu 200.000 TL yerine 100.000 TL haczedilirse ve borçlunun banka hesabına sadece 100.000 TL bloke konulursa alacaklı bu durumu icra mahkemesine şikâyet yoluyla bildirebilir ve mahkeme tarafından bloke konulacak tutarı 200.000 TL olarak düzelttirebilir. Aynı şekilde 200.000 TL yerine 300.000 TL haczedilirse, borçlu icra mahkemesine şikâyet yoluyla durumu bildirir. Haciz nedeniyle blokeye alınan 300.000 TL tutarının 100.000 TL'sini icra mahkemesi tarafından kullandırabilir hâle getirebilir.
+* Kabul edilebilir ve şikâyet konusu işlemin derhal yerine getirilmesi emredilebilir. Örneğin; icra memuru takibin başlatılması için 3 gün içerisinde ödeme emrini borçluya göndermezse alacaklı bu durumu icra mahkemesine şikâyet yoluyla bildirebilir. Mahkeme icra müdürünün sürüncemede bıraktığı işlemin yapılmasını emreder.
+
+>[!Tip]
+> İcra müdürününün icra mahkemesinin kararlarına karşı direnme yetkisi bulunmamaktadır.
+
+
+
 
 
 
