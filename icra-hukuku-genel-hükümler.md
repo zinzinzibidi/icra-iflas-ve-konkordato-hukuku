@@ -275,7 +275,7 @@ ile ceza davalarına bakan
 
 Eğer icra mahkemesi davacıyı haklı bulursa tazminat tutarı için personele rücu edilebilir. Diğer bir ifade ile dava konusu tutar personelin banka hesabındaki bakiyeden alınabilir ya da yeterli bakiye yoksa mal varlığına ya da maaşının belirli bir kısmına haciz koyulabilir. Ya da hiçbir şekilde personele rücu edilmez fakat tazminat tutarı Adalet Bakanlığının yedek akçelerinden davacıya ödendikten sonra personele kınama cezası verilebilir. İİK'nun 5. maddesindeki "Devletin, zararın meydana gelmesinde kusuru bulunan görevlilere rücu hakkı saklıdır." ifadesinde bu iki olasılıktan birinin gerçekleşebileceği anlaşılmaktadır.
 
-Şu ana kadar icra dairesi personelinin hukuki sorumluluğuna değindik. İcra dairesi personeli malların haczi sırasında borçlu ile fiziki olarak kavga etti diyelim. Borçlu tarafından da darp raporu alınmış olsun. Bu gibi durumda icra konusu borçlu, personeli dava etmek için icra mahkemesi yoluna başvurabilir. Bu ise icra dairesi personelinin cezai sorumluluğu olduğunu gösterir.
+Şu ana kadar icra dairesi personelinin hukuki sorumluluğuna değindik. İcra dairesi personeli malların haczi esnasında borçlu ile fiziki olarak kavga etti diyelim. Borçlu tarafından da darp raporu alınmış olsun. Eğer icra memuru görevini kötüye kullanarak kasıtlı bir eylemde bulunduysa, hem cezai hem idari sorumluluğu doğar. Cezai sorumluğunu ilgilendiren davaya asliye ceza mahkemesinde ya da sulh ceza mahkemesinde bakılır. İdari sorumluluğunu ilgilendiren davaya ise personelin bağlı bulunduğu idare mahkesinde görülür.
 
 > [!Note]
 > İcra ve İflas Kanunu, Madde 13:
