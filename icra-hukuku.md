@@ -39,7 +39,7 @@ Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adl
 * Yargıtay Kararları
 * Anayasa Mahkemesi Kararları
 
-ve benzeri birçok kanun, yönetmelik ve kararı içermektedir.
+gibi birçok kanun, yönetmelik ve kararı içermektedir.
 
 ## Cebri İcra Kurumları
 
