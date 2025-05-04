@@ -212,6 +212,6 @@ Diğer bir örnek: Takip konusu alacaklı icra dosyasına bakan personelin babas
 >
 > Tetkik vazifesini gören hakimler ve icra ve iflas memur ve müstahdemleri, dairelerince takip edilmekte olan bir alacak veya satılmakta bulunan bir şey hakkında kiminle olursa olsun kendileri veya başkaları hesaplarına bir akit yapamazlar. Yaparlarsa hükümsüzdür.
 
-"Tetkik" inceleme, araştırma, "akit" sözleşme anlamına gelmektedir. Kanunda da açıkça belirtildiği üzere icra nedeniyle muhafaza edilen eşyalar üzerinde icra personeli, kendilerinin taraf olduğu alım satım sözleşmesi dahil hiçbir menfaat sözleşmesi yapamazlar. Bu sözleşmeleri başkası adına dahi yapamazlar.
+"Tetkik" inceleme, araştırma, "akit" sözleşme anlamına gelmektedir. İKK'nun 11. maddesinde açıkça belirtildiği üzere icra nedeniyle muhafaza edilen eşyalar üzerinde icra personeli, kendilerinin taraf olduğu alım satım sözleşmesi dahil hiçbir menfaat sözleşmesi yapamazlar. Bu sözleşmeleri başkası adına dahi yapamazlar.
 
 
