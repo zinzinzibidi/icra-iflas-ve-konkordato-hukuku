@@ -346,8 +346,12 @@ Kanunda belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının 
 
 Diyelim ki Ahmet adlı biri Mehmet adlı farklı bir kişiden 100.000 TL borç almış olsun. Ahmet, Mehmet'ten aldığı tüm parayı Mehmet'in icra takibini başlatmasından bir sene önce özel bir yatırım şirketine yatırsın ve kaldıraçlı işlem yapsın. Kaldıraçlı işlem sonrası yatırdığı tüm parasını kaybetsin. Eğer Mehmet'in elinde icra davası sonrası aciz belgesi varsa icra ceza mahkemesine bu belgeyi ibraz edip ve Ahmet'in kendisinden aldığı borç para ile basiretsizce spükalatif bir işlem yaptığını öne sürüp Ahmet'in on beş günden altı aya kadar hapis cezası alması amacıyla dava açabilir.
 
+> [!Note]
+> İcra ve İflas Kanunu, Madde 347:
+> 
+> Bu Bapta yer alan fiillerden dolayı şikâyet hakkı, fiilin öğrenildiği tarihten itibaren üç ay ve her halde fiilin işlendiği tarihten itibaren bir yıl geçmekle düşer.
 
-
+İcra ceza mahkemelerinin görev ve hükümlerini içeren on altıncı bap'ta da belirtildiği üzere icra dairesi aleyhine olan şikâyet hakkı şikayet konusu fiilin öğrenildiği tarihten itibaren 3 ay, fiilin işlendiği tarihten itibaren ise en fazla 1 yıl içinde düşmektedir. Örneğin; borçlu alacaklının kan bağı olduğu bir icra memurunun takip dosyası üzerinde çalıştığını öğrenirse 3 ay içerisinde icra mahkemesine şikayet yoluna gidebilir ve icrayı durdurabilir. Eğer borçlu bu durumu takip başladıktan 1 sene sonra öğrenirse borçlunun şikayet yolu kalmamaktadır. İcra süreci durdurulmadan takip sürecine devam edilir.
 
 
 
