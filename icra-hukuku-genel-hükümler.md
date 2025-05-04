@@ -105,7 +105,7 @@ tarafından görevlendirilecek mübaşir ve hizmetli bulunur.
 
 İcra ve İflas Kanunu, Madde 8:
 
-> İcra ve iflas daireleri yaptıkları muamelelerle kendilerine vakı talep ve beyanlar hakkında bir tutanak yaparlar. Sözlü itirazlar ile talep ve beyanların altları ilgililer ve icra memuru veya yardımcısı veya katibi tarafından imzalanır.
+> [!Tip] İcra ve iflas daireleri yaptıkları muamelelerle kendilerine vakı talep ve beyanlar hakkında bir tutanak yaparlar. Sözlü itirazlar ile talep ve beyanların altları ilgililer ve icra memuru veya yardımcısı veya katibi tarafından imzalanır.
 >  
 > İcra ve iflas dairelerince verilen kararlar gerekçeli olarak tutanaklara yazılır.
 >
