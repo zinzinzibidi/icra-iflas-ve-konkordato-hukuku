@@ -282,6 +282,8 @@ Son olarak icra dairesi personeli işini bilerek sürüncemede bırakırsa ya da
 > 
 > İcra ve iflas işleri bir dairede birleştirilebilir.
 >
+> İcra ve İflas Kanunu, Madde 3/a:
+>
 > İş yoğunluğunun veya icra dairesi sayısının fazla olduğu illerde Adalet Bakanlığı tarafından, yetki çevresi de belirlenmek suretiyle bir veya birden fazla icra daireleri başkanlığı kurulabilir.
 >
 > Başkanlıkta bir başkan ile yeteri kadar başkan yardımcısı bulunur. Başkan birinci sınıf olmuş, başkan yardımcısı ise birinci sınıfa ayrılmış adli yargı hâkim ve Cumhuriyet savcıları arasından muvafakatleri alınarak Bakanlıkça atanır. Ayrıca başkanlıkta, yeteri kadar icra başmüdürü, icra müdürü, icra müdür yardımcısı, icra kâtibi ve memur Adalet Bakanlığı tarafından görevlendirilir.
