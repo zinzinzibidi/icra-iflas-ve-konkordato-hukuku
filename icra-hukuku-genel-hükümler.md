@@ -326,6 +326,9 @@ Kanunda belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının 
 * İcra ya da iflas konusu ihalenin feshi talepleri icra mahkemesinde karara bağlanır.
 * İcra ve iflas suçlarının önemli bir bölümüne "icra ceza mahkemesi" sıfatıyla bakar.
 
+> [!Tip]
+> Dikkat edilirse "itiraz" icra konusuna yöneliktir. İcra dairesi aleyhine değildir. "Şikayet" ise icra dairesine yöneliktir. İcra konusu tutara ya da eşyaya yönelik değildir.
+
 #### İcra Ceza Mahkemesi
 
 İcra mahkemelerinin icra ve iflas suçlarına "icra ceza mahkemesi" sıfatıyla bakabildiğini İcra ve İflas Kanunu'un on altıncı bap'ında bulunan 331 ve 354 arasındaki tüm maddelerde görebilmekteyiz.
