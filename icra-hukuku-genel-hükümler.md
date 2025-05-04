@@ -273,9 +273,14 @@ ile ceza davalarına bakan
 
 Eğer icra mahkemesi davacıyı haklı bulursa tazminat tutarı için personele rücu edilebilir. Diğer bir ifade ile dava konusu tutar personelin banka hesabındaki bakiyeden alınabilir ya da yeterli bakiye yoksa mal varlığına ya da maaşının belirli bir kısmına haciz koyulabilir. Ya da hiçbir şekilde personele rücu edilmez fakat tazminat tutarı Adalet Bakanlığının yedek akçelerinden davacıya ödendikten sonra personele kınama cezası verilebilir. İİK'nun 5. maddesindeki "Devletin, zararın meydana gelmesinde kusuru bulunan görevlilere rücu hakkı saklıdır." ifadesinde bu iki olasılıktan birinin gerçekleşebileceği anlaşılmaktadır.
 
-Şu ana kadar icra dairesi personelinin hukuki sorumluluğuna değindik. İcra dairesi personeli malların haczi sırasında borçlu ile fiziki olarak kavga etti diyelim. Borçlu tarafından da darp raporu alınmış olsun. Bu gibi durumda icra konusu borçlu, personeli dava etmek için asliye ceza mahkemesi yoluna başvurabilir. Bu ise icra dairesi personelinin cezai sorumluluğu olduğunu gösterir.
+Şu ana kadar icra dairesi personelinin hukuki sorumluluğuna değindik. İcra dairesi personeli malların haczi sırasında borçlu ile fiziki olarak kavga etti diyelim. Borçlu tarafından da darp raporu alınmış olsun. Bu gibi durumda icra konusu borçlu, personeli dava etmek için icra mahkemesi yoluna başvurabilir. Bu ise icra dairesi personelinin cezai sorumluluğu olduğunu gösterir.
 
-Son olarak icra dairesi personeli işini bilerek sürüncemede bırakırsa ya da geçerli bir sebep olmadan işini yapmaktan kaçınırsa [657 sayılı Devlet Memurları Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf)'nun hükümleri doğrultusunda personele disiplin cezası uygulanır. Disiplin sorumluluğunu icra dairesi personelinin üç temel sorumluluğundan biridir.
+> [!Note]
+> İcra ve İflas Kanunu, Madde 13:
+>
+> İcra ve iflas memur ve yardımcılarının disiplin cezasını gerektiren fiil ve hallerinden dolayı, haklarında Devlet Memurları Kanununun disiplin cezalarına ilişkin hükümleri uygulanır.
+
+Son olarak icra dairesi personeli işini bilerek sürüncemede bırakırsa ya da geçerli bir sebep olmadan işini yapmaktan kaçınırsa [657 sayılı Devlet Memurları Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf)'nun hükümleri doğrultusunda personele disiplin cezası uygulanır. Disiplin sorumluluğunu icra dairesi personelinin üç temel sorumluluğundan biridir ve idari ve disiplin sorumlulukları icra daireleri başkanlığı tarafından gözetilir.
 
 ### İcra Daireleri Başkanlığı
 
@@ -313,6 +318,11 @@ Kanunda belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının 
 >
 > İcra yetkisini haiz sulh mahkemelerinin muamelelerine karşı vuku bulacak şikayet ve itirazların icra mahkemesi o mahkemenin hakimidir. 
 
+* İcra konusu tutarda hata olması durumu söz konusu ise alacaklı ya da borçlunun itiraz hakkı doğmaktadır. İtiraz konusu icra mahkemesinde karara bağlanır.
+* Alacaklı icra dosyasının sürüncemede bırakıldığını, icranın kanuni süreler içerisinde yapılmadığını öne sürerse ve şikayette bulunursa şikayet icra mahkemesinde karara bağlanır.
+* Alacaklı ya da borçlu yanlış bir eşyanın haczedildiği konusunda istihkak davası başlatırsa bu dava icra mahkemesinde karara bağlanır.
+* İcra ya da iflas konusu ihalenin feshi talepleri icra mahkemesinde karara bağlanır.
+* İcra ve iflas suçlarının önemli bir bölümüne "icra ceza mahkemesi" sıfatıyla bakar.
 
 
 
