@@ -26,6 +26,10 @@
 
 &nbsp;&nbsp;&nbsp;[İcra Mahkemesi](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-mahkemesi)
 
+&nbsp;&nbsp;&nbsp;[Bölge Adliye Mahkemesi](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#b%C3%B6lge-adliye-mahkemesi)
+
+&nbsp;&nbsp;&nbsp;[Yargıtay'ın İlgili Daireleri](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#yarg%C4%B1tay%C4%B1n-i%CC%87lgili-daireleri)
+
 <a id="#cebri-icra"></a>
 ## Cebri İcra
 
