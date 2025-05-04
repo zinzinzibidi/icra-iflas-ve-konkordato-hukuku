@@ -394,6 +394,19 @@ Dikkat edilirse istinaf ve temyiz davaların hukuka uygunluğunu ve usul yönün
 
 Kronolojik olarak dava sürelerini incelersek... İcra mahkemesinin aldığı bir karara karşı 2. haftanın son iş gününde bölge adliye mahkemesine istinafa gidilsin. Bölge adliye mahkemesi de istinaf kararını 2. haftanın son iş gününde tebliğ etsin. Ardından bölge adliye mahkemesinin kararına karşı tebliğ tarihinden sonra 2. haftanın son iş gününde Yargıtay'a temyize gidilsin. Yargıtay'ın ilgili dairesi de temyiz kararını 2. haftanın son iş gününde tebliğ etsin. Sonuç olarak icra mahkemesinin kararına karşı açılacak istinaf ve temyiz davalarının süresi icra mahkemesinin karar tarihininden itibaren en fazla 2 ay 2 gün sonrası olabilir diyebiliriz.
 
+> [!Note]
+> İcra ve İflas Kanunu, Madde 353:
+> 
+> İcra mahkemesinin verdiği tazyik ve disiplin hapsine ilişkin kararlara karşı, tebliğ tarihinden itibaren iki hafta içinde itiraz edilebilir. Mahkeme itirazı incelemesi için dosyayı o yerde icra mahkemesinin birden fazla dairesinin bulunması hâlinde, numara olarak kendisini izleyen daireye, son numaralı daire için birinci daireye, o yerde icra mahkemesinin tek dairesi bulunması hâlinde asliye ceza mahkemesine, icra mahkemesi hâkimi ile asliye ceza mahkemesi hâkiminin aynı hâkim olması hâlinde ise en yakın asliye ceza mahkemesine gönderir. İtiraz incelemesi neticesinde verilen karar kesindir.
+
+> [!Important]
+> İcra mahkemesi "hukuk mahkemesi" sıfatıyla kararını tebliğ etmişse bu karara karşı bölge adliye mahkemesine istinaf, bölge adliye mahkemesi kararına karşı ise Yargıtay'a temyiz yoluna gidilebilir.
+>
+> İcra mahkemesi on altıncı bap'ındaki maddelere istinaden kararını "ceza mahkemesi" sıfatıyla tebliğ etmişse bu karara karşı 353 üncü madde de belirtildiği üzere birden fazla dairenin bulunması durumunda ilgili icra mahkemesine, tek dairenin buçunması durumunda asliye ceza mahkemesine itiraz edilebilir. Eğer icra mahkemesi ile asliye ceza mahkemesi hakimleri aynı hakim ise en yakın asliye ceza mahkemesine itirazda bulunulabilir.
+>
+> Bu nedenle icra mahkesinin hukuk mahkemesi mi yoksa ceza mahkemesi mi sıfatıyla karar verdiğini bilmek istinaf ve temyiz yolu için önemlidir.
+
+
 
 [^1]: Dayanağı [2709 sayılı Türkiye Cumhuriyeti Anayasası](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf)'nın 129. maddesidir.
 
