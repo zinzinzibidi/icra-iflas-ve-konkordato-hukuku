@@ -159,3 +159,19 @@ Ulusal Yargı Ağı Projesi'ne (UYAP'a) [uyap.gov.tr](https://uyap.gov.tr/) adre
 
 #### Alacağı Ödemek ve Alacak Konusu Eşyayı Muhafaza Etmek
 
+İcra dairelerinin temel görevlerinden biri de alacağı alacaklığa ödemek ya da takip konusu eşyayı takip süreci sonuçlanana kadar muhafaza etmektir. Eşyanın muhafaza edilmesindeki amaç borçlunun paraya çevrilebilir eşyayı saklama ya da üçüncü kişilere satma olasılığıdır. Bu şekilde borçlu tarafından mal kaçırmanın ve malı saklamanın önüne geçilmiş olunur.
+
+> [!Note]
+> İcra ve İflas Kanunu, Madde 9:
+> İcra ve iflas dairelerine yapılacak her türlü nakdî ödeme, Adalet Bakanlığı tarafından uygun görülecek bankalarda icra ve iflas dairesi adına açılan hesaba yapılır. Haciz sırasında, borçlu veya üçüncü kişiler tarafından yapılan ödeme nedeniyle tahsil edilen paralar, en geç tahsilatın yapıldığı günü takip eden ilk iş günü çalışma saati sonuna kadar banka hesabına yatırılmak üzere icra veya mahkeme kasalarında muhafaza edilir.
+>
+> İcra ve iflas dairelerince yapılması gereken her türlü nakdî ödeme, ilgilisinin gösterdiği banka hesabına aktarılmak üzere, icra müdürü tarafından resen bankaya verilecek 
+talimat gereği yapılır. Talimat, paranın icra ve iflas dairesi hesabına yatırılmasını takip eden en geç üç iş günü sonuna kadar verilir.
+>
+> İcra ve iflas daireleri aldıkları kıymetli evrak ve değerli şeyleri kasalarında, zorunlu hâllerde ise kiralanacak banka kasalarında muhafaza ederler.
+
+İcra takibi başladığında icra müdürü tarafından borçlunun ikametgâh adresine gidilip mallarına haciz koyulmaz. Bu hem süreci uzatmaktadır hem de yorucu bir işlemdir. Bu nedenle öncelikle e-Haciz bildirimi ile borçlunun banka hesaplarındaki bakiyeye takip konusu borç tutarı kadar bloke koyulur.
+
+Örneğin; A Bankasında borçlunun 10.000 TL tutarlı bir Vadesiz TL, 300.000 TL ve 400.000 TL tutarlı ikişer Vadeli TL mevduat hesabının olduğunu varsayalım. İcra dairesinden 100.000 TL tutarlı e-Haciz bildirimi geldiğinde A Bankasının operasyon personeli 300.000 TL tutarlı vadeli mevduat hesabının 100.000 TL'lik kısmına bloke koyar. Bu şekilde borçlunun 300.000 TL bakiyeli vadeli mevduat hesabının sadece 200.000 TL'lik kısmı kullanılabilirdir. Borçlu bu 200.000 TL'lik kısım ile isterse vadeli mevduat hesabından para çekebilir, isterse de para yatırabilir. Özetle, borçlunun tüm hesaplarına bloke koyulmaz. Sadece takip konusu borç tutarı kadar bloke konulur. Maddi hata durumunda tüm hesaplara bloke koyulması durumunda şikâyet yoluna başvurulur.
+
+
