@@ -359,8 +359,20 @@ Diyelim ki Ahmet adlı biri Mehmet adlı farklı bir kişiden 100.000 TL borç a
 > 111 inci madde mucibince veya alacaklının muvafakati ile icra dairesinde kararlaştırılan borcu ödeme şartını, makbul bir sebep olmaksızın ihlal eden borçlunun, alacaklının şikâyeti üzerine, üç aya kadar tazyik hapsine karar verilir. Hapsin tatbikine 
 başlandıktan sonra borçlu borcun tamamını veya o tarihe kadar icra veznesine yatırmak zorunda olduğu meblağı öderse tahliye edilir; ödemelerini tekrar keserse, hakkında tazyik hapsine yeniden karar verilir. Ancak, bir borçtan dolayı tazyik hapsinin süresi üç ayı geçemez. 
 
-Diyelim ki takip süreci başlatılmış olsun. Borçlu alacaklıya olan borcunu 1 eylül 2026 tarihinde, 4 ay sonra, 4 ocak 2027 tarihinde ödeyeceğini beyan etsin. Alacaklı da bunu kabul edip icra dairesine bildirsin. 4 ay sonra, 4 ocak 2027'de borçlu alacaklıya olan borcunu ödemezse alacaklı kanunun 340ıncı maddesini öne sürüp borçlunun 3 aya kadar tazyik hapsi için icra mahkemesine şikayette bulunabilir. Fakat bu şikayet, 347nci maddede belirtildiği üzere 4 ocak 2028'den sonraki bir tarihte, 1 yılı geçtiği takdirde yapılırsa icra mahkemesince hükümsüz kabul edilecek, borçlu 3 aya kadar tayzik hapsine mahkum edilemeyecektir.
+Diyelim ki takip süreci başlatılmış olsun. Borçlu alacaklıya olan borcunu 1 eylül 2026 tarihinde, 4 ay sonra, 4 ocak 2027 tarihinde ödeyeceğini beyan etsin. Alacaklı da bunu kabul edip icra dairesine bildirsin. 4 ay sonra, 4 ocak 2027'de borçlu alacaklıya olan borcunu ödemezse alacaklı kanunun 340 ıncı maddesini öne sürüp borçlunun 3 aya kadar tazyik hapsi için icra mahkemesine şikayette bulunabilir. Fakat bu şikayet, 347 nci maddede belirtildiği üzere 4 ocak 2028'den sonraki bir tarihte, 1 yılı geçtiği takdirde yapılırsa icra mahkemesince hükümsüz kabul edilecek, borçlu 3 aya kadar tayzik hapsine mahkum edilemeyecektir.
 
+> [!Note]
+> İcra ve İflas Kanunu, Madde 363:
+> 
+> İcra mahkemesince 85 inci maddenin uygulanma biçimi, icra dairesi tarafından hesaplanan vekâlet ücreti, 103 üncü maddenin uygulanma biçimi ve bu maddede düzenlenen davetiyenin içeriği, yediemin ücreti, yediemin değiştirilmesi, hacizli taşınır malların muhafaza şekli, kıymet takdirine ilişkin şikâyet, ihaleye katılabilmek için teminat yatırılması ve teminatın miktarı, satışın durdurulması, satış ilânının iptali, süresinde satış istenmemesi nedeniyle satışın düşürülmesi, 263 üncü maddenin uygulanma biçimi, iflâs idaresinin oluşturulması, icra mahkemesinin iflâs idaresinin işlemleri hakkında şikâyet üzerine verdiği kararlara karşı, iflâs idare memurunun ücret ve masrafları hakkındaki hesap pusulası ve 36 ncı maddeye göre icranın geri bırakılmasına ilişkin kararları dışındaki kararlarına karşı, ait olduğu alacak, hak veya malın değer veya miktarının yedi bin Türk lirasını geçmesi şartıyla istinaf yoluna başvurulabilir. İstinaf yoluna başvuru süresi tebliğ tarihinden itibaren iki haftadır.
+>
+> İcra mahkemesi kararları aleyhine işlemleri uzatmak gibi kötüniyetle istinaf yoluna başvurulduğu anlaşılırsa Hukuk Usulü Muhakemeleri Kanununun 422 nci maddesi hükmü uygulanır.
+>
+> Kesin bir karara karşı kötüniyetle istinaf yoluna başvuranlar hakkında da yukarıdaki fıkra hükmü uygulanır.
+>
+> İstinaf yoluna başvuru satıştan başka icra işlemlerini durdurmaz. İcranın devamı için gereken evrak alıkonularak bunların birer örneği bölge adliye mahkemesine gönderilecek dosyaya konulur.
+
+363 üncü madde borçlu ve alacaklıyı icra mahkemesi kararlarına karşı korumak için vardır. 
 
 
 [^1]: Dayanağı [2709 sayılı Türkiye Cumhuriyeti Anayasası](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf)'nın 129. maddesidir.
