@@ -2,9 +2,21 @@
 
 İlk çağlarda borç ilişkisinden kaynaklı sorunlar şiddet ve tehdit içerikli olaylarla çözülebilirken günümüz modern hukuku bu tür sorunların önüne geçebilmek, toplumda oluşabilecek husumet ve kargaşayı önleyebilmek adına alacak davalarının medeni kurallar dahilinde sonuca bağlanması amacıyla vardır. Örneğin; Roma Hukuku döneminde *manus iniectio* (el koyma) hükümleri gereği borçlu, borcunu ödemezse alacaklı onu zincire vurup köle olarak çalıştırabilirdi. Günümüzde alacak davası yüzünden borçluyu zincire vurup köle olarak çalıştırmak 5237 sayılı Türk Ceza Kanunu (TCK) hükümlerince suç kabul edilmekte, buna rağmen alacaklının alacağını temin edebilmesi için de İcra ve İflas Kanunu'na (İİK) başvurabileceğini belirtmektedir.
 
-## İçindekiler
+## Bölümler
 
-* [Cebri İcra](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#cebri-icra)
+&nbsp;[Cebri İcra](#cebri-icra)
+
+&nbsp;[İcra ve İflas Hukukunun Dayanağı](#icra-ve-iflas-hukuku-dayanagi)
+
+&nbsp;[Cebri İcra Kurumları](#cebri-icra-kurumlari)
+
+&nbsp;&nbsp;&nbsp;[İcra Dairesi](#icra-dairesi)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[İcra Dairesinin Temel Görevleri](#icra-dairesinin-temel-gorevleri)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[İcra Dairesinin Yetkileri](#icra-dairesinin-yetkileri)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[İcra Dairesinin Yükümlülükleri](#icra-dairesinin-yukumlulukleri)
 
 <a link="#cebri-icra"></a>
 ## Cebri İcra
@@ -29,7 +41,7 @@ olmak üzere kendi içinde ayrılmaktadır.
 
 > [!Tip]
 > İlamlı ve ilamsız konularına ilerleyen bölümlerde değineceğiz. Şimdilik "Cebri icra" denilince aklımıza "İcra ve İflas Hukuku"nun gelmesi yeterli. Diğer bir ifade ile cebri icra, hem icra hukuku hem de iflas hukuku hükümlerini kapsamaktadır.
-
+<a link="#icra-ve-iflas-hukuku-dayanagi"></a>
 ## İcra ve İflas Hukukunun Dayanağı
 
 Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adlandırılmaktadır. 
@@ -47,7 +59,7 @@ Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adl
 * Anayasa Mahkemesi Kararları
 
 gibi birçok kanun, yönetmelik ve kararı içermektedir.
-
+<a link="#cebri-icra-kurumlari"></a>
 ## Cebri İcra Kurumları
 
 ```mermaid
@@ -72,7 +84,7 @@ flowchart TD
 * Yargıtay'ın İlgili Daireleri
 
 temel icra kurumlarıdır. Bunun dışında icra mahkemesi dışında kalan mahkemeler, cumhuriyet savcıları, adalet müfettişleri yardımcı rolündedir.
-
+<a link="#icra-dairesi"></a>
 ### İcra Dairesi
 
 Cebri icranın birinci derece görevli kurumudur.
@@ -85,29 +97,29 @@ Cebri icranın birinci derece görevli kurumudur.
 > Her icra dairesinde Adalet Bakanlığı tarafından atanacak bir icra müdürü, yeteri kadar icra müdür yardımcısı, icra katibi ile adli yargı ilk derece mahkemesi adalet komisyonları tarafından görevlendirilecek mübaşir ve hizmetli bulunur. 
 
 İcra dairelerine ilk maddede değinilmesinden de anlaşılacağı üzere tüm icra konularında en önemli görevi icra daireleri yürütmektedir.
-
-### İcra Dairesinin Temel Görevleri
+<a link="#icra-dairesinin-temel-gorevleri"></a>
+#### İcra Dairesinin Temel Görevleri
 
 * Ödeme emri düzenleyip borçluya göndermek
 * Borçlunun mallarının haczedilmesi
 * Haczedilen malın paraya çevrilmesi
 * Paraya çevrilen para ile alacaklının alacağının ödenmesi
 * Konusu paradan başka şey olan ilamların icra edilmesi
-
-### İcra Dairesinin Yetkileri
+<a link="#icra-dairesinin-yetkileri"></a>
+#### İcra Dairesinin Yetkileri
 
 * Her makam ile doğrudan yazışabilir ve bilgi isteyebilir.
 * Gerekirse zor kullanabilir.
 * Yetkisi dışındaki işlemler için başka icra daireleri ile istinabe edebilir.
-
-### İcra Dairelerinin Yükümlülükleri
+<a link="#icra-dairesinin-yukumlulukleri"></a>
+#### İcra Dairelerinin Yükümlülükleri
 
 * Dosya ve Tutanak Düzenlemek
 * Alacağı Ödemek ve Alacak Konusu Eşyayı Muhafaza Etmek
 * Menfaati Olan İşleri Görememe
 * Menfaati Olan Sözleşme Yapamama
 
-#### Dosya ve Tutanak Düzenlemek
+##### Dosya ve Tutanak Düzenlemek
 
 > [!Note]
 > İcra ve İflas Kanunu, Madde 8:
@@ -163,7 +175,7 @@ Ulusal Yargı Ağı Projesi'ne (UYAP'a) [uyap.gov.tr](https://uyap.gov.tr/) adre
 
 [e-Devlet | Dava Dosyası Sorgulama](https://www.turkiye.gov.tr/davalarim) hizmeti ile de hakkınızda açılmış ya da borçlu tarafa açtığınız dava dosyası olup olmadığını sorgulayabilirsiniz.
 
-#### Alacağı Ödemek ve Alacak Konusu Eşyayı Muhafaza Etmek
+##### Alacağı Ödemek ve Alacak Konusu Eşyayı Muhafaza Etmek
 
 İcra dairelerinin temel görevlerinden biri de alacağı alacaklığa ödemek ya da takip konusu eşyayı takip süreci sonuçlanana kadar muhafaza etmektir. Eşyanın muhafaza edilmesindeki amaç borçlunun paraya çevrilebilir eşyayı saklama ya da üçüncü kişilere satma olasılığıdır. Bu şekilde borçlu tarafından mal kaçırmanın ve malı saklamanın önüne geçilmiş olunur.
 
@@ -181,7 +193,7 @@ talimat gereği yapılır. Talimat, paranın icra ve iflas dairesi hesabına yat
 
 Örneğin; A Bankasında borçlunun 10.000 TL tutarlı bir Vadesiz TL, 300.000 TL ve 400.000 TL tutarlı iki farklı Vadeli TL mevduat hesabı olduğunu varsayalım. İcra dairesinden 100.000 TL tutarlı e-Haciz bildirimi bankaya ulaştığında A Bankasının operasyon personeli 300.000 TL tutarlı vadeli mevduat hesabının 100.000 TL'lik kısmına bloke koyar. Bu şekilde borçlunun 300.000 TL bakiyeli vadeli mevduat hesabının sadece 200.000 TL'lik kısmı kullanılabilir olur. Borçlu bu 200.000 TL'lik kullanılabilir bakiye ile isterse vadeli mevduat hesabından para çekebilir, isterse de hesaba para yatırabilir. e-Haciz nedeniyle blokeye alınan 100.000 TL ile banka personeli dahil kimse bankacılık işlemleri yapamaz. Özetle, borçlunun tüm hesaplarına bloke koyulmaz. Sadece takip konusu borç tutarı kadar bloke uygulanır. İcra müdürünün maddi hatası olması durumunda şikâyet yoluna başvurulabilir.
 
-#### Menfaati Olan İşleri Görememe
+##### Menfaati Olan İşleri Görememe
 
 İcra dairesi personelinin icra konusu ile ilgili menfaatinin olması durumunda uygulanacak esasları belirtir.
 
@@ -208,7 +220,7 @@ Diğer bir örnek: Takip konusu alacaklı icra dosyasına bakan personelin babas
 > [!Warning]
 > İcra personelinin alacaklı ya da borçlu ile akrabağlığın olması durumunda alacaklı/borçlu tarafından icra mahkemesine şikâyet yoluna başvurulmadığı sürece icra süreci durdurulmayacaktır. İcra müdürünün durumu fark etmesi sonrası takibin re'sen durdurulması da söz konusu değildir.
 
-#### Menfaati Olan Sözleşme Yapamama
+##### Menfaati Olan Sözleşme Yapamama
 
 İcra personeli takip konusu dosya üzerinde kendilerine yararı olan sözleşmeler yapamamaktadır.
 
