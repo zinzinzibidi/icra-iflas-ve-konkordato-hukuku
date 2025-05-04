@@ -418,7 +418,7 @@ Kronolojik olarak dava sürelerini incelersek... İcra mahkemesinin aldığı bi
 
 ## Şikâyet
 
-İcra hukukunda şikayet ve itiraz ayrımına [İcra Mahkemesi](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-mahkemesi) bölümünde değinmiştik. Genel bir tanım yapacak olursak şikâyet, icra (ve iflâs) dairelerinin işlemlerinin icra ve iflâs hukukuna uygun olarak yerine getirip getirmediklerinin denetlenmesini sağlayan kendine özgü bir hukuki çaredir. Şikâyetin konusu icra (ve iflâs) dairesinin yapmış olduğu işlemlerdir. [^2]
+İcra hukukunda şikayet ve itiraz ayrımına [İcra Mahkemesi](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-mahkemesi) bölümünde değinmiştik. Genel bir tanım yapacak olursak şikâyet, icra (ve iflâs) dairelerinin işlemlerinin icra ve iflâs hukukuna uygun olarak yerine getirip getirmediklerinin denetlenmesini sağlayan kendine özgü hukuki bir çaredir. Şikâyetin konusu icra (ve iflâs) dairesinin yapmış olduğu işlemlerdir. [^2]
 
 Şikâyet sadece icra mahkemesine yapılabilir. İcra dairesine yapılan şikâyetler hükümsüzdür ve sonuç doğurmazlar.
 
