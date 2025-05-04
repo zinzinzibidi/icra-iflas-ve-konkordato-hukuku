@@ -43,6 +43,21 @@ gibi birçok kanun, yönetmelik ve kararı içermektedir.
 
 ## Cebri İcra Kurumları
 
+```mermaid
+flowchart TD
+    A[İcra ve İflas Hukuku]
+    A --> B[İcra
+    Dairesi]
+    A --> C[İcra Daireleri
+    Başkanlığı]
+    A --> D[İcra
+    Mahkemesi]
+    A --> E[Bölge Adliye
+    Mahkemesi]
+    A --> F[Yargıtay'ın
+    İlgili Daireleri]
+```
+
 * İcra Dairesi
 * İcra Daireleri Başkanlığı
 * İcra Mahkemesi
