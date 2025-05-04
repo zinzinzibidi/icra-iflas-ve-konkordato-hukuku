@@ -464,8 +464,16 @@ Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe i
 
 ### Şikâyet Başvurularının İcra Mahkemesince İncelenmediği Haller
 
+* Konkordato komiserinin mühlet içinde konkordatoya ilişkin işlemleriyle ilgili şikâyetler komiseri görevlendiren asliye ticaret mahkemesi tarafından kesin olarak karara bağlanır. (İİK, Md. 290/4)
+* Ortaklığın satış suretiyle giderilmesine ilişkin işlemlere karşı yöneltilecek şikâyetler ortaklığın giderilmesine karar vermeiş olan sulh hukuk mahkemesi tarafından incelenir.
+* Terekinin iflas hükümlerine göre tasfiyesinde tasfiye memurlarının işlemlerine karşı yapılacak şikayetler sulh hukuk mahkemesi tarafındann incelenir.
+* ihtiyati tedbir kararının uygulanmasına ilişkin şikâyetler ihtiyati tedbir kararını vermiş olan mahkeme tarafından incelenir.[^3] 
 
-
+>[!Tip]
+> Şikâyet başvuruları icra mahkemesinin takdirine göre duruşmalı ya da duruşmasız incelenebilir. Fakat bazı özel durumlarda Yargıtay,
+> * Sıra cetveline
+> * Usulsüz tebligata
+> * Keşif ya da bilirkişi incelemesine ihtiyaç
 
 
 
@@ -473,4 +481,4 @@ Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe i
 
 [^1]: Dayanağı [2709 sayılı Türkiye Cumhuriyeti Anayasası](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf)'nın 129. maddesidir.
 [^2]: Şematik İcra ve İflas Hukuku, Prof. Dr. Cenk AKİL, Dr. Öğr. Üyesi Süleyman TOPAK, Güncellenmiş 2. Baskı, Ekim 2024, s.25
-
+[^2]: a.g.e.
