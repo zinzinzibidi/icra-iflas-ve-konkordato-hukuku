@@ -296,7 +296,7 @@ Son olarak icra dairesi personeli işini bilerek sürüncemede bırakırsa ya da
 >
 > Bu maddenin uygulanmasına ilişkin usul ve esaslar, Adalet Bakanlığınca yürürlüğe konulan yönetmelikle belirlenir.
 
-Belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının fazla olduğu illerde Adalet Bakanlığınca icra daireleri başkanlığı kurulabilir. Bu başkanlığın başında görevini yapacağını kabul eden (muvafakat eden) hakim ya da savcı başkan görevini sürdürür. Başkanlığının asıl görevi icra dairelerinin işlerini gözetmek ve denetlemektir. Bu nedenle alacaklı icra takibini icra dairesi başkanlığında başlatamaz. Takibin icra dairesinde başlatılması esastır.
+Belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının fazla olduğu illerde Adalet Bakanlığınca icra daireleri başkanlığı kurulabilir. Başkanlığın başında görevini yapacağını kabul eden (muvafakat eden) hakim ya da savcı icra dairesi başkanı sıfatıyla görevini sürdürür. Başkanlığın asıl görevi icra dairelerinin işlerini gözetmek ve denetlemektir. Bu nedenle alacaklı icra takibini icra dairesi başkanlığında başlatamaz. Takibin icra dairesinde başlatılması esastır.
 
 
 
