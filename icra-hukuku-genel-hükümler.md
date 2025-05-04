@@ -392,7 +392,7 @@ Bölge adliye mahkemesinin vereceği istinaf kararlarına karşı da yargı yolu
 
 Dikkat edilirse istinaf ve temyiz davaların hukuka uygunluğunu ve usul yönünden doğruluğunu denetler. Dava baştan görülmez. Dosya üzerinden yürütülür.
 
-Kronoloji incelersek... İcra mahkemesinin aldığı bir karara karşı 2. haftanın son iş gününde bölge adliye mahkemesine istinafa gidilsin. Bölge adliye mahkemesi de istinaf kararını 2. haftanın son iş gününde tebliğ etsin. Ardından bölge adliye mahkemesinin kararına karşı tebliğ tarihinden sonra 2. haftanın son iş gününde Yargıtay'a temyize gidilsin. Yargıtay'ın ilgili dairesi de temyiz kararını 2. haftanın son iş gününde tebliğ etsin. Sonuç olarak icra mahkemesinin kararına karşı açılacak istinaf ve temyiz davalarının süresi icra mahkemesi karar tarihininden itibaren en fazla 2 ay 2 gün sonrası olabilir diyebiliriz.
+Kronolojik olarak dava sürelerini incelersek... İcra mahkemesinin aldığı bir karara karşı 2. haftanın son iş gününde bölge adliye mahkemesine istinafa gidilsin. Bölge adliye mahkemesi de istinaf kararını 2. haftanın son iş gününde tebliğ etsin. Ardından bölge adliye mahkemesinin kararına karşı tebliğ tarihinden sonra 2. haftanın son iş gününde Yargıtay'a temyize gidilsin. Yargıtay'ın ilgili dairesi de temyiz kararını 2. haftanın son iş gününde tebliğ etsin. Sonuç olarak icra mahkemesinin kararına karşı açılacak istinaf ve temyiz davalarının süresi icra mahkemesinin karar tarihininden itibaren en fazla 2 ay 2 gün sonrası olabilir diyebiliriz.
 
 
 [^1]: Dayanağı [2709 sayılı Türkiye Cumhuriyeti Anayasası](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf)'nın 129. maddesidir.
