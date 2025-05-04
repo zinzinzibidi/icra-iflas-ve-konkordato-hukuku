@@ -230,7 +230,7 @@ Diğer bir örnek: İcra dosyasına bakan personel, alacaklının babasının er
 İcra personelinin menfaatinin söz konusu olduğu durumlarda icra mahkemesine şikâyet yoluna başvurulabilir. İcra mahkemesi hakiminin de alacaklı ya da borçlu ile kan veya sıhri hısımlığı söz konusu ile [6100 sayılı Hukuk Muhakemeleri Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf)'nun (HMK'nın) 34. maddesinde belirtilen hükümler geçerlidir.
 
 > [!Warning]
-> İcra memuru (görevlisi, personeli) ile alacaklı/borçlu arasında hısım veya sıhri bağı olması durumunda alacaklı/borçlu tarafından icra mahkemesine şikâyet yoluna başvurulmadığı sürece icra süreci durdurulmayacaktır. İcra müdürünün ya da başka bir icra dairesi personelinin durumu fark etmesi sonrası takibin re'sen durdurulması da söz konusu değildir.
+> İcra memuru (görevlisi, personeli) ile alacaklı/borçlu arasında kan veya sıhri bağ olması durumunda alacaklı/borçlu tarafından icra mahkemesine şikâyet yoluna başvurulmadığı sürece icra süreci durdurulmayacaktır. İcra müdürünün ya da başka bir icra dairesi personelinin durumu fark etmesi sonrası takibin re'sen durdurulması da söz konusu değildir.
 
 ##### Menfaati Olan Sözleşme Yapamama
 
