@@ -320,7 +320,7 @@ Kanunda belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının 
 >
 > İcra yetkisini haiz sulh mahkemelerinin muamelelerine karşı vuku bulacak şikayet ve itirazların icra mahkemesi o mahkemenin hakimidir. 
 
-* İcra konusu tutarda hata olması durumu söz konusu ise alacaklı ya da borçlunun itiraz hakkı doğmaktadır. İtiraz konusu icra mahkemesinde karara bağlanır.
+* İcra konusu tutarda ya da eşyada hata olması durumu söz konusu ise alacaklı ya da borçlunun itiraz hakkı doğmaktadır. İtiraz konusu icra mahkemesinde karara bağlanır.
 * Alacaklı icra dosyasının sürüncemede bırakıldığını, icranın kanuni süreler içerisinde yapılmadığını öne sürerse ve şikayette bulunursa şikayet icra mahkemesinde karara bağlanır.
 * Alacaklı ya da borçlu yanlış bir eşyanın haczedildiği konusunda istihkak davası başlatırsa bu dava icra mahkemesinde karara bağlanır.
 * İcra ya da iflas konusu ihalenin feshi talepleri icra mahkemesinde karara bağlanır.
