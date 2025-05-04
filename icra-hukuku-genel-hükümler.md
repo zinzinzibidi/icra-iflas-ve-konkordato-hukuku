@@ -142,7 +142,7 @@ Her türlü icra ve iflas işlemlerinde 2012 yılındandan itibaren kullanılmay
 Dosya numaraları takibin yapıldığı yılın numarası ile başlar ve ardından sıra numarası eklenir. Örneğin; 2027/1424. 2027 takibin yapıldığı yılı, 1424 ise bu yıldaki 1424. takibi belirtmektedir.
 
 > [!Tip]
-> Bu noktada tutanak ile dosya arasındaki farkı belirtmekte fayda var. Tutanak, alacaklının icra dairesi ile arasındaki ifadeleri ile oluşturulur. Dosya ise takibin başlaması ile birlikte icra dairesi ile borçlu arasındaki belgeleri içerir. Bu nedenle tutanak da takip dosyasının ayrılmaz bir parçasıdır. 
+> Bu noktada tutanak ile dosya arasındaki farkı belirtmekte fayda var. Tutanak, alacaklı ile icra dairesi arasındaki beyanları içerir. Dosya ise takibin başlaması ile birlikte icra dairesi ile borçlu arasındaki belgeleri içerir. Bu nedenle tutanak da takip dosyasının ayrılmaz bir parçasıdır. 
 
 
 
