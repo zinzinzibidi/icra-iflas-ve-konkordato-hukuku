@@ -36,6 +36,7 @@ Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adl
 * [7499 sayılı Ceza Muhakemesi Kanunu İle Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7499.pdf)
 * [İcra ve İflâs Kanunu Yönetmeliği](https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.8043.pdf)
 * [7201 sayılı Tebligat Kanunu](https://www.mevzuat.gov.tr/mevzuatmetin/1.3.7201.pdf)
+* [213 sayılı Vergi Usul Kanununu](https://www.mevzuat.gov.tr/mevzuatmetin/1.4.213.pdf)
 * Yargıtay Kararları
 * Anayasa Mahkemesi Kararları
 
