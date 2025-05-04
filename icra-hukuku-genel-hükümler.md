@@ -31,7 +31,7 @@
 
 Cebri "zor kullanılarak yaptırılan", icra ise "yapma, yerine getirme, yürütme" anlamına gelmektedir.
 
-Borçlunun borcunu vadesinde ödememesi durumunda alacaklının alacağını almak için başvurabileceği tek yol İcra ve İflas Kanunu'ndan belirtilen cebri icra yoludur. Cebri icra ile borçlunun borcunu ödememesi durumunda alacaklı devlet gücüyle (hukuk yoluyla) alacağını zorla tahsil edebilmektedir.
+Borçlunun borcunu vadesinde ödememesi durumunda alacaklının alacağını almak için başvurabileceği tek yol İcra ve İflas Kanunu'nda belirtilen cebri icra yoludur. Cebri icra ile borçlunun borcunu ödememesi durumunda alacaklı devlet gücüyle (hukuk yoluyla) alacağını zorla tahsil edebilmektedir.
 
 Cebri icra, ya icra ya da iflas yoluyla olabilmektedir. 
 
@@ -93,7 +93,7 @@ flowchart TD
 * Bölge Adliye Mahkemesi
 * Yargıtay'ın İlgili Daireleri
 
-temel icra kurumlarıdır. Bunun dışında icra mahkemesi dışında kalan mahkemeler, cumhuriyet savcıları, adalet müfettişleri yardımcı rolündedir.
+temel icra kurumlarıdır. Bunun dışında asliye ceza mahkemesi, cumhuriyet savcıları, adalet müfettişleri yardımcı rolündedir.
 <a id="#icra-dairesi"></a>
 ### İcra Dairesi
 
@@ -361,6 +361,8 @@ başlandıktan sonra borçlu borcun tamamını veya o tarihe kadar icra veznesin
 
 Diyelim ki takip süreci başlatılmış olsun. Borçlu alacaklıya olan borcunu 1 eylül 2026 tarihinde, 4 ay sonra, 4 ocak 2027 tarihinde ödeyeceğini beyan etsin. Alacaklı da bunu kabul edip icra dairesine bildirsin. 4 ay sonra, 4 ocak 2027'de borçlu alacaklıya olan borcunu ödemezse alacaklı kanunun 340 ıncı maddesini öne sürüp borçlunun 3 aya kadar tazyik hapsi için icra mahkemesine şikayette bulunabilir. Fakat bu şikayet, 347 nci maddede belirtildiği üzere 4 ocak 2028'den sonraki bir tarihte, 1 yılı geçtiği takdirde yapılırsa icra mahkemesince hükümsüz kabul edilecek, borçlu 3 aya kadar tayzik hapsine mahkum edilemeyecektir.
 
+### Bölge Adliye Mahkemesi
+
 > [!Note]
 > İcra ve İflas Kanunu, Madde 363:
 > 
@@ -373,6 +375,8 @@ Diyelim ki takip süreci başlatılmış olsun. Borçlu alacaklıya olan borcunu
 > İstinaf yoluna başvuru satıştan başka icra işlemlerini durdurmaz. İcranın devamı için gereken evrak alıkonularak bunların birer örneği bölge adliye mahkemesine gönderilecek dosyaya konulur.
 
 363 üncü madde borçlu ve alacaklıyı icra mahkemesi kararlarına karşı korumak için vardır. Eğer davayı kaybeden taraf icra mahkemesi kararının hatalı olduğunu öne sürüyorsa kararın açıklandığı tarihten itibaren iki hafta içerisinde bölge adliye mahkemesine istinaf yoluna gidilebilir ve istinaf davası açılabilir. İstinaf "mahkemenin verdiği kararı kabul etmeyerek bir üst mahkemeye götürme" anlamına gelmektedir. Bölge adliye mahkemesi istinaf davalarını borçluyu ve alacaklıyı duruşma salonuna çağırarak baştan başlatmaz. İcra mahkemesinin dava dosyasını dosya üzerinden inceler ve hukuka uygun olup olmadığını inceler.
+
+### Yargıtay'ın İlgili Daireleri
 
 > [!Note]
 > İcra ve İflas Kanunu, Madde 364:
