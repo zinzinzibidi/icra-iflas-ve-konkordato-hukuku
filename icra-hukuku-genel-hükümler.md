@@ -228,7 +228,7 @@ Kanunda açıkça belirtiği üzere kan bağı olsun ya da olmasın akrabalık i
 
 Diğer bir örnek: İcra dosyasına bakan personel, alacaklının babasının erkek kardeşinin (amcasının) çocuğunun (kuzeninin) annesi (yengesi) olamaz. Yine aralarında bir kan bağı olmamasına rağmen ilgili icra dairesi personeli sıhri hısımlıktan dolayı takip dosyası üzerinde çalışamamaktadır.
 
-İcra personelinin menfaatinin söz konusu olduğu durumlarda icra mahkemesine şikâyet yoluna başvurulabilir. İcra mahkemesi hakiminin alacaklı ya da borçlu ile kan veya sıhri hısımlığı söz konusu olduğu durumlarda ise [6100 sayılı Hukuk Muhakemeleri Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf)'nun (HMK'nun) 34. maddesinde belirtilen hükümler geçerlidir.
+İcra personelinin menfaatinin söz konusu olduğu durumlarda icra mahkemesine şikâyet yoluna başvurulabilir. İcra mahkemesi hakiminin alacaklı ya da borçlu ile kan veya sıhri hısımlığının söz konusu olduğu durumlarda ise [6100 sayılı Hukuk Muhakemeleri Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf)'nun (HMK'nun) 34. maddesinde belirtilen hükümler geçerlidir.
 
 > [!Warning]
 > İcra memuru (görevlisi, personeli) ile alacaklı/borçlu arasında kan veya sıhri bağ olması durumunda alacaklı/borçlu tarafından icra mahkemesine şikâyet yoluna başvurulmadığı sürece icra süreci durdurulmayacaktır. İcra müdürünün ya da başka bir icra dairesi personelinin durumu fark etmesi sonrası takibin re'sen durdurulması da söz konusu değildir.
