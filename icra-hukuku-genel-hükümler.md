@@ -238,7 +238,7 @@ Diğer bir örnek: Takip konusu alacaklı icra dosyasına bakan personelin babas
 
 #### İcra Dairesi Personelinin Sorumlulukları
 
-Hukuki, cezai ve disiplin olmak üzere 3 sorumluluğu bulunmaktadır.
+İcra dairesi personelinin (görevlisinin) hukuki, cezai ve disiplin olmak üzere üç temel sorumluluğu bulunmaktadır.
 
 > [!Note]
 > İcra ve İflas Kanunu, Madde 5:
@@ -263,7 +263,6 @@ ile ceza davalarına bakan
 
 > [!Tip]
 > Tüketici mahkemeleri de icra mahkemesi gibi özel mahkeme statüsündedir. Bu mahkemelerde tüketici haklarına ilişkin davalar görülür. Hem icra mahkemesi hem de tüketici mahkemesi birer adliye mahkemesidir.
-
 
 Şu ana kadar icra dairesi personelinin hukuki sorumluluğuna değindik. Eğer icra personeli malların haczi sırasında borçlu ile fiziki olarak kavga etti. Borçlu tarafından darp raporu da alınmış olsun. Bu gibi durumda borçlu personeli dava etmek için asliye ceza mahkemesi yoluna başvurabilir. Bu ise icra dairesi personelinin cezai sorumluluğudur.
 
