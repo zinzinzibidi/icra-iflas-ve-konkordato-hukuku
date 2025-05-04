@@ -425,7 +425,7 @@ Kronolojik olarak dava sürelerini incelersek... İcra mahkemesinin aldığı bi
 Şikâyet konusunun işlemin kanuna aykırı olması ya da somut olaya uygun olmama durumunda konunun öğrenilmesinden 7 gün içerisinde icra mahkemesine şikâyette bulunulabilir. 7 günü geçmesi durumunda takdir icra mahkemesi hakiminindir. "Kanuna aykırı olan işlem"e örnek olarak icra müdürünün talep edilmeden haciz işlemine başlaması gösterilebilir. "Somut olaya uygun olmama durumu"na ise icra müdürünün borçluya ait maaşın tamamını haczetmesi örnek gösterilebilir.
 
 > [!Tip]
-> Ücretin (maaşın) ne kadarının haczedilebileceği, çalışanın medeni durumu, bakmakla yükümlü olduğu kişiler ve asgari geçim indirimi (AGİ) gibi faktörlere bağlıdır. İcra ve İflas Kanunu'nun 83. maddesi borçluya ait ücretin ne kadarının haczedilebileceğine yönelik hükümler içermektedir.
+> Ücretin (maaşın) ne kadarının haczedilebileceği, çalışanın medeni durumu, bakmakla yükümlü olduğu kişiler ve asgari geçim indirimi (AGİ) gibi faktörlere bağlıdır. Kanunun 83. maddesi borçluya ait ücretin ne kadarının haczedilebileceğine yönelik hükümler içermektedir.
 
 > [!Note]
 > İcra ve İflas Kanunu, Madde 83:
