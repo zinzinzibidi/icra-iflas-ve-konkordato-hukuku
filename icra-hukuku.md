@@ -45,7 +45,7 @@ gibi birçok kanun, yönetmelik ve kararı içermektedir.
 
 ```mermaid
 flowchart TD
-    A[İcra ve İflas Hukuku]
+    A[Cebri İcra Kurumları]
     A --> B[İcra
     Dairesi]
     A --> C[İcra Daireleri
