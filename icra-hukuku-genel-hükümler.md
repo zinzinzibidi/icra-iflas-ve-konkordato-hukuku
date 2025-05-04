@@ -4,7 +4,7 @@
 
 ## Bölümler
 > [!Tip]
-> En başa dönmek için klavyenizdeki Sol CTRL tuşu basılı iken Home tuşunu kullanabilirsiniz.
+> En başa dönmek için klavyenizdeki Sol CTRL tuşu basılı iken Home tuşunu ya da bu sayfanın sağ üst köşesinde beliren &#8593;Top tuşunu kullanabilirsiniz.
 
 &nbsp;[Cebri İcra](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#cebri-i%CC%87cra)
 
