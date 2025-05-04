@@ -140,7 +140,7 @@ mühürlenir.
 Her türlü icra ve iflas işlemlerinde 2012 yılındandan itibaren kullanılmaya başlanan Ulusal Yargı Ağı Bilişim Sistemi (UYAP Bilişim Sistemi) icra ve iflas tutanak ve dosyalarının fiziki olarak hazırlansa bile elektronik ortamda saklanmasını zorunlu kılmıştır. 8. maddede zorunlu hallerde ıslak imza kullanılsa bile elektronik imzaların atılacağı ve bu imzaların ıslak imzalar ile aynı hükümde olacağı vurgulanmıştır.
 
 Dosya numaraları takibin yapıldığı yılın numarası ile başlar ve ardından sıra numarası eklenir. Örneğin; 2027/1424.<br>
-2027 takibin yapıldığı yılı, 1424 ise bu yıldaki 1424. takibi belirtmektedir.
+2027 takibin yapıldığı yılı, 1424 ise bu yıldaki 1424. takip dosyasını belirtmektedir.
 
 > [!Tip]
 > Bu noktada "tutanak" ile "dosya" arasındaki farkı belirtmekte fayda var. Tutanak, alacaklı ile icra dairesi arasındaki beyanları içerir. Dosya ise takibin başlaması ile birlikte icra dairesi ile borçlu arasındaki belgeleri içerir. Bu nedenle tutanak da takip dosyasının ayrılmaz bir parçasıdır. 
