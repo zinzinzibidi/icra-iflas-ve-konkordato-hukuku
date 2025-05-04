@@ -307,7 +307,7 @@ Disiplin sorumluluğu icra daireleri başkanlığı tarafından gözetilir.
 >
 > Bu maddenin uygulanmasına ilişkin usul ve esaslar, Adalet Bakanlığınca yürürlüğe konulan yönetmelikle belirlenir.
 
-Kanunda belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının fazla olduğu illerde Adalet Bakanlığınca icra daireleri başkanlığı kurulabilir. Başkanlığın başında görevini yapacağını muvafakat eden (kabul eden) hakim ya da savcı, "... icra daireleri başkanı" başkanı sıfatıyla görevini sürdürür. Başkanlığın asıl görevi icra dairelerinin işlerini gözetmek ve denetlemektir. Bu nedenle alacaklı icra takibini icra dairesi başkanlığında başlatamaz. Takibin icra dairesince başlatılması esastır.
+Kanunda belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının fazla olduğu illerde Adalet Bakanlığınca icra daireleri başkanlığı kurulabilir. Başkanlığın başında görevini yapacağını muvafakat eden (kabul eden) hakim ya da savcı, "... icra daireleri başkanı" sıfatıyla görevini sürdürür. Başkanlığın asıl görevi icra dairelerinin işlerini gözetmek ve denetlemektir. Bu nedenle alacaklı icra takibini icra dairesi başkanlığında başlatamaz. Takibin icra dairesince başlatılması esastır.
 
 İcra daireleri başkanlık listesi için [tıklayınız](https://iidb.adalet.gov.tr/Home/SayfaDetay/icra-daireleri-baskanliklari).
 
