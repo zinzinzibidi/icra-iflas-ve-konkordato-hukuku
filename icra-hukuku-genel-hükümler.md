@@ -420,7 +420,7 @@ Kronolojik olarak dava sürelerini incelersek... İcra mahkemesinin aldığı bi
 
 İcra hukukunda şikayet ve itiraz ayrımına [İcra Mahkemesi](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-mahkemesi) bölümünde değinmiştik. Genel bir tanım yapacak olursak şikâyet, icra (ve iflâs) dairelerinin işlemlerinin icra ve iflâs hukukuna uygun olarak yerine getirip getirmediklerinin denetlenmesini sağlayan kendine özgü hukuki bir çaredir. Şikâyetin konusu icra (ve iflâs) dairesinin yapmış olduğu işlemlerdir. [^2]
 
-Şikâyet sadece icra mahkemesine yapılabilir. İcra dairesine yapılan şikâyetler hükümsüzdür ve sonuç doğurmazlar.
+Şikâyet <u>sadece icra mahkemesine</u> yapılabilir. İcra dairesine yapılan şikâyetler hükümsüzdür ve sonuç doğurmazlar.
 
 Şikâyet konusunun işlemin kanuna aykırı olması ya da somut olaya uygun olmama durumunda konunun öğrenilmesinden 7 gün içerisinde icra mahkemesine şikâyette bulunulabilir. 7 günü geçmesi durumunda takdir icra mahkemesi hakiminindir. "Kanuna aykırı olan işlem"e örnek olarak icra müdürünün talep edilmeden haciz işlemine başlaması gösterilebilir. "Somut olaya uygun olmama durumu"na ise icra müdürünün borçluya ait maaşın tamamını haczetmesi örnek gösterilebilir.
 
