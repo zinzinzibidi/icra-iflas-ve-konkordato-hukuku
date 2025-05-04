@@ -146,7 +146,7 @@ Cebri icranın birinci derece görevli kurumudur.
 >
 > İcra ve iflas dairelerinin tutanakları, hilafı sabit oluncaya kadar muteberdir.
 
-"kendilerine vakı talep ve beyanlar"dan kasıt icra dairesine alacağı için giden alacaklının yaptığı talep ve beyandır. Bu talep sözlü olabileceği gibi yazılı da olabilir. En nihayetinde alacaklının beyanı esas alınarak tutanak hazırlanır. "hilafı sabit oluncaya kadar muteberdir" ifadesi bu tutanakların aksi ispatlanana kadar geçerli olduğunu belirtmektedir.
+"kendilerine vakı talep ve beyanlar"dan kasıt icra dairesine alacağı için giden alacaklının yaptığı talep ve beyandır. Bu beyan sözlü olabileceği gibi yazılı da olabilir. En nihayetinde alacaklının beyanı esas alınarak tutanak hazırlanır. "hilafı sabit oluncaya kadar muteberdir" ifadesi bu tutanakların aksi ispatlanana kadar geçerli olduğunu belirtmektedir.
 
 > [!Note]
 > İcra ve İflas Kanunu, Madde 8/a:
