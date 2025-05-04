@@ -474,6 +474,7 @@ Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe i
 > * Sıra cetveline ilişkin
 > * Usulsüz tebligata ilişkin
 > * Keşif ya da bilirkişi incelemesine ihtiyaç duyulan hallerde
+> 
 > şikâyet başvurularının duruşmalı olarak incelenmesi gerektiğini içtihat etmiştir.[^4]
 
 
