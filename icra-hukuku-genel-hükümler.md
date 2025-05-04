@@ -266,7 +266,7 @@ ile ceza davalarına bakan
 > [!Tip]
 > Tüketici mahkemeleri de icra mahkemesi gibi özel mahkeme statüsündedir. Bu mahkemelerde tüketici haklarına ilişkin davalar görülür. Hem icra mahkemesi hem de tüketici mahkemesi birer adliye mahkemesidir.
 
-Şu ana kadar icra dairesi personelinin hukuki sorumluluğuna değindik. Eğer icra personeli malların haczi sırasında borçlu ile fiziki olarak kavga etti. Borçlu tarafından darp raporu da alınmış olsun. Bu gibi durumda borçlu personeli dava etmek için asliye ceza mahkemesi yoluna başvurabilir. Bu ise icra dairesi personelinin cezai sorumluluğudur.
+Şu ana kadar icra dairesi personelinin hukuki sorumluluğuna değindik. İcra dairesi personeli malların haczi sırasında borçlu ile fiziki olarak kavga etti diyelim. Borçlu tarafından da darp raporu alınmış olsun. Bu gibi durumda icra konusu borçlu, personeli dava etmek için asliye ceza mahkemesi yoluna başvurabilir. Bu ise icra dairesi personelinin cezai sorumluluğudur.
 
 Eğer icra mahkemesi davacıyı haklı bulursa İİK'nun 5. maddesinin "Devletin, zararın meydana gelmesinde kusuru bulunan görevlilere rücu hakkı saklıdır." ifadesinde de anlaşılacağı üzere personele rücu edilebilir. Diğer bir ifade ile dava konusu tutar personelin banka hesabındaki bakiyeden alınabilir ya da yeterli bakiye yoksa mal varlığına haciz koyulabilir.
 
