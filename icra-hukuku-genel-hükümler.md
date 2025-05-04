@@ -372,7 +372,27 @@ Diyelim ki takip süreci başlatılmış olsun. Borçlu alacaklıya olan borcunu
 >
 > İstinaf yoluna başvuru satıştan başka icra işlemlerini durdurmaz. İcranın devamı için gereken evrak alıkonularak bunların birer örneği bölge adliye mahkemesine gönderilecek dosyaya konulur.
 
-363 üncü madde borçlu ve alacaklıyı icra mahkemesi kararlarına karşı korumak için vardır. 
+363 üncü madde borçlu ve alacaklıyı icra mahkemesi kararlarına karşı korumak için vardır. Eğer davayı kaybeden taraf icra mahkemesi kararının hatalı olduğunu öne sürüyorsa kararın açıklandığı tarihten itibaren iki hafta içerisinde bölge adliye mahkemesine istinaf yoluna gidilebilir ve istinaf davası açılabilir. İstinaf "mahkemenin verdiği kararı kabul etmeyerek bir üst mahkemeye götürme" anlamına gelmektedir. Bölge adliye mahkemesi istinaf davalarını borçluyu ve alacaklıyı duruşma salonuna çağırarak baştan başlatmaz. İcra mahkemesinin dava dosyasını dosya üzerinden inceler ve hukuka uygun olup olmadığını inceler.
+
+> [!Note]
+> İcra ve İflas Kanunu, Madde 364:
+>
+> Bölge adliye mahkemesi hukuk dairelerince verilen ve miktar veya değeri elli sekiz bin sekiz yüz Türk lirasını geçen nihaî kararlara karşı temyiz yoluna başvurulabilir.
+>
+> Birinci fıkrada belirtilen kararlara karşı, tebliğ tarihinden itibaren iki hafta içinde temyiz yoluna başvurulabilir; temyiz yoluna başvurma ve incelemesi Hukuk Muhakemeleri Kanunu hükümlerine göre yapılır. Bu durumda da 363 üncü maddenin ikinci ve üçüncü fıkra hükümleri uygulanır.
+>
+> Temyiz yoluna başvurma, satıştan başka icra işlemlerini durdurmaz.
+
+Bölge adliye mahkemesinin vereceği istinaf kararlarına karşı da yargı yoluna başvurulabilir. Eğer dava konusu tutar madde 364'te belirtildiği üzere 58.800 TL'nin üzerinde ise bölge adliye mahkemesinin kararına karşı iki hafta içerisinde Yargıtay'a temyiz yoluna başvurulabilir.
+
+> [!Note]
+> İcra ve İflas Kanunu, Madde 366:
+>
+> İstinaf ve temyiz incelemeleri, Hukuk Usulü Muhakemeleri Kanununa göre yapılır ve onbeş gün içinde karara bağlanır.
+
+Dikkat edilirse istinaf ve temyiz davaların hukuka uygunluğunu ve usul yönünden doğruluğunu denetler. Dava baştan görülmez. Dosya üzerinden yürütülür.
+
+Kronoloji incelersek... İcra mahkemesinin aldığı bir karara karşı 2. haftanın son iş gününde bölge adliye mahkemesine istinafa gidilsin. Bölge adliye mahkemesi de istinaf kararını 2. haftanın son iş gününde tebliğ etsin. Ardından bölge adliye mahkemesinin kararına karşı tebliğ tarihinden sonra 2. haftanın son iş gününde Yargıtay'a temyize gidilsin. Yargıtay'ın ilgili dairesi de temyiz kararını 2. haftanın son iş gününde tebliğ etsin. Sonuç olarak icra mahkemesinin kararına karşı açılacak istinaf ve temyiz davalarının süresi icra mahkemesi karar tarihininden itibaren en fazla 2 ay 2 gün sonrası olabilir diyebiliriz.
 
 
 [^1]: Dayanağı [2709 sayılı Türkiye Cumhuriyeti Anayasası](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf)'nın 129. maddesidir.
