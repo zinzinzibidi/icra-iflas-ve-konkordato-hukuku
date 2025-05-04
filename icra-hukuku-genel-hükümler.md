@@ -72,6 +72,7 @@ Cebri icranın birinci derece görevli kurumudur.
 
 > [!Tip]
 > İcra ve İflas Kanunu, Madde 1:
+> 
 > Her asliye mahkemesinin yargı çevresinde yeteri kadar icra dairesi bulunur.
 >  
 > Her icra dairesinde Adalet Bakanlığı tarafından atanacak bir icra müdürü, yeteri kadar 
@@ -105,6 +106,7 @@ tarafından görevlendirilecek mübaşir ve hizmetli bulunur.
 
 > [!Tip]
 > İcra ve İflas Kanunu, Madde 8:
+> 
 > İcra ve iflas daireleri yaptıkları muamelelerle kendilerine vakı talep ve beyanlar hakkında bir tutanak yaparlar. Sözlü itirazlar ile talep ve beyanların altları ilgililer ve icra memuru veya yardımcısı veya katibi tarafından imzalanır.
 >  
 > İcra ve iflas dairelerince verilen kararlar gerekçeli olarak tutanaklara yazılır.
