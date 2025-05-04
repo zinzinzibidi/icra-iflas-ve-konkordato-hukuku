@@ -145,7 +145,7 @@ Dosya numaraları takibin yapıldığı yılın numarası ile başlar. Ardından
 > [!Tip]
 > Bu noktada "tutanak" ile "dosya" arasındaki farkı belirtmekte fayda var. Tutanak, alacaklı ile icra dairesi arasındaki beyanları içeren yazılı belgedir. Dosya ise takibin başlaması ile birlikte icra dairesi ile borçlu arasındaki belgeleri içerir. Bu nedenle tutanak aynı zamanda takip dosyasının ayrılmaz bir parçasıdır.
 
-<p align="center" style="border: 48px">
+<p align="center" style="border-radius: 48px">
     <img src="https://zinzinzibidi.com/img/github/uyap-vatandas-icra-dosya-sorgulama.jpg" alt="uyap vatandaş icra dosyası sorgulama (görsel)" style="width:600px;/>
 </p>
 
