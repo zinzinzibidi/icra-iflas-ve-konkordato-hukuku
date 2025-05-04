@@ -149,11 +149,11 @@ Meydana gelmek.
 
 * Süresi:
 
- * Kişi lehine kurulmuşsa, intifa hakkı sahibinin ölümüyle sona erer.
+| * Kişi lehine kurulmuşsa, intifa hakkı sahibinin ölümüyle sona erer.
 
- * Belirli bir süre için kurulmuşsa, süre dolunca biter.
+| * Belirli bir süre için kurulmuşsa, süre dolunca biter.
 
- * TMK’ya göre en fazla 30 yıl için tesis edilebilir (TMK m.796).
+| * TMK’ya göre en fazla 30 yıl için tesis edilebilir (TMK m.796).
 
 <a id="istihkak-davasi"></a>
 ## İstihkak Davası
