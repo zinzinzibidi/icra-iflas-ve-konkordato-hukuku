@@ -20,6 +20,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[İcra Dairesinin Yükümlülükleri](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-dairelerinin-y%C3%BCk%C3%BCml%C3%BCl%C3%BCkleri)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[İcra Dairesi Personelinin Sorumlulukları](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-dairesi-personelinin-sorumluluklar%C4%B1)
+
 <a id="#cebri-icra"></a>
 ## Cebri İcra
 
