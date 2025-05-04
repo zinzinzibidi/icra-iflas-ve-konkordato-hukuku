@@ -436,7 +436,9 @@ Kronolojik olarak dava sürelerini incelersek... İcra mahkemesinin aldığı bi
 
 "her nevi", her türlü anlamına gelmektedir. "İntifa hakkı"na örnek olarak borçlunun evini kiraya vermesi ve kira geliri elde etmesi örnek gösterilebilir. "ilama müstenit olmayan nafakalar", mahkeme kararı (ilam) olmadan, kanun veya tarafların anlaşmasıyla belirlenen nafaka türlerini belirtir. Bunlar, resmi bir yargı süreci gerektirmeyen fakat hukuken geçerli olan nafakalardır. "tekaüt maaşları" ise bildiğimiz emekli maaşıdır.
 
-Kanundan da anlaşılacağı üzere icra müdürü borçlunun tüm maaşını haczedemez. Borçlunun ve ailesinin geçimine yetecek tutarı borçluya bıraktıktan sonra kalan tutar üzerinden haciz uygulayabilir. Borçlu icra müdürünün madde 83'e aykırı bir işlem yaptığını öne sürerse 7 gün içerisinde şikâyet hakkını kullanabilir ve icra mahkemesine şikâyet başvurusunda bulunabilir. Kanununda ayrıca "sigortalar veya tekaüt sandıkları tarafından tahsis edilen iratlar" hükmü dikkat çekicidir. İcra müdürünün kanunun elverdiği ölçüde borçlunun bireysel emeklilik sisteminde ya da emekli sandığında biriken tutarları üzerine de haciz koyma yetkisi bulunmaktadır.
+Kanundan da anlaşılacağı üzere icra müdürü borçlunun tüm maaşını haczedemez. Borçlunun ve ailesinin geçimine yetecek tutarı borçluya bıraktıktan sonra kalan tutar üzerinden haciz uygulayabilir. Borçlu, icra müdürünün madde 83'e aykırı bir işlem yaptığını öne sürerse 7 gün içerisinde şikâyet hakkını kullanabilir ve icra mahkemesine şikâyet başvurusunda bulunabilir.
+
+Kanununda ayrıca "sigortalar veya tekaüt sandıkları tarafından tahsis edilen iratlar" hükmü dikkat çekicidir. İcra müdürünün kanunun elverdiği ölçüde borçlunun bireysel emeklilik sisteminde ya da emekli sandığında biriken tutarları üzerine de haciz koyma yetkisi bulunmaktadır.
 
 Kimi durumlarda şikâyet süresizdir. Örneğin; icra müdürü takip talebini işleme koymaz ve alacaklının hakkını yerine getirmezse ya da kanunun öngördüğü şekilde üç gün içerisinde ödeme emrini düzenleyerek borçluya göndermezse ve alacaklının hakkını sürüncemede bıkarırsa şikâyet süreye tâbi değildir. 
 
