@@ -30,7 +30,8 @@
 
 &nbsp;&nbsp;&nbsp;[Yargıtay'ın İlgili Daireleri](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#yarg%C4%B1tay%C4%B1n-i%CC%87lgili-daireleri)
 
-<a id="#cebri-icra"></a>
+&nbsp;[Şikâyet]()
+
 ## Cebri İcra
 
 Cebri "zor kullanılarak yaptırılan", icra ise "yapma, yerine getirme, yürütme" anlamına gelmektedir.
@@ -53,7 +54,7 @@ olmak üzere kendi içinde ayrılmaktadır.
 
 > [!Tip]
 > İlamlı ve ilamsız konularına ilerleyen bölümlerde değineceğiz. Şimdilik "Cebri icra" denilince aklımıza "İcra ve İflas Hukuku"nun gelmesi yeterli. Diğer bir ifade ile cebri icra, hem icra hukuku hem de iflas hukuku hükümlerini kapsamaktadır.
-<a id="#icra-ve-iflas-hukuku-dayanagi"></a>
+
 ## İcra ve İflas Hukukunun Dayanağı
 
 Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adlandırılmaktadır. 
@@ -73,7 +74,7 @@ Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adl
 * Anayasa Mahkemesi Kararları
 
 gibi birçok kanun, yönetmelik ve kararı içermektedir.
-<a link="#cebri-icra-kurumlari"></a>
+
 ## Cebri İcra Kurumları
 
 ```mermaid
@@ -98,7 +99,7 @@ flowchart TD
 * Yargıtay'ın İlgili Daireleri
 
 temel icra kurumlarıdır. Bunun dışında asliye ceza mahkemesi, cumhuriyet savcıları, adalet müfettişleri yardımcı rolündedir.
-<a id="#icra-dairesi"></a>
+
 ### İcra Dairesi
 
 Cebri icranın birinci derece görevli kurumudur.
@@ -111,7 +112,7 @@ Cebri icranın birinci derece görevli kurumudur.
 > Her icra dairesinde Adalet Bakanlığı tarafından atanacak bir icra müdürü, yeteri kadar icra müdür yardımcısı, icra katibi ile adli yargı ilk derece mahkemesi adalet komisyonları tarafından görevlendirilecek mübaşir ve hizmetli bulunur. 
 
 İcra dairelerine ilk maddede değinilmesinden de anlaşılacağı üzere tüm icra konularında en önemli görevi icra daireleri yürütmektedir.
-<a id="#icra-dairesinin-temel-gorevleri"></a>
+
 #### İcra Dairesinin Temel Görevleri
 
 * Ödeme emri düzenleyip borçluya göndermek
@@ -119,13 +120,13 @@ Cebri icranın birinci derece görevli kurumudur.
 * Haczedilen malın paraya çevrilmesi
 * Paraya çevrilen para ile alacaklının alacağının ödenmesi
 * Konusu paradan başka şey olan ilamların icra edilmesi
-<a id="#icra-dairesinin-yetkileri"></a>
+
 #### İcra Dairesinin Yetkileri
 
 * Her makam ile doğrudan yazışabilir ve bilgi isteyebilir.
 * Gerekirse zor kullanabilir.
 * Yetkisi dışındaki işlemler için başka icra daireleri ile istinabe edebilir.
-<a id="#icra-dairesinin-yukumlulukleri"></a>
+
 #### İcra Dairelerinin Yükümlülükleri
 
 * Dosya ve Tutanak Düzenlemek
@@ -415,7 +416,18 @@ Kronolojik olarak dava sürelerini incelersek... İcra mahkemesinin aldığı bi
 >
 > Bu nedenle icra mahkesinin hukuk mahkemesi mi yoksa ceza mahkemesi sıfatıyla mı karar verdiğini bilmek önemlidir.
 
+## Şikâyet
+
+İcra hukukunda şikayet ve itiraz ayrımına [İcra Mahkemesi](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-mahkemesi) bölümünde değinmiştik. Genel bir tanım yapacak olursak şikâyet, icra (ve iflâs) dairelerinin işlemlerinin icra ve iflâs hukukuna uygun olarak yerine getirip getirmediklerinin denetlenmesini sağlayan kendine özgü bir hukuki çaredir. Şikâyetin konusu icra (ve iflâs) dairesinin yapmış olduğu işlemlerdir. [^2]
+
+
+
+
+
+
+
 
 
 [^1]: Dayanağı [2709 sayılı Türkiye Cumhuriyeti Anayasası](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf)'nın 129. maddesidir.
+[^2]: Şematik İcra ve İflas Hukuku, Prof. Dr. Cenk AKİL, Dr. Öğr. Üyesi Süleyman TOPAK, Güncellenmiş 2. Baskı, Ekim 2024, s.25
 
