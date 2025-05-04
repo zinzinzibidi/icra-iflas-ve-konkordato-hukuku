@@ -22,6 +22,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[İcra Dairesi Personelinin Sorumlulukları](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-dairesi-personelinin-sorumluluklar%C4%B1)
 
+&nbsp;&nbsp;&nbsp;[İcra Daireleri Başkanlığı]()
+
 <a id="#cebri-icra"></a>
 ## Cebri İcra
 
@@ -60,6 +62,7 @@ Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adl
 * [7201 sayılı Tebligat Kanunu](https://www.mevzuat.gov.tr/mevzuatmetin/1.3.7201.pdf)
 * [213 sayılı Vergi Usul Kanunu](https://www.mevzuat.gov.tr/mevzuatmetin/1.4.213.pdf)
 * [657 sayılı Devlet Memurları Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf)
+* [2802 sayılı Hâkimler ve Savcılar Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2802.pdf)
 * Yargıtay Kararları
 * Anayasa Mahkemesi Kararları
 
@@ -272,7 +275,26 @@ Eğer icra mahkemesi davacıyı haklı bulursa tazminat tutarı için personele 
 
 Son olarak icra dairesi personeli işini bilerek sürüncemede bırakırsa ya da geçerli bir sebep olmadan işini yapmaktan kaçınırsa [657 sayılı Devlet Memurları Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf)'nun hükümleri doğrultusunda personele disiplin cezası uygulanır. Disiplin sorumluluğunu icra dairesi personelinin üç temel sorumluluğundan biridir.
 
+### İcra Daireleri Başkanlığı
 
+> [!Note]
+> İcra ve İflas Kanunu, Madde 3:
+> 
+> İcra ve iflas işleri bir dairede birleştirilebilir.
+>
+> İş yoğunluğunun veya icra dairesi sayısının fazla olduğu illerde Adalet Bakanlığı tarafından, yetki çevresi de belirlenmek suretiyle bir veya birden fazla icra daireleri başkanlığı kurulabilir.
+>
+> Başkanlıkta bir başkan ile yeteri kadar başkan yardımcısı bulunur. Başkan birinci sınıf olmuş, başkan yardımcısı ise birinci sınıfa ayrılmış adli yargı hâkim ve Cumhuriyet savcıları arasından muvafakatleri alınarak Bakanlıkça atanır. Ayrıca başkanlıkta, yeteri kadar icra başmüdürü, icra müdürü, icra müdür yardımcısı, icra kâtibi ve memur Adalet Bakanlığı tarafından görevlendirilir.
+>
+> İcra daireleri başkanı ve başkan yardımcıları hakkında, bu Kanunda hüküm bulunmayan hâllerde 24/2/1983 tarihli ve 2802 sayılı Hâkimler ve Savcılar Kanununun Adalet Bakanlığı merkez kuruluşunda çalışan hâkimlere ilişkin hükümleri uygulanır.
+>
+> Başkanlık, icra dairelerinin gözetim ve denetimlerini yapar, idari işlerine bakar; mevzuatla verilen görevleri yerine getirir.
+>
+> Bu madde hükmü iflas daireleri ile iflas dairelerinde çalışan görevliler hakkında da uygulanır.
+>
+> Bu maddenin uygulanmasına ilişkin usul ve esaslar, Adalet Bakanlığınca yürürlüğe konulan yönetmelikle belirlenir.
+
+Belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının fazla olduğu illerde Adalet Bakanlığınca icra daireleri başkanlığı kurulabilir. Bu başkanlığın başında görevini yapacağını kabul eden (muvafakat eden) hakim ya da savcı başkan görevini sürdürür. Başkanlığının asıl görevi icra dairelerinin işlerini gözetmek ve denetlemektir. Bu nedenle alacaklı icra takibini icra dairesi başkanlığında başlatamaz. Takibin icra dairesinde başlatılması esastır.
 
 
 
