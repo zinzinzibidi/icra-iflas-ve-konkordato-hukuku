@@ -304,7 +304,7 @@ Kanunda belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının 
 
 ### İcra Mahkemesi
 
-İcra dairelerinin icra sürecindeki işlemlerin hukuka uygun olup olmadığnı denetlemekle görevli temel cebri icra kurumundan biridir.
+İcra dairelerinin icra sürecindeki işlemlerinin hukuka uygun olup olmadığnı denetlemekle görevli temel cebri icra kurumundan biridir.
 
 > [!Note]
 > İcra ve İflas Kanunu, Madde 4:
