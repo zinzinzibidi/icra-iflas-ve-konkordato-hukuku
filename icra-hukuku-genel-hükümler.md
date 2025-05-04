@@ -344,16 +344,16 @@ Kanunda belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının 
 >
 > Bu suç alacaklının şikâyeti üzerine takip olunur. Borçluyu fazla borç altına girmeye veya talih oyunu ile spekülasyonlarda bulunmaya sevk etmiş yahut ağır faiz almak suretiyle zaafından istifade etmiş olan alacaklıların şikâyet hakkı yoktur.
 
-Diyelim ki Ahmet adlı biri Mehmet adlı farklı bir kişiden 100.000 TL borç almış olsun. Ahmet, Mehmet'ten borç aldığı tüm parayı Mehmet'in icra takibini başlatmasından bir sene önce özel bir yatırım şirketine yatırsın ve kaldıraçlı işlem yapsın. Ahmet kaldıraçlı işlem sonrası yatırdığı tüm parayı kaybetsin. Eğer Mehmet'in elinde icra sonrası verilen aciz belgesi varsa Mehmet ya da vekili, icra mahkemesine bu belgeyi ibraz edip, kendisinden alınan borç para ile basiretsizce spükalatif bir işlem yapıldığını öne sürerek on beş günden altı aya kadar hapis cezası alması amacıyla Ahmet aleyhine dava açabilir.
+Diyelim ki Ahmet adlı biri Mehmet adlı farklı bir kişiden 100.000 TL borç almış olsun. Ahmet, Mehmet'ten aldığı 100.000 TL'yi Mehmet'in icra takibi başlatmasından bir sene önce özel bir yatırım şirketine yatırsın ve kaldıraçlı işlem yapsın. Ahmet kaldıraçlı işlem sonrası yatırdığı tüm parayı kaybetsin. Eğer Mehmet'in elinde icra sonrası verilen aciz belgesi varsa Mehmet ya da vekili, icra mahkemesine bu belgeyi ibraz edip, kendisinden alınan borç para ile basiretsizce spükalatif bir işlem yapıldığını öne sürerek on beş günden altı aya kadar hapis cezası alması amacıyla Ahmet aleyhine dava açabilir.
 
 > [!Note]
 > İcra ve İflas Kanunu, Madde 347:
 > 
 > Bu Bapta yer alan fiillerden dolayı şikâyet hakkı, fiilin öğrenildiği tarihten itibaren üç ay ve her halde fiilin işlendiği tarihten itibaren bir yıl geçmekle düşer.
 
-İcra ceza mahkemelerinin görev ve hükümlerini içeren on altıncı bap'ta da belirtildiği üzere icra dairesi aleyhine olan şikâyet hakkı, şikâyet konusu fiilin öğrenildiği tarihten itibaren 3 ay, fiilin işlendiği tarihten itibaren ise en fazla 1 yıl içinde düşmektedir.
+İcra ceza mahkemelerinin görev ve hükümlerini içeren on altıncı bap'ta icra dairesi aleyhine olan şikâyet hakkı, şikâyet konusu fiilin öğrenildiği tarihten itibaren 3 ay, fiilin işlendiği tarihten itibaren ise en fazla 1 yıl içinde düşmektedir.
 
-Örneğin; borçlu alacaklının kan bağı olduğu bir icra memurunun takip dosyası üzerinde çalıştığını öğrenirse 3 ay içerisinde icra mahkemesine şikâyet yoluna gidebilir ve icrayı durdurabilir. Eğer borçlu bu durumu takip başladıktan 1 sene sonra öğrenirse borçlunun şikâyet yolu kalmamaktadır. İcra durdurulmadan takip sürecine devam edilir.
+Örneğin; borçlu alacaklının kan bağı olduğu bir icra memurunun takip dosyası üzerinde çalıştığını öğrenirse 3 ay içerisinde icra mahkemesine şikâyet yoluna gidebilir ve icrayı durdurabilir. Eğer borçlu bu durumu takip başladıktan 1 sene sonra öğrenirse borçlunun şikâyet yolu kalmamaktadır. İcra mahkemesi şikayetin hükümsüz olduğuna kanaat getirir ve icra dairesi tarafından icra prosedürlerine devam edilir.
 
 
 
