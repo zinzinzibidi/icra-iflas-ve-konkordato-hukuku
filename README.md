@@ -10,13 +10,21 @@ Keyifli okumalar
 
 ## İçindekiler
 
-[İcra Hukuku](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku.md)
+### İcra Hukuku
 
-[İflas Hukuku](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/iflas-hukuku.md)
+* [Genel Hükümler](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-hükümler.md)
 
-[Konkordato Hukuku](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/konkordato-hukuku.md)
+### İflas Hukuku
 
-[Terimler ve Kavramlar](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/terimler-ve-kavramlar.md)
+* [Genel Hükümler](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/iflas-hukuku-genel-hükümler.md)
+
+### Konkordato Hukuku
+
+* [Genel Hükümler](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/konkordato-hukuku-genel-hükümler.md)
+
+### Ekler
+
+* [Terimler ve Kavramlar](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/terimler-ve-kavramlar-genel-hükümler.md)
 
 ## Kısaltmalar
 
