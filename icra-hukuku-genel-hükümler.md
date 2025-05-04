@@ -70,8 +70,8 @@ temel icra kurumlarıdır. Bunun dışında icra mahkemesi dışında kalan mahk
 
 Cebri icranın birinci derece görevli kurumudur.
 
-İcra ve İflas Kanunu, Madde 1:
-
+> [!Tip]
+> İcra ve İflas Kanunu, Madde 1:
 > Her asliye mahkemesinin yargı çevresinde yeteri kadar icra dairesi bulunur.
 >  
 > Her icra dairesinde Adalet Bakanlığı tarafından atanacak bir icra müdürü, yeteri kadar 
@@ -103,9 +103,8 @@ tarafından görevlendirilecek mübaşir ve hizmetli bulunur.
 
 #### Dosya ve Tutanak Düzenlemek
 
-İcra ve İflas Kanunu, Madde 8:
-
 > [!Tip]
+> İcra ve İflas Kanunu, Madde 8:
 > İcra ve iflas daireleri yaptıkları muamelelerle kendilerine vakı talep ve beyanlar hakkında bir tutanak yaparlar. Sözlü itirazlar ile talep ve beyanların altları ilgililer ve icra memuru veya yardımcısı veya katibi tarafından imzalanır.
 >  
 > İcra ve iflas dairelerince verilen kararlar gerekçeli olarak tutanaklara yazılır.
