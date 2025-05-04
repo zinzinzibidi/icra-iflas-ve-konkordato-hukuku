@@ -68,6 +68,7 @@ Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adl
 * [6100 sayılı Hukuk Muhakemeleri Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf)
 * [7201 sayılı Tebligat Kanunu](https://www.mevzuat.gov.tr/mevzuatmetin/1.3.7201.pdf)
 * [213 sayılı Vergi Usul Kanunu](https://www.mevzuat.gov.tr/mevzuatmetin/1.4.213.pdf)
+* [6102 sayılı Türk Ticaret Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6102.pdf)
 * [657 sayılı Devlet Memurları Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf)
 * [2802 sayılı Hâkimler ve Savcılar Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2802.pdf)
 * Yargıtay Kararları
@@ -440,7 +441,19 @@ Kanundan da anlaşılacağı üzere icra müdürü borçlunun tüm maaşını ha
 
 Kanununda ayrıca "sigortalar veya tekaüt sandıkları tarafından tahsis edilen iratlar" hükmü dikkat çekicidir. İcra müdürünün kanunun elverdiği ölçüde borçlunun bireysel emeklilik sisteminde ya da emekli sandığında bulunan birikimleri üzerine de haciz koyma yetkisi bulunmaktadır.
 
-Kimi durumlarda ise şikâyet süresizdir. Örneğin; icra müdürü takip talebini işleme koymaz ve alacaklının hakkını yerine getirmezse ya da kanunun öngördüğü şekilde 3 gün içerisinde ödeme emrini düzenleyerek borçluya göndermez ve alacaklının hakkını sürüncemede bıkarırsa şikâyet süreye tâbi değildir. 
+Kimi durumlarda ise şikâyet süresizdir. Örneğin; icra müdürü takip talebini işleme koymaz ve alacaklının hakkını yerine getirmezse ya da kanunun öngördüğü şekilde 3 gün içerisinde ödeme emrini düzenleyerek borçluya göndermez ve alacaklının hakkını sürüncemede bıkarırsa şikâyet süreye tâbi değildir.
+
+## Şikâyet Yolları
+
+* Dilekçeyle doğrudan icra mahkemesine
+* Sözlü olarak beyan edilmesi ile ve icra mahkemesinde tutanak tutulmasıyla
+* Elektronik ortamda UYAP üzerinden
+
+olmak üzere üç farklı şekilde yapılabilmektedir. Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe ile yapılabilmesidir.
+
+>[!Tip]
+> Kambiyo senetlerinden kasıt poliçe (bono), banka çeki ya da emre yazılı borç senedidir. [6102 sayılı Türk Ticaret Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6102.pdf)'nun 670 inci maddesinden itibaren kambiyo senetleri anlatılmaktadır.
+
 
 
 
