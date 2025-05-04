@@ -326,6 +326,22 @@ Kanunda belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının 
 * İcra ya da iflas konusu ihalenin feshi talepleri icra mahkemesinde karara bağlanır.
 * İcra ve iflas suçlarının önemli bir bölümüne "icra ceza mahkemesi" sıfatıyla bakar.
 
+#### İcra Ceza Mahkemesi
+
+İcra mahkemelerinin icra ve iflas suçlarına "icra ceza mahkemesi" sıfatıyla bakabildiğini İcra ve İflas Kanunu'un on altıncı bap'ında bulunan 331 ve 354 arasındaki tüm maddelerde görebilmekteyiz.
+
+Örnek vermek gerekirse
+
+> [!Note]
+> İcra ve İflas Kanunu, Madde 332:
+> 
+> Haciz yolu ile takip talebinden sonra veya bu talepten önceki iki yıl içinde borçlu, adet üzere tecviz edilemiyecek bir hiffetle hareket ederek veya haddinden ziyade masraflar yaparak yahut cüretli talih oyunlarına veya basiretsizce spekülasyonlara girişerek yahut işlerinde ağır ihmallerde bulunarak aczine kendi fiili ile sebebiyet verir yahut vaziyetinin fenalığını bildiği halde o gibi hareketlerle bu fenalığı ağırlaştırırsa, aleyhine aciz belgesi istihsal edildiği veya alacaklı alacağını istifa edemediğini ispat ettiği takdirde, onbeş günden altı aya kadar hapis cezasiyle cezalandırılır.
+>
+> Konkordato mühleti talebinden önceki iki yıl içinde birinci fıkradaki fiilleri işleyen borçlu hakkında da bu hükümler uygulanır.
+>
+> Bu suç alacaklının şikâyeti üzerine takip olunur. Borçluyu fazla borç altına girmeye veya talih oyunu ile spekülasyonlarda bulunmaya sevk etmiş yahut ağır faiz almak suretiyle zaafından istifade etmiş olan alacaklıların şikâyet hakkı yoktur.
+
+
 
 
 
