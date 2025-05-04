@@ -363,6 +363,9 @@ başlandıktan sonra borçlu borcun tamamını veya o tarihe kadar icra veznesin
 
 Diyelim ki takip süreci başlatılmış olsun. Borçlu alacaklıya olan borcunu 1 eylül 2026 tarihinde, 4 ay sonra, 4 ocak 2027 tarihinde ödeyeceğini beyan etsin. Alacaklı da bunu kabul edip icra dairesine bildirsin. 4 ay sonra, 4 ocak 2027'de borçlu alacaklıya olan borcunu ödemezse alacaklı kanunun 340 ıncı maddesini öne sürüp borçlunun 3 aya kadar tazyik hapsi için icra mahkemesine şikayette bulunabilir. Fakat bu şikayet, 347 nci maddede belirtildiği üzere 4 ocak 2028'den sonraki bir tarihte, 1 yılı geçtiği takdirde yapılırsa icra mahkemesince hükümsüz kabul edilecek, borçlu 3 aya kadar tayzik hapsine mahkum edilemeyecektir.
 
+> [!Tip]
+> Tazyik hapsinen İİK'nun 343'üncü maddesinde değinilmiştir. En fazla 3 ay süreyle verilebilir ve amaç borçlunun ödeme yapmaya zorlamaksıdır. Borçlu hapsi sırasında mahkeme emrini yerine getirirse tahliye olur.>
+
 ### Bölge Adliye Mahkemesi
 
 > [!Note]
