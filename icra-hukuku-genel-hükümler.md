@@ -167,7 +167,7 @@ Cebri icranın birinci derece görevli kurumudur.
 >
 > Elektronik işlemlerin Ulusal Yargı Ağı Bilişim Sistemi vasıtasıyla yapılmasına dair usul ve esaslar, Adalet Bakanlığı tarafından çıkarılan yönetmelikle düzenlenir.
 
-Her türlü icra ve iflas işleminde 2012 yılından itibaren kullanılmaya başlanan Ulusal Yargı Ağı Bilişim Sistemi (UYAP Bilişim Sistemi) icra ve iflas tutanak ve dosyaları fiziki olarak hazırlansa bile bu dosyaların elektronik ortamda saklanmasını zorunlu kılmıştır. Dosyalarda ıslak imza kullanılsa bile elektronik imzaların öncelik olması gerektiği, elektronik imzaların atılamadığı durumlarda ıslak imzaların her şekilde elektronik ortama (UYAP Bilişim Sistemine) aktarılacağı belirtilmiştir.
+Her türlü icra ve iflas işleminde 2012 yılından itibaren kullanılmaya başlanan Ulusal Yargı Ağı Projesi Bilişim Sistemi (UYAP Bilişim Sistemi) icra ve iflas tutanak ve dosyaları fiziki olarak hazırlansa bile bu dosyaların elektronik ortamda saklanmasını zorunlu kılmıştır. Dosyalarda ıslak imza kullanılsa bile elektronik imzaların öncelik olması gerektiği, elektronik imzaların atılamadığı durumlarda ıslak imzaların her şekilde elektronik ortama (UYAP Bilişim Sistemine) aktarılacağı belirtilmiştir.
 
 Dosya numaraları takibin yapıldığı yılın numarası ile başlar. Ardından sıra numarası eklenir. Örneğin; 2027/1424 sayılı Takip Dosyası.<br>
 2027 takibin yapıldığı yılı, 1424 ise bu yıldaki 1424. takip dosyasını belirtmektedir.
