@@ -139,7 +139,7 @@ mühürlenir.
 
 Her türlü icra ve iflas işlemlerinde 2012 yılındandan itibaren kullanılmaya başlanan Ulusal Yargı Ağı Bilişim Sistemi (UYAP Bilişim Sistemi) icra ve iflas tutanak ve dosyalarının fiziki olarak hazırlansa bile elektronik ortamda saklanmasını zorunlu kılmıştır. 8. maddede zorunlu hallerde ıslak imza kullanılsa bile elektronik imzaların atılacağı ve bu imzaların ıslak imzalar ile aynı hükümde olacağı vurgulanmıştır.
 
-Dosya numaraları takibin yapıldığı yılın numarası ile başlar. Ardından sıra numarası eklenir. Örneğin; 2027/1424.<br>
+Dosya numaraları takibin yapıldığı yılın numarası ile başlar. Ardından sıra numarası eklenir. Örneğin; 2027/1424 sayılı Takip Dosyası.<br>
 2027 takibin yapıldığı yılı, 1424 ise bu yıldaki 1424. takip dosyasını belirtmektedir.
 
 > [!Tip]
