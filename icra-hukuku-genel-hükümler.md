@@ -320,18 +320,18 @@ Kanunda belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının 
 >
 > İcra yetkisini haiz sulh mahkemelerinin muamelelerine karşı vuku bulacak şikayet ve itirazların icra mahkemesi o mahkemenin hakimidir. 
 
-* İcra konusu tutarda ya da eşyada hata olması durumu ya da buna benzer bir durum söz konusu ise alacaklı ya da borçlunun itiraz hakkı doğmaktadır. İtiraz konusu icra mahkemesinde karara bağlanır.
-* Alacaklı icra dosyasının sürüncemede bırakıldığını, icranın kanuni süreler içerisinde yapılmadığını ya da buna benzer bir nedeni öne sürerse şikâyet hakkı doğmaktadır. Şikâyet konusu icra mahkemesinde karara bağlanır.
-* Alacaklı ya da borçlu yanlış bir eşyanın haczedildiği konusunda istihkak davası başlatırsa bu dava icra mahkemesinde karara bağlanır.
-* İcra ya da iflas konusu ihalenin feshi talepleri icra mahkemesinde karara bağlanır.
+* İcra konusu tutarda ya da eşyada hata olması durumu ya da buna benzer bir durum söz konusu ise alacaklı ya da borçlunun itiraz hakkı doğmaktadır. İtiraz konusu icra mahkemesince karara bağlanır.
+* Alacaklı icra dosyasının sürüncemede bırakıldığını, icranın kanuni süreler içerisinde yapılmadığını ya da buna benzer bir nedeni öne sürerse şikâyet hakkı doğmaktadır. Şikâyet konusu icra mahkemesince karara bağlanır.
+* Alacaklı ya da borçlu yanlış bir eşyanın haczedildiği konusunda istihkak davası başlatırsa bu dava icra mahkemesince karara bağlanır.
+* İcra ya da iflas konusu ihalenin feshi talepleri icra mahkemesince karara bağlanır.
 * İcra ve iflas suçlarının önemli bir bölümüne "icra ceza mahkemesi" sıfatıyla bakar.
 
 > [!Tip]
-> Dikkat edilirse "itiraz" icra konusuna yöneliktir. İcra dairesi aleyhine değildir. "Şikayet" ise icra dairesi aleyhinedir. İcra konusu tutara ya da eşyaya yönelik değildir.
+> Dikkat edilirse "itiraz" icra konusuna yöneliktir. İcra dairesi aleyhine değildir. "Şikayet" ise icra dairesi aleyhinedir. İcra konusu tutara, eşyaya ya da borçluya yönelik değildir.
 
 #### İcra Ceza Mahkemesi
 
-İcra mahkemelerinin icra ve iflas suçlarına "icra ceza mahkemesi" sıfatıyla bakabildiğini İcra ve İflas Kanunu'un on altıncı bap'ında bulunan 331 ve 354 arasındaki tüm maddelerde görebilmekteyiz.
+İcra mahkemelerinin icra ve iflas suçlarına "icra ceza mahkemesi" sıfatıyla bakabildiğini İcra ve İflas Kanunu'un on altıncı bap'ında bulunan 331 ve 354 arasındaki maddelerde görebilmekteyiz.
 
 Örnek vermek gerekirse
 
@@ -343,6 +343,8 @@ Kanunda belirtildiği üzere iş yoğunluğunun ya da icra dairesi sayısının 
 > Konkordato mühleti talebinden önceki iki yıl içinde birinci fıkradaki fiilleri işleyen borçlu hakkında da bu hükümler uygulanır.
 >
 > Bu suç alacaklının şikâyeti üzerine takip olunur. Borçluyu fazla borç altına girmeye veya talih oyunu ile spekülasyonlarda bulunmaya sevk etmiş yahut ağır faiz almak suretiyle zaafından istifade etmiş olan alacaklıların şikâyet hakkı yoktur.
+
+Diyelim ki Ahmet adlı biri Mehmet adlı farklı bir kişiden 100.000 TL borç almış olsun. Ahmet, Mehmet'ten aldığı tüm parayı Mehmet'in icra takibini başlatmasından bir sene önce özel bir yatırım şirketine yatırsın ve kaldıraçlı işlem yapsın. Kaldıraçlı işlem sonrası yatırdığı tüm parasını kaybetsin. Eğer Mehmet'in elinde icra davası sonrası aciz belgesi varsa icra ceza mahkemesine bu belgeyi ibraz edip ve Ahmet'in kendisinden aldığı borç para ile basiretsizce spükalatif bir işlem yaptığını öne sürüp Ahmet'in on beş günden altı aya kadar hapis cezası alması amacıyla dava açabilir.
 
 
 
