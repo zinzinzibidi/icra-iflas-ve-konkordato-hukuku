@@ -14,6 +14,8 @@ Bu bölümde İcra ve İflas Hukuku ile Konkordato Hukukuyla ilgili tüm terim v
 
 &nbsp;&nbsp;[İhdas etmek](#ihdas-etmek)
 
+&nbsp;&nbsp;[İntifa Hakkı](#intifa-hakki)
+
 &nbsp;&nbsp;[İstihkak Davası](#istihkak-davasi)
 
 &nbsp;&nbsp;[İstinabe etmek](#istinabe-etmek)
@@ -133,6 +135,25 @@ Mahkeme kararı olmadan, doğrudan icra dairesine başvurularak yapılan takipti
 Meydana gelmek.
 
 "Cebri icra yolunun işlevselliğinin sağlanması adına birtakım icra ve iflâs suçları ihdas edilmiştir."[^1]
+
+<a id="intifa-hakki"></a>
+## İntifa Hakkı
+
+İntifa hakkı, Türk Medeni Kanunu'nda (TMK) düzenlenen bir ayni hak türüdür. Bir malın kullanılmasından ve ondan yararlanılmasından elde edilen geliri (faydayı) başkasına devretme hakkını ifade eder.
+
+### İntifa Hakkının Özellikleri
+
+* Konusu: Taşınır veya taşınmaz mallar (ev, arazi, araba, hisse senedi vb.) olabilir.
+
+* Sahibi (İntifa Hakkı Sahibi): Malı kullanma, kiraya verme veya ürünlerinden yararlanma yetkisine sahiptir, ancak mülkiyet hakkı malikin (asıl sahibin) elinde kalır.
+
+* Süresi:
+
+- Kişi lehine kurulmuşsa, intifa hakkı sahibinin ölümüyle sona erer.
+
+- Belirli bir süre için kurulmuşsa, süre dolunca biter.
+
+- TMK’ya göre en fazla 30 yıl için tesis edilebilir (TMK m.796).
 
 <a id="istihkak-davasi"></a>
 ## İstihkak Davası
