@@ -411,7 +411,7 @@ Kronolojik olarak dava sürelerini incelersek... İcra mahkemesinin aldığı bi
 > [!Important]
 > İcra mahkemesi "hukuk mahkemesi" sıfatıyla kararını tebliğ etmişse bu karara karşı bölge adliye mahkemesine istinaf, bölge adliye mahkemesi kararına karşı ise Yargıtay'a temyiz yoluna gidilebilir.
 >
-> İcra mahkemesi kanunun on altıncı bap'ındaki maddelere istinaden kararını "ceza mahkemesi" sıfatıyla tebliğ etmişse bu karara karşı 353 üncü madde de belirtildiği üzere birden fazla icra mahkemesi dairesinin bulunması durumunda bir sonraki icra mahkemesi dairesine, tek icra mahkemesi dairenin bulunması durumunda ise asliye ceza mahkemesine itiraz edilebilir. Eğer icra mahkemesi ile asliye ceza mahkemesi hakimleri aynı hakim ise en yakın asliye ceza mahkemesine itirazda bulunulabilir ve itiraz sonucu verilen kararlara karşı istinaf ve temyiz yolu kapalıdır.
+> İcra mahkemesi kanunun on altıncı bap'ındaki maddelere istinaden kararını "ceza mahkemesi" sıfatıyla tebliğ etmişse bu karara karşı 353 üncü madde de belirtildiği üzere birden fazla icra mahkemesi dairesinin bulunması durumunda bir sonraki icra mahkemesi dairesine, tek icra mahkemesi dairenin bulunması durumunda ise asliye ceza mahkemesine itiraz edilebilir. Eğer icra mahkemesi ile asliye ceza mahkemesi hakimleri aynı ise en yakın asliye ceza mahkemesine itirazda bulunulabilir. İtiraz sonucu verilen kararlara karşı istinaf ve temyiz yolu kapalıdır.
 >
 > Bu nedenle icra mahkesinin hukuk mahkemesi mi yoksa ceza mahkemesi sıfatıyla mı karar verdiğini bilmek önemlidir.
 
