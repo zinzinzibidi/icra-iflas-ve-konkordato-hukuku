@@ -143,7 +143,7 @@ Dosya numaraları takibin yapıldığı yılın numarası ile başlar ve ardınd
 2027 takibin yapıldığı yılı, 1424 ise bu yıldaki 1424. takip dosyasını belirtmektedir.
 
 > [!Tip]
-> Bu noktada "tutanak" ile "dosya" arasındaki farkı belirtmekte fayda var. Tutanak, alacaklı ile icra dairesi arasındaki beyanları içeren yazılı belgedir. Dosya ise takibin başlaması ile birlikte icra dairesi ile borçlu arasındaki belgeleri içerir. Bu nedenle tutanak da takip dosyasının ayrılmaz bir parçasıdır. 
+> Bu noktada "tutanak" ile "dosya" arasındaki farkı belirtmekte fayda var. Tutanak, alacaklı ile icra dairesi arasındaki beyanları içeren yazılı belgedir. Dosya ise takibin başlaması ile birlikte icra dairesi ile borçlu arasındaki belgeleri içerir. Bu nedenle tutanak aynı zamanda takip dosyasının ayrılmaz bir parçasıdır. 
 
 
 
