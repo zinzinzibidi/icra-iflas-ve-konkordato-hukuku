@@ -24,7 +24,7 @@ Keyifli okumalar
 
 ### Ekler
 
-* [Terimler ve Kavramlar](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/terimler-ve-kavramlar-genel-hükümler.md)
+* [Terimler ve Kavramlar](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/terimler-ve-kavramlar.md)
 
 ## Kısaltmalar
 
