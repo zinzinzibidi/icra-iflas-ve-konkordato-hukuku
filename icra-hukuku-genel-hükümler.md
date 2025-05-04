@@ -1,6 +1,6 @@
 # İcra Hukuku - Genel Hükümler
 
-İlk çağlarda borç ilişkisinden kaynaklı sorunlar şiddet ve tehdit içerikli olaylarla çözülebilirken günümüz modern hukuku bu tür sorunların önüne geçebilmek, toplumda oluşabilecek husumet ve kargaşayı önleyebilmek adına alacak davalarının medeni kurallar dahilinde sonuca bağlanmasını ön görmektedir. Örneğin; Roma Hukuku döneminde *manus iniectio* (el koyma) hükümleri gereği borçlu, borcunu ödemezse alacaklı onu zincire vurup köle olarak çalıştırabilirdi. Günümüzde alacak davası yüzünden borçluyu zincire vurup köle olarak çalıştırmak Türk Ceza Kanunu hükümlerince suç kabul edilmekte, buna rağmen alacaklının alacağını temin edebilmesi için de İcra ve İflas Kanunu'na başvurabileceği kanun koyucular tarafından belirtilmektedir.
+İlk çağlarda borç ilişkisinden kaynaklı sorunlar şiddet ve tehdit içerikli olaylarla çözülebilirken günümüz modern hukuku bu tür sorunların önüne geçebilmek, toplumda oluşabilecek husumet ve kargaşayı önleyebilmek adına alacak davalarının medeni kurallar dahilinde sonuca bağlanmasını öngörmektedir. Örneğin; Roma Hukuku döneminde *manus iniectio* (el koyma) hükümleri gereği borçlu, borcunu ödemezse alacaklı onu zincire vurup köle olarak çalıştırabilirdi. Günümüzde alacak davası yüzünden borçluyu zincire vurup köle olarak çalıştırmak Türk Ceza Kanunu hükümlerince suç kabul edilmekte, buna rağmen alacaklının alacağını temin edebilmesi için de İcra ve İflas Kanunu'na başvurabileceği kanun koyucular tarafından belirtilmektedir.
 
 ## Bölümler
 > [!Tip]
