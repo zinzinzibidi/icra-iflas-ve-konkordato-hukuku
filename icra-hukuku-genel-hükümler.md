@@ -270,7 +270,7 @@ Eğer icra mahkemesi davacıyı haklı bulursa tazminat tutarı için personele 
 
 Şu ana kadar icra dairesi personelinin hukuki sorumluluğuna değindik. İcra dairesi personeli malların haczi sırasında borçlu ile fiziki olarak kavga etti diyelim. Borçlu tarafından da darp raporu alınmış olsun. Bu gibi durumda icra konusu borçlu, personeli dava etmek için asliye ceza mahkemesi yoluna başvurabilir. Bu ise icra dairesi personelinin cezai sorumluluğu olduğunu gösterir.
 
-Son olarak icra dairesi personeli işini bilerek sürüncemede bırakırsa ya da geçerli bir sebep olmadan işini yapmaktan kaçınırsa [657 sayılı Devlet Memurları Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf)'nun hükümleri doğrultusunda personele disiplin cezası uygulanır. Bu ise personelin disiplin sorumluluğunu belirtir.
+Son olarak icra dairesi personeli işini bilerek sürüncemede bırakırsa ya da geçerli bir sebep olmadan işini yapmaktan kaçınırsa [657 sayılı Devlet Memurları Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf)'nun hükümleri doğrultusunda personele disiplin cezası uygulanır. Disiplin sorumluluğunu icra dairesi personelinin üç temel sorumluluğundan biridir.
 
 
 
