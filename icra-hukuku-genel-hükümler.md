@@ -32,6 +32,12 @@
 
 &nbsp;[Şikâyet](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#%C5%9Fik%C3%A2yet)
 
+&nbsp;&nbsp;&nbsp;[Şikâyet Yolları](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#%C5%9Fik%C3%A2yet-yollar%C4%B1)
+
+&nbsp;&nbsp;&nbsp;[Şikâyet Başvurularının İcra Mahkemesince İncelenmediği Haller]( 
+
+
+
 ## Cebri İcra
 
 Cebri "zor kullanılarak yaptırılan", icra ise "yapma, yerine getirme, yürütme" anlamına gelmektedir.
@@ -456,7 +462,7 @@ Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe i
 >[!Tip]
 > Kambiyo senetlerinden kasıt poliçe (bono), banka çeki ya da emre yazılı borç senedidir. [6102 sayılı Türk Ticaret Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6102.pdf)'nun 670 inci maddesinden itibaren kambiyo senetleri anlatılmaktadır.
 
-### Şikâyet Başvurularının İcra Mahkemesince İncelenmediği Durummlar
+### Şikâyet Başvurularının İcra Mahkemesince İncelenmediği Haller
 
 
 
