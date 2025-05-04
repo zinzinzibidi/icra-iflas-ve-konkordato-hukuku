@@ -224,7 +224,7 @@ talimat gereği yapılır. Talimat, paranın icra ve iflas dairesi hesabına yat
 
 Kanunda açıkça belirtiği üzere kan bağı olsun ya da olmasın akrabalık ilişkisi olan hiçbir icra personeli o icra işi ile uğraşamaz.
 
-Örneğin; takip konusu borçlu, icra dosyasına bakan personelin annesinin kız kardeşinin (teyzesinin) kızının (kuzeninin) eşi olamaz. Dikkat edilirse personelin kuzeninin eşi ile icra personeli arasında bir kan bağı mevcut olmamasına (sıhri hısımlık olmasına) rağmen 10. maddede belirtildiği üzere bu takip dosyası üzerinde dosyaya bakan icra dairesi personeli çalışamamaktadır.
+Örneğin; takip konusu borçlu, icra dosyasına bakan personelin annesinin kız kardeşinin (teyzesinin) kızının (kuzeninin) eşi olamaz. Dikkat edilirse borçlu ile icra personeli arasında bir kan bağı mevcut olmamasına (sıhri hısımlık olmasına) rağmen 10. maddede belirtildiği üzere bu takip dosyası üzerinde dosyaya bakan icra dairesi personeli çalışamamaktadır.
 
 Diğer bir örnek: İcra dosyasına bakan personel, alacaklının babasının erkek kardeşinin (amcasının) çocuğunun (kuzeninin) annesi (yengesi) olamaz. Yine aralarında bir kan bağı olmamasına rağmen ilgili icra dairesi personeli sıhri hısımlıktan dolayı takip dosyası üzerinde çalışamamaktadır.
 
