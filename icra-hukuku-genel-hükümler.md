@@ -163,6 +163,7 @@ Ulusal Yargı Ağı Projesi'ne (UYAP'a) [uyap.gov.tr](https://uyap.gov.tr/) adre
 
 > [!Note]
 > İcra ve İflas Kanunu, Madde 9:
+> 
 > İcra ve iflas dairelerine yapılacak her türlü nakdî ödeme, Adalet Bakanlığı tarafından uygun görülecek bankalarda icra ve iflas dairesi adına açılan hesaba yapılır. Haciz sırasında, borçlu veya üçüncü kişiler tarafından yapılan ödeme nedeniyle tahsil edilen paralar, en geç tahsilatın yapıldığı günü takip eden ilk iş günü çalışma saati sonuna kadar banka hesabına yatırılmak üzere icra veya mahkeme kasalarında muhafaza edilir.
 >
 > İcra ve iflas dairelerince yapılması gereken her türlü nakdî ödeme, ilgilisinin gösterdiği banka hesabına aktarılmak üzere, icra müdürü tarafından resen bankaya verilecek 
@@ -180,14 +181,13 @@ talimat gereği yapılır. Talimat, paranın icra ve iflas dairesi hesabına yat
 
 > [!Note]
 > İcra ve İflas Kanunu, Madde 10:
+> 
 > İcra ve iflas işlerine bakan memur ve müstahdemler
 > 1. Kendisinin,
 > 2. Karı veya kocasının, nişanlısının yahut kan ve sıhri usul ve füruunun veya üçüncü derece dahil olmak üzere bu dereceye kadar olan kan ve sıhri civar hısımlarının,
 > 3. Kanuni mümessili veya vekili yahut müstahdemi bulunduğu bir şahsın,
 > 
-> Menfaati olan işleri göremeyip derhal icra mahkemesine haber vermeye mecburdur. 
-İcra mahkemesi müracaatı yerinde görürse o işi diğer bir memura, bulunmıyan yerlerde 
-katiplerinden birine verir. 
+> Menfaati olan işleri göremeyip derhal icra mahkemesine haber vermeye mecburdur. İcra mahkemesi müracaatı yerinde görürse o işi diğer bir memura, bulunmıyan yerlerde katiplerinden birine verir. 
 
 
 
