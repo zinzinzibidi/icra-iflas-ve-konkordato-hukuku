@@ -18,7 +18,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[İcra Dairesinin Yükümlülükleri](#icra-dairesinin-yukumlulukleri)
 
-<a link="#cebri-icra"></a>
+<a id="#cebri-icra"></a>
 ## Cebri İcra
 
 Cebri "zor kullanılarak yaptırılan", icra ise "yapma, yerine getirme, yürütme" anlamına gelmektedir.
@@ -41,7 +41,7 @@ olmak üzere kendi içinde ayrılmaktadır.
 
 > [!Tip]
 > İlamlı ve ilamsız konularına ilerleyen bölümlerde değineceğiz. Şimdilik "Cebri icra" denilince aklımıza "İcra ve İflas Hukuku"nun gelmesi yeterli. Diğer bir ifade ile cebri icra, hem icra hukuku hem de iflas hukuku hükümlerini kapsamaktadır.
-<a link="#icra-ve-iflas-hukuku-dayanagi"></a>
+<a id="#icra-ve-iflas-hukuku-dayanagi"></a>
 ## İcra ve İflas Hukukunun Dayanağı
 
 Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adlandırılmaktadır. 
@@ -84,7 +84,7 @@ flowchart TD
 * Yargıtay'ın İlgili Daireleri
 
 temel icra kurumlarıdır. Bunun dışında icra mahkemesi dışında kalan mahkemeler, cumhuriyet savcıları, adalet müfettişleri yardımcı rolündedir.
-<a link="#icra-dairesi"></a>
+<a id="#icra-dairesi"></a>
 ### İcra Dairesi
 
 Cebri icranın birinci derece görevli kurumudur.
@@ -97,7 +97,7 @@ Cebri icranın birinci derece görevli kurumudur.
 > Her icra dairesinde Adalet Bakanlığı tarafından atanacak bir icra müdürü, yeteri kadar icra müdür yardımcısı, icra katibi ile adli yargı ilk derece mahkemesi adalet komisyonları tarafından görevlendirilecek mübaşir ve hizmetli bulunur. 
 
 İcra dairelerine ilk maddede değinilmesinden de anlaşılacağı üzere tüm icra konularında en önemli görevi icra daireleri yürütmektedir.
-<a link="#icra-dairesinin-temel-gorevleri"></a>
+<a id="#icra-dairesinin-temel-gorevleri"></a>
 #### İcra Dairesinin Temel Görevleri
 
 * Ödeme emri düzenleyip borçluya göndermek
@@ -105,13 +105,13 @@ Cebri icranın birinci derece görevli kurumudur.
 * Haczedilen malın paraya çevrilmesi
 * Paraya çevrilen para ile alacaklının alacağının ödenmesi
 * Konusu paradan başka şey olan ilamların icra edilmesi
-<a link="#icra-dairesinin-yetkileri"></a>
+<a id="#icra-dairesinin-yetkileri"></a>
 #### İcra Dairesinin Yetkileri
 
 * Her makam ile doğrudan yazışabilir ve bilgi isteyebilir.
 * Gerekirse zor kullanabilir.
 * Yetkisi dışındaki işlemler için başka icra daireleri ile istinabe edebilir.
-<a link="#icra-dairesinin-yukumlulukleri"></a>
+<a id="#icra-dairesinin-yukumlulukleri"></a>
 #### İcra Dairelerinin Yükümlülükleri
 
 * Dosya ve Tutanak Düzenlemek
