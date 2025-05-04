@@ -8,15 +8,15 @@
 
 &nbsp;[İcra ve İflas Hukukunun Dayanağı](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-ve-i%CC%87flas-hukukunun-dayana%C4%9F%C4%B1)
 
-&nbsp;[Cebri İcra Kurumları](#cebri-icra-kurumlari)
+&nbsp;[Cebri İcra Kurumları](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#cebri-i%CC%87cra-kurumlar%C4%B1)
 
-&nbsp;&nbsp;&nbsp;[İcra Dairesi](#icra-dairesi)
+&nbsp;&nbsp;&nbsp;[İcra Dairesi](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-dairesi)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[İcra Dairesinin Temel Görevleri](#icra-dairesinin-temel-gorevleri)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[İcra Dairesinin Temel Görevleri](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-dairesinin-temel-g%C3%B6revleri)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[İcra Dairesinin Yetkileri](#icra-dairesinin-yetkileri)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[İcra Dairesinin Yetkileri](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-dairesinin-yetkileri)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[İcra Dairesinin Yükümlülükleri](#icra-dairesinin-yukumlulukleri)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[İcra Dairesinin Yükümlülükleri](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-dairelerinin-y%C3%BCk%C3%BCml%C3%BCl%C3%BCkleri)
 
 <a id="#cebri-icra"></a>
 ## Cebri İcra
