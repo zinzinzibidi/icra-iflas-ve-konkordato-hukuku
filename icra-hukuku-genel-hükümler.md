@@ -203,5 +203,15 @@ Diğer bir örnek: Takip konusu alacaklı icra dosyasına bakan personelin babas
 > [!Warning]
 > İcra personelinin alacaklı ya da borçlu ile akrabağlığın olması durumunda alacaklı/borçlu tarafından icra mahkemesine şikâyet yoluna başvurulmadığı sürece icra süreci durdurulmayacaktır. İcra müdürünün durumu fark etmesi sonrası takibin re'sen durdurulması da söz konusu değildir.
 
+#### Menfaati Olan Sözleşme Yapamama
+
+İcra personeli takip konusu dosya üzerinde kendilerine yararı olan sözleşmeler yapamamaktadır.
+
+> [!Note]
+> İcra ve İflas Kanunu, Madde 11:
+>
+> Tetkik vazifesini gören hakimler ve icra ve iflas memur ve müstahdemleri, dairelerince takip edilmekte olan bir alacak veya satılmakta bulunan bir şey hakkında kiminle olursa olsun kendileri veya başkaları hesaplarına bir akit yapamazlar. Yaparlarsa hükümsüzdür.
+
+"Tetkik" inceleme, araştırma, "akit" sözleşme anlamına gelmektedir. Kanunda da açıkça belirtildiği üzere icra nedeniyle muhafaza edilen eşyalar üzerinde icra personeli, kendilerinin taraf olduğu alım satım sözleşmesi dahil hiçbir menfaat sözleşmesi yapamazlar. Bu sözleşmeleri başkası adına dahi yapamazlar.
 
 
