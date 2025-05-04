@@ -143,7 +143,9 @@ Dosya numaraları takibin yapıldığı yılın numarası ile başlar. Ardından
 2027 takibin yapıldığı yılı, 1424 ise bu yıldaki 1424. takip dosyasını belirtmektedir.
 
 > [!Tip]
-> Bu noktada "tutanak" ile "dosya" arasındaki farkı belirtmekte fayda var. Tutanak, alacaklı ile icra dairesi arasındaki beyanları içeren yazılı belgedir. Dosya ise takibin başlaması ile birlikte icra dairesi ile borçlu arasındaki belgeleri içerir. Bu nedenle tutanak aynı zamanda takip dosyasının ayrılmaz bir parçasıdır. 
+> Bu noktada "tutanak" ile "dosya" arasındaki farkı belirtmekte fayda var. Tutanak, alacaklı ile icra dairesi arasındaki beyanları içeren yazılı belgedir. Dosya ise takibin başlaması ile birlikte icra dairesi ile borçlu arasındaki belgeleri içerir. Bu nedenle tutanak aynı zamanda takip dosyasının ayrılmaz bir parçasıdır.
+
+Ulusal Yargı Ağı Projesi'ne (UYAP'a) [uyap.gov.tr](https://uyap.gov.tr/) adresinden ulaşabilir, [vatandas.uyap.gov.tr/](https://vatandas.uyap.gov.tr/) alt alan adından e-Devlet kullanıcı bilgileriniz ile giriş yaptığınızda vatandaş statüsü ile hakkınızda açılan bir icra dosyasının olup olmadığını sorgulayabilirsiniz.
 
 
 
