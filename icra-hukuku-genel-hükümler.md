@@ -157,3 +157,5 @@ Ulusal Yargı Ağı Projesi'ne (UYAP'a) [uyap.gov.tr](https://uyap.gov.tr/) adre
 
 [e-Devlet | Dava Dosyası Sorgulama](https://www.turkiye.gov.tr/davalarim) hizmeti ile de hakkınızda açılmış ya da borçlu tarafa açtığınız dava dosyası olup olmadığını sorgulayabilirsiniz.
 
+#### Alacağı Ödemek ve Alacak Konusu Eşyayı Muhafaza Etmek
+
