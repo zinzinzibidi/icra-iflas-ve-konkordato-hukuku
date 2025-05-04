@@ -470,10 +470,11 @@ Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe i
 * ihtiyati tedbir kararının uygulanmasına ilişkin şikâyetler ihtiyati tedbir kararını vermiş olan mahkeme tarafından incelenir.[^3] 
 
 >[!Tip]
-> Şikâyet başvuruları icra mahkemesinin takdirine göre duruşmalı ya da duruşmasız incelenebilir. Fakat bazı özel durumlarda Yargıtay,
-> * Sıra cetveline
-> * Usulsüz tebligata
-> * Keşif ya da bilirkişi incelemesine ihtiyaç
+> Şikâyet başvuruları icra mahkemesinin takdirine göre duruşmalı ya da duruşmasız incelenir. Fakat bazı özel durumlarda Yargıtay,
+> * Sıra cetveline ilişkin
+> * Usulsüz tebligata ilişkin
+> * Keşif ya da bilirkişi incelemesine ihtiyaç duyulan hallerde
+> şikâyet başvurularının duruşmalı olarak incelenmesi gerektiğini içtihat etmiştir.[^4]
 
 
 
@@ -481,4 +482,5 @@ Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe i
 
 [^1]: Dayanağı [2709 sayılı Türkiye Cumhuriyeti Anayasası](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf)'nın 129. maddesidir.
 [^2]: Şematik İcra ve İflas Hukuku, Prof. Dr. Cenk AKİL, Dr. Öğr. Üyesi Süleyman TOPAK, Güncellenmiş 2. Baskı, Ekim 2024, s.25
-[^2]: a.g.e.
+[^3]: a.g.e.
+[^4]: a.g.e.
