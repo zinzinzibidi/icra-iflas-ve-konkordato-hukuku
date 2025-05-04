@@ -170,7 +170,7 @@ talimat gereği yapılır. Talimat, paranın icra ve iflas dairesi hesabına yat
 >
 > İcra ve iflas daireleri aldıkları kıymetli evrak ve değerli şeyleri kasalarında, zorunlu hâllerde ise kiralanacak banka kasalarında muhafaza ederler.
 
-İcra takibi başladığında icra müdürü tarafından borçlunun ikametgâh adresine gidilip mallarına haciz koyulmaz. Bu hem süreci uzatmaktadır hem de yorucu bir işlemdir. Bu nedenle öncelikle e-Haciz bildirimi ile borçlunun banka hesaplarındaki bakiyeye takip konusu borç tutarı kadar bloke koyulur.
+İcra takibi başlar başlamaz icra müdürünün emriyle borçlunun ikametgâh adresine gidilip mallarına haciz koyulmaz. Bu hem süreci uzatmaktadır hem de yorucu bir işlemdir. Bu nedenle öncelikle e-Haciz bildirimi ile borçlunun banka hesaplarındaki bakiyeye takip konusu borç tutarı kadar bloke koyulur. Banka hesaplarında yeterli bakiye yoksa borçlunun adresine gidilip haciz süreci başlatılır.
 
 Örneğin; A Bankasında borçlunun 10.000 TL tutarlı bir Vadesiz TL, 300.000 TL ve 400.000 TL tutarlı ikişer Vadeli TL mevduat hesabının olduğunu varsayalım. İcra dairesinden 100.000 TL tutarlı e-Haciz bildirimi bankaya ulaştığında A Bankasının operasyon personeli 300.000 TL tutarlı vadeli mevduat hesabının 100.000 TL'lik kısmına bloke koyar. Bu şekilde borçlunun 300.000 TL bakiyeli vadeli mevduat hesabının sadece 200.000 TL'lik kısmı kullanılabilirdir. Borçlu bu 200.000 TL'lik kısım ile isterse vadeli mevduat hesabından para çekebilir, isterse de para yatırabilir. Özetle, borçlunun tüm hesaplarına bloke koyulmaz. Sadece takip konusu borç tutarı kadar bloke konulur. Maddi hata durumunda tüm hesaplara bloke koyulması durumunda şikâyet yoluna başvurulur.
 
