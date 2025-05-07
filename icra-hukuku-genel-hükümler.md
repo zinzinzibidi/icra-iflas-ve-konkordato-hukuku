@@ -127,7 +127,7 @@ Cebri icranın birinci derece görevli kurumudur.
 * Ödeme emri düzenleyip borçluya göndermek
 * Borçlunun mallarının haczedilmesi
 * Haczedilen malın paraya çevrilmesi
-* Paraya çevrilen para ile alacaklının alacağının ödenmesi
+* Paraya çevrilen varlık ile alacaklının alacağının ödenmesi
 * Konusu paradan başka şey olan ilamların icra edilmesi
 
 #### İcra Dairesinin Yetkileri
