@@ -454,7 +454,7 @@ Kimi durumlarda şikâyet süresizdir. Örneğin; icra müdürü takip talebini 
 ### Şikâyet Yolları
 
 * Dilekçeyle doğrudan icra mahkemesine
-* Sözlü olarak beyan edilmesi ile ve icra mahkemesinde tutanak tutulmasıyla
+* Sözlü olarak beyan edilerek icra mahkemesinde tutanak tutulmasıyla
 * Elektronik ortamda UYAP üzerinden
 
 olmak üzere üç farklı şekilde yapılabilmektedir.
