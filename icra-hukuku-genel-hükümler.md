@@ -486,7 +486,7 @@ Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe i
 Şikâyet başvuruları icra mahkemesi tarafından
 
 * Hükümsüz bulunabilir.
-* Kabul edilebilir ve şikâyet konusu iptal edilebilir. Örneğin; icra müdürü haczi kabul olmayan bir malı haczetmişse haciz işlemi iptal edilir. Somut bir örnek vermek gerekirse haciz sırasında evde bulunan altın bilezik borçlu yerine borçlunun annesine aitse şikâyet sonrası altın bilezik borçluya iade edilir.
+* Kabul edilebilir ve şikâyet konusu iptal edilebilir. Örneğin; icra müdürü haczi kabul olmayan bir malı haczetmişse haciz işlemi iptal edilir. Somut bir örnek vermek gerekirse, haciz sırasında evde bulunan altın bilezik borçlu yerine borçlunun annesine aitse şikâyet sonrası altın bilezik borçluya iade edilir.
 * Kabul edilebilir ve şikâyet konusu düzeltilebilir. Örneğin; borçlunun banka hesabında 400.000 TL'si olmasına rağmen alacak konusu 200.000 TL yerine 100.000 TL haczedilirse ve borçlunun banka hesabına sadece 100.000 TL bloke konulursa alacaklı bu durumu icra mahkemesine şikâyet yoluyla bildirebilir ve mahkeme tarafından bloke konulacak tutarı 200.000 TL olarak düzelttirebilir. Aynı şekilde 200.000 TL yerine 300.000 TL haczedilirse, borçlu icra mahkemesine şikâyet yoluyla durumu bildirir. Haciz nedeniyle blokeye alınan 300.000 TL tutarının 100.000 TL'sini icra mahkemesi tarafından tasarruf edilebilir hâle getirebilir.
 * Kabul edilebilir ve şikâyet konusu işlemin derhal yerine getirilmesi emredilebilir. Örneğin; icra memuru takibin başlatılması için 3 gün içerisinde ödeme emrini borçluya göndermezse alacaklı bu durumu icra mahkemesine şikâyet yoluyla bildirebilir. Mahkeme icra müdürünün sürüncemede bıraktığı işlemin ivedilikle yapılmasını emredebilir.
 
