@@ -134,7 +134,7 @@ Cebri icranın birinci derece görevli kurumudur.
 
 * Her makam ile doğrudan yazışabilir ve bilgi isteyebilir.
 * Gerekirse zor kullanabilir.
-* Yetkisi dışındaki işlemler için başka icra daireleri ile istinabe edebilir.
+* Yetkisi dışındaki işlemler için başka icra daireleri ile [istinabe edebilir](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/terimler-ve-kavramlar.md#i%CC%87stinabe-etmek).
 
 #### İcra Dairelerinin Yükümlülükleri
 
