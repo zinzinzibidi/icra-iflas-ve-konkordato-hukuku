@@ -447,7 +447,7 @@ Kronolojik olarak dava sürelerini incelersek... İcra mahkemesinin aldığı ka
 
 Kanundan da anlaşılacağı üzere icra müdürü borçlunun tüm maaşını haczedemez. Borçlunun ve ailesinin geçimine yetecek tutarı borçluya bıraktıktan sonra kalan tutar üzerinden haciz uygulayabilir. Borçlu, icra müdürünün madde 83'e aykırı bir işlem yaptığını öne sürerse 7 gün içerisinde şikâyet hakkını kullanabilir ve icra mahkemesine şikâyet başvurusunda bulunabilir.
 
-Kanununda ayrıca "sigortalar veya tekaüt sandıkları tarafından tahsis edilen iratlar" hükmü dikkat çekicidir. İcra müdürünün kanunun elverdiği ölçüde borçlunun bireysel emeklilik sisteminde ya da emekli sandığında bulunan birikimleri üzerine de haciz koyma yetkisi bulunmaktadır.
+Kanunda ayrıca "sigortalar veya tekaüt sandıkları tarafından tahsis edilen iratlar" hükmü dikkat çekicidir. İcra müdürünün kanunun elverdiği ölçüde borçlunun bireysel emeklilik sisteminde ya da emekli sandığında bulunan birikimleri üzerine de haciz koyma yetkisi bulunmaktadır.
 
 Kimi durumlarda ise şikâyet süresizdir. Örneğin; icra müdürü takip talebini işleme koymaz ve alacaklının hakkını yerine getirmezse ya da kanunun öngördüğü şekilde 3 gün içerisinde ödeme emrini düzenleyerek borçluya göndermez ve alacaklının hakkını sürüncemede bıkarırsa şikâyet süreye tâbi değildir.
 
