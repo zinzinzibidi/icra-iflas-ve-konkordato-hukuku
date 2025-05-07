@@ -471,7 +471,7 @@ Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe i
 * Konkordato komiserinin mühlet içinde konkordatoya ilişkin işlemleriyle ilgili şikâyetler komiseri görevlendiren asliye ticaret mahkemesi tarafından kesin olarak karara bağlanır. (İİK, md. 290/4)
 * Ortaklığın satış suretiyle giderilmesine ilişkin işlemlere karşı yöneltilecek şikâyetler ortaklığın giderilmesine karar vermiş olan sulh hukuk mahkemesi tarafından incelenir.
 * Terekenin iflas hükümlerine göre tasfiyesinde tasfiye memurlarının işlemlerine karşı yapılacak şikayetler sulh hukuk mahkemesi tarafından incelenir.
-* ihtiyati tedbir kararının uygulanmasına ilişkin şikâyetler ihtiyati tedbir kararını vermiş olan mahkeme tarafından incelenir.[^3] 
+* İhtiyati tedbir kararının uygulanmasına ilişkin şikâyetler ihtiyati tedbir kararını vermiş olan mahkeme tarafından incelenir.[^3] 
 
 >[!Tip]
 > Şikâyet başvuruları icra mahkemesinin takdirine göre duruşmalı ya da duruşmasız incelenir. Fakat bazı özel durumlarda Yargıtay,
