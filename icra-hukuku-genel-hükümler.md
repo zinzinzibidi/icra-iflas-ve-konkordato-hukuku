@@ -491,7 +491,7 @@ Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe i
 * Kabul edilebilir ve şikâyet konusu işlemin derhal yerine getirilmesi emredilebilir. Örneğin; icra memuru takibin başlatılması için 3 gün içerisinde ödeme emrini borçluya göndermezse alacaklı bu durumu icra mahkemesine şikâyet yoluyla bildirebilir. Mahkeme icra müdürünün sürüncemede bıraktığı işlemin ivedilikle yapılmasını emredebilir.
 
 >[!Tip]
-> İcra müdürününün icra mahkemesinin kararlarına karşı direnme yetkisi bulunmamaktadır. Ayrıca icra mahkemesinin şikâyet başvurularını değerlendireceği ve başvurular hakkında karara varacağı herhangi bir süre kısıtı da bulunmamaktadır.
+> İcra müdürünün icra mahkemesinin kararlarına karşı direnme yetkisi bulunmamaktadır. Ayrıca icra mahkemesinin şikâyet başvurularını değerlendireceği ve başvurular hakkında karara varacağı herhangi bir süre kısıtı da bulunmamaktadır.
 
 
 
