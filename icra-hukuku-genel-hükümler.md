@@ -278,7 +278,7 @@ ile ceza davalarına bakan
 * Sulh Ceza Mahkemesi
 * Ağır Ceza Mahkemesi
 
-'dir. Fakat icra mahkemeleri, icra ve iflas işlemlerinden doğan uyuşmazlıklara bakan özel bir adliye mahkemesi statüsünde olduğu için icra dairesi personelinin kusurundan kaynaklanan maddi hata durumunda sadece icra mahkemesine başvurulabilir. Asliye Hukuk, Sulh Hukuk gibi diğer adliye mahkemelerine başvurulamaz.
+'dir. Fakat icra mahkemeleri, icra ve iflas işlemlerinden doğan uyuşmazlıklara bakan özel bir adliye mahkemesi statüsünde olduğu için icra dairesi personelinin kusurundan kaynaklanan maddi hata durumunda sadece icra mahkemesine başvurulabilir. Asliye hukuk mahkemesi, sulh hukuk mahkemesi gibi diğer adliye mahkemelerine başvurulamaz.
 
 > [!Tip]
 > Tüketici mahkemeleri de icra mahkemesi gibi özel mahkeme statüsündedir. Bu mahkemelerde tüketici haklarına ilişkin davalar görülür. Hem icra mahkemesi hem de tüketici mahkemesi birer adliye mahkemesidir.
