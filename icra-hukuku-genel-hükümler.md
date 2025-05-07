@@ -363,7 +363,7 @@ Diyelim ki Ahmet adlı şahıs, Mehmet adlı şahıstan 100.000 TL borç almış
 > 
 > Bu Bapta yer alan fiillerden dolayı şikâyet hakkı, fiilin öğrenildiği tarihten itibaren üç ay ve her halde fiilin işlendiği tarihten itibaren bir yıl geçmekle düşer.
 
-İcra ceza mahkemelerinin görev ve hükümlerini içeren on altıncı bap'ta icra dairesi aleyhine olan şikâyet hakkı, şikâyet konusu fiilin öğrenildiği tarihten itibaren 3 ay, fiilin işlendiği tarihten itibaren ise en fazla 1 yıl içinde düşmektedir.
+İcra ceza mahkemelerinin görev ve hükümlerini içeren on altıncı bap'ta borçlu aleyhine olan şikâyet hakkı, şikâyet konusu fiilin öğrenildiği tarihten itibaren 3 ay, fiilin işlendiği tarihten itibaren ise en fazla 1 yıl sonra düşmektedir.
 
 > [!Note]
 > İcra ve İflas Kanunu, Madde 340:
