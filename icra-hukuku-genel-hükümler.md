@@ -38,9 +38,9 @@
 
 &nbsp;&nbsp;&nbsp;[Şikâyetin Sonuçlanması](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#%C5%9Fik%C3%A2yetin-sonu%C3%A7lanmas%C4%B1)
 
-&nbsp;[İcra Masrafları]()
+&nbsp;[İcra Masrafları](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-masraflar%C4%B1)
 
-&nbsp;&nbsp;[İcra Harçları]()
+&nbsp;&nbsp;[İcra Harçları](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-har%C3%A7lar%C4%B1)
 
 ## Cebri İcra
 
