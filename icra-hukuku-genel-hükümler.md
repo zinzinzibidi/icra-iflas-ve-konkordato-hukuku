@@ -551,7 +551,7 @@ Bu yazıyı okuduğunuz zamanda tutarlarda değişiklik olmuş olabilir. Bu nede
     <img src="https://zinzinzibidi.com/img/github/ilam-harci.jpg" alt="ilam harcı (görsel)" style="width:600px" />
 </p>
 
-Tespiti mümkün davalarda ya da davada ihtiyaci haciz ve ihtiyaci tedbir kararı alınacak ilamlı icralarda maktu harç alınır.
+Tespiti mümkün davalarda ya da davada ihtiyaci haciz ve ihtiyaci tedbir kararı alınması planlanan ilamlı icralarda maktu harç alınır.
 
 <p align="center">
     <img src="https://zinzinzibidi.com/img/github/icra-harclari.jpg" alt="icra harçları (görsel)" style="width:720px" />
