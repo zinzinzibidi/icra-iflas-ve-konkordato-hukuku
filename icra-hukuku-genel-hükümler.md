@@ -547,11 +547,17 @@ Bu yazıyı okuduğunuz zamanda tutarlarda değişiklik olmuş olabilir. Bu nede
 
 İlamsız icrada alacaklıdan ayrıca %0,5 (binde 5) oranında peşin harç alınır. Fakat bu harç takip sonunda alınacak harçtan düşülür.
 
+<p align="center">
+    <img src="https://zinzinzibidi.com/img/github/ilam-harci.jpg" alt="ilam harcı (görsel)" style="width:600px" />
+</p>
 
+Tespiti mümkün davalarda ya da davada ihtiyaci haciz ve ihtiyaci tedbir kararı alınacak ilamlı icralarda maktu harç alınır.
 
+<p align="center">
+    <img src="https://zinzinzibidi.com/img/github/icra-harci.jpg" alt="icra harcı (görsel)" style="width:720px" />
+</p>
 
-
-
+Diğer tüm icra harcı bilgilerine (1) Sayılı Tarife'nin "B) İcra ve iflas harçları" bölümünden ulaşabilirsiniz.
 
 
 
