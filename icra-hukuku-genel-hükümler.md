@@ -504,7 +504,21 @@ Borçlu tarafı icraya vermek işin hukuk sistemine harcanan harç ve giderleri 
 
 ### İcra Harçları
 
-İcra takip prosedürlerinin başlatılması için gerekli masrafları içerir. Ücret tarifeleri [492 sayılı Harçlar Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.492.pdf)'nda belirtilmiştir.
+İcra takip prosedürlerinin başlatılması için gerekli masrafları içerir.
+
+> [!Note]
+> Harçlar Kanunu, Madde 32:
+> 
+> Yargı işlemlerinden alınacak harclar ödenmedikçe mütaakıp işlemler yapılmaz. Ancak ilgilisi tarafından ödenmiyen harcları diğer taraf öderse işleme devam olunmakla beraber bu para muhakeme neticesinde ayrıca bir isteğe hacet kalmaksızın hükümde nazara alınır.
+
+> [!Note]
+> Harçlar Kanunu, Madde 127:
+> 
+> Bu kanunda aksine hüküm bulunmadıkça, harçların tamamı peşin olarak ödenmeden harca mevzu olan işlem yapılmaz. 
+
+"mütaakıp" takip işlemlerini belirtmektedir. Harçlar Kanunu'na göre icra takibinden önce harçlar peşin olarak ödenmeden takip işlemleri başlatılmaz. Bu harçları alacaklı yerine başka biri de ödeyebilir.
+
+Ücret tarifeleri [492 sayılı Harçlar Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.492.pdf)'nda belirtilmiştir.
 
 <p align="center">
     <img src="https://zinzinzibidi.com/img/github/icra-harc-ornegi.jpg" alt="icra harç örneği (görsel)" style="width:600px" />
@@ -517,6 +531,12 @@ Yukarıda asliye ticaret mahkemesine ödeme yasağı konulması konulu davanın 
 </p>
 
 Harçlar Kanunu'n 2/7/1964 TARİH ve 492 SAYILI ANA KANUNA İŞLENEMİYEN GEÇİCİ MADDELER bölümünün 31/3/2011 tarihli ve 6217 sayılı Kanunun Geçici Maddesi'nin (1) Sayılı Tarife bölümünde güncel harç tutarlarına ulaşabilirsiniz.
+
+Bu yazıyı okuduğunuz zamanda tutarlarda değişiklik olmuş olabilir. Bu nedenle güncel tarife ücretleri [492 sayılı Harçlar Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.492.pdf)'ndan erişebilirsiniz.
+
+İlamlı ve ilamsız icra başvurularında öncelikle alacaklıdan "başvurma harcı" alınır. (Örnekteki 615,40 TL)
+
+İlamsız icrada ayrıca alacaklıdan 
 
 
 
