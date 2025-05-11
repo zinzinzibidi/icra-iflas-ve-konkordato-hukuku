@@ -504,7 +504,13 @@ Borçlu tarafı icraya vermek işin hukuk sistemine harcanan harç ve giderleri 
 
 ### İcra Harçları
 
+İcra takip prosedürlerinin başlatılması için gerekli masrafları içerir. Ücret tarifeleri [492 sayılı Harçlar Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.492.pdf)'nda belirtilmiştir.
 
+<p align="center">
+    <img src="//zinzinzibidi.com/img/github/icra-harc-ornegi.jpg" alt="edevlet vatandaş icra dosyası sorgulama (görsel)" style="width:720px" />
+</p>
+
+Yukarıda ticaret mahkemesine ödeme yasağı konulması konulu davanın harç tutarları gösterilmektedir.
 
 
 
