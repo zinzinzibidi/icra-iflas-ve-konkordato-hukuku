@@ -513,7 +513,7 @@ Borçlu tarafı icraya vermek işin hukuk sistemine harcanan harç ve giderleri 
 Yukarıda asliye ticaret mahkemesine ödeme yasağı konulması konulu davanın harç tutarları gösterilmektedir.
 
 <p align="center">
-    <img src="https://zinzinzibidi.com/img/github/1-sayili-tarife.jpg" alt="1 Sayılı Tarife (görsel)" style="width:600px" />
+    <img src="https://zinzinzibidi.com/img/github/bir-sayili-tarife-tutarlari" alt="1 Sayılı Tarife (görsel)" style="width:600px" />
 </p>
 
 Harçlar Kanunu'n 2/7/1964 TARİH ve 492 SAYILI ANA KANUNA İŞLENEMİYEN GEÇİCİ MADDELER bölümünün 31/3/2011 tarihli ve 6217 sayılı Kanunun Geçici Maddesi'nin (1) Sayılı Tarife bölümünde güncel harç tutarlarına ulaşabilirsiniz.
