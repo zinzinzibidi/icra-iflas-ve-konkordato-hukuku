@@ -510,7 +510,7 @@ Borçlu tarafı icraya vermek işin hukuk sistemine harcanan harç ve giderleri 
     <img src="https://zinzinzibidi.com/img/github/icra-harc-ornegi.jpg" alt="icra harç örneği (görsel)" style="width:600px" />
 </p>
 
-Yukarıda ticaret mahkemesine ödeme yasağı konulması konulu davanın harç tutarları gösterilmektedir.
+Yukarıda asliye ticaret mahkemesine ödeme yasağı konulması konulu davanın harç tutarları gösterilmektedir.
 
 
 
