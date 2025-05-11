@@ -500,7 +500,7 @@ Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe i
 
 ## İcra Masrafları
 
-Borçlu tarafı icraya vermek işin hukuk sistemine harcanan harç ve giderleri içerir.
+Borçlu tarafı icraya vermek işin hukuk sisteminde harcanan harç ve giderleri içerir.
 
 ### İcra Harçları
 
