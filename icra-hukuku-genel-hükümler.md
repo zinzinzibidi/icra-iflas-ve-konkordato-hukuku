@@ -87,7 +87,7 @@ Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adl
 
 gibi birçok kanun, yönetmelik ve kararı içermektedir.
 
-Tarihsel olarak İcra ve İflas Hukukunun mevzuatı İsviçre Federal İcra ve İflâs Kanunu'ndan (SchKG'den) uyarlanmıştır.
+Tarihsel olarak İcra ve İflas Hukukunun mevzuatı İsviçre Federal İcra ve İflâs Kanunu'ndan (SchKG'den) uyarlanmıştır.[^1]
 
 ## Cebri İcra Kurumları
 
