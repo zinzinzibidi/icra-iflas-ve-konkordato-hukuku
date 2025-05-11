@@ -532,11 +532,24 @@ Yukarıda asliye ticaret mahkemesine ödeme yasağı konulması konulu davanın 
 
 Harçlar Kanunu'n 2/7/1964 TARİH ve 492 SAYILI ANA KANUNA İŞLENEMİYEN GEÇİCİ MADDELER bölümünün 31/3/2011 tarihli ve 6217 sayılı Kanunun Geçici Maddesi'nin (1) Sayılı Tarife bölümünde güncel harç tutarlarına ulaşabilirsiniz.
 
-Bu yazıyı okuduğunuz zamanda tutarlarda değişiklik olmuş olabilir. Bu nedenle güncel tarife ücretleri [492 sayılı Harçlar Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.492.pdf)'ndan erişebilirsiniz.
+Bu yazıyı okuduğunuz zamanda tutarlarda değişiklik olmuş olabilir. Bu nedenle güncel tarife ücretlerine [492 sayılı Harçlar Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.492.pdf)'ndan erişebilirsiniz.
 
 İlamlı ve ilamsız icra başvurularında öncelikle alacaklıdan "başvurma harcı" alınır. (Örnekteki 615,40 TL)
 
-İlamsız icrada ayrıca alacaklıdan 
+> [!Note]
+> Harçlar Kanunu, Madde 29:
+> 
+> İlama dayanmıyan takip isteklerinden alacak miktarının binde beşi peşin alınır.
+>
+> Peşin harclar takip sonunda alınacak asıl harca mahsup olunur.
+>
+> İlama dayanmıyan takiplerde alacaklı mahkemeye müracaata mecbur kalırsa, peşin alınan harç kendisine iade olunur. Veya alacaklının isteği üzerine mahkeme harclarına mahsup edilir.
+
+İlamsız icrada alacaklıdan ayrıca %0,5 (binde 5) oranında peşin harç alınır. Fakat bu harç takip sonunda alınacak harçtan düşülür.
+
+
+
+
 
 
 
