@@ -530,7 +530,7 @@ Yukarıda asliye ticaret mahkemesine ödeme yasağı konulması konulu davanın 
     <img src="https://zinzinzibidi.com/img/github/bir-sayili-tarife-tutarlari.jpg" alt="1 Sayılı Tarife (görsel)" style="width:600px" />
 </p>
 
-Harçlar Kanunu'n 2/7/1964 TARİH ve 492 SAYILI ANA KANUNA İŞLENEMİYEN GEÇİCİ MADDELER bölümünün 31/3/2011 tarihli ve 6217 sayılı Kanunun Geçici Maddesi'nin (1) Sayılı Tarife bölümünde güncel harç tutarlarına ulaşabilirsiniz.
+Harçlar Kanunu'n 2/7/1964 TARİH ve 492 SAYILI ANA KANUNA İŞLENEMİYEN GEÇİCİ MADDELER bölümünün 31/3/2011 tarihli ve 6217 sayılı Kanunun Geçici Maddesi'nin (1) Sayılı Tarife tablosunda güncel harç tutarlarına ulaşabilirsiniz.
 
 Bu yazıyı okuduğunuz zamanda tutarlarda değişiklik olmuş olabilir. Bu nedenle güncel tarife ücretlerine [492 sayılı Harçlar Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.492.pdf)'ndan erişebilirsiniz.
 
