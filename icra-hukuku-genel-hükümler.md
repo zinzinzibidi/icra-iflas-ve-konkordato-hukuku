@@ -38,7 +38,9 @@
 
 &nbsp;&nbsp;&nbsp;[Şikâyetin Sonuçlanması](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#%C5%9Fik%C3%A2yetin-sonu%C3%A7lanmas%C4%B1)
 
+&nbsp;[İcra Masrafları]()
 
+&nbsp;&nbsp;[İcra Harçları]()
 
 ## Cebri İcra
 
@@ -74,6 +76,7 @@ Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adl
 * [7499 sayılı Ceza Muhakemesi Kanunu İle Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7499.pdf)
 * [İcra ve İflâs Kanunu Yönetmeliği](https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.8043.pdf)
 * [6100 sayılı Hukuk Muhakemeleri Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6100.pdf)
+* [492 sayılı Harçlar Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.492.pdf)
 * [7201 sayılı Tebligat Kanunu](https://www.mevzuat.gov.tr/mevzuatmetin/1.3.7201.pdf)
 * [213 sayılı Vergi Usul Kanunu](https://www.mevzuat.gov.tr/mevzuatmetin/1.4.213.pdf)
 * [6102 sayılı Türk Ticaret Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6102.pdf)
@@ -83,6 +86,8 @@ Hukukta kanun, yönetmelik, tüzük gibi kuralların tümü "mevzuat" olarak adl
 * Anayasa Mahkemesi Kararları
 
 gibi birçok kanun, yönetmelik ve kararı içermektedir.
+
+Tarihsel olarak İcra ve İflas Hukukunun mevzuatı İsviçre Federal İcra ve İflâs Kanunu'ndan (SchKG'den) uyarlanmıştır.
 
 ## Cebri İcra Kurumları
 
@@ -262,7 +267,7 @@ Diğer bir örnek: İcra dosyasına bakan personel, alacaklının babasının er
 >
 > İcra ve İflas Dairesi görevlilerinin kusurlarından doğan tazminat davaları, ancak idare aleyhine açılabilir. Devletin, zararın meydana gelmesinde kusuru bulunan görevlilere rücu hakkı saklıdır. Bu davalara adliye mahkemelerinde bakılır.
 
-Eğer icra takibi sırasında veya sonrasında icra dairesi personelinin kusurundan kaynaklanan maddi hata durumu varsa dava doğrudan icra personeline açılmaz. Adalet Bakanlığı aleyhine adliye mahkemesinde açılır. Normal şartlar altında [2577 sayılı İdari Yargılama Usulü Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2577.pdf) (İYUK)[^1] uyarınca, icra dairesi personeli dahil devlet memurlarının görevleri sırasında verdikleri zararlardan dolayı açılacak tazminat davaları, idari yargı kapsamında idare mahkemelerinde açılabilirken İcra ve İflas Kanunu bu davaların idare mahkemeleri yerine adliye mahkemelerinde açılabileceği ayrımına gitmiştir.
+Eğer icra takibi sırasında veya sonrasında icra dairesi personelinin kusurundan kaynaklanan maddi hata durumu varsa dava doğrudan icra personeline açılmaz. Adalet Bakanlığı aleyhine adliye mahkemesinde açılır. Normal şartlar altında [2577 sayılı İdari Yargılama Usulü Kanunu](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2577.pdf) (İYUK)[^2] uyarınca, icra dairesi personeli dahil devlet memurlarının görevleri sırasında verdikleri zararlardan dolayı açılacak tazminat davaları, idari yargı kapsamında idare mahkemelerinde açılabilirken İcra ve İflas Kanunu bu davaların idare mahkemeleri yerine adliye mahkemelerinde açılabileceği ayrımına gitmiştir.
 
 Adliye mahkemelerinden kasıt
 
@@ -427,7 +432,7 @@ Kronolojik olarak dava sürelerini incelersek... İcra mahkemesinin aldığı ka
 
 ## Şikâyet
 
-İcra hukukunda şikâyet ve itiraz ayrımına [İcra Mahkemesi](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-mahkemesi) bölümünde değinmiştik. Genel bir tanım yapacak olursak şikâyet, icra (ve iflâs) dairelerinin işlemlerinin icra ve iflâs hukukuna uygun olarak yerine getirip getirmediklerinin denetlenmesini sağlayan kendine özgü hukuki bir çaredir. Şikâyetin konusu icra (ve iflâs) dairesinin yapmış olduğu işlemlerdir. [^2]
+İcra hukukunda şikâyet ve itiraz ayrımına [İcra Mahkemesi](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-mahkemesi) bölümünde değinmiştik. Genel bir tanım yapacak olursak şikâyet, icra (ve iflâs) dairelerinin işlemlerinin icra ve iflâs hukukuna uygun olarak yerine getirip getirmediklerinin denetlenmesini sağlayan kendine özgü hukuki bir çaredir. Şikâyetin konusu icra (ve iflâs) dairesinin yapmış olduğu işlemlerdir. [^3]
 
 Şikâyet <ins>sadece icra mahkemesine</ins> yapılabilir. İcra dairesine yapılan şikâyetler hükümsüzdür ve sonuç doğurmazlar.
 
@@ -471,7 +476,7 @@ Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe i
 * Konkordato komiserinin mühlet içinde konkordatoya ilişkin işlemleriyle ilgili şikâyetler komiseri görevlendiren asliye ticaret mahkemesi tarafından kesin olarak karara bağlanır. (İİK, md. 290/4)
 * Ortaklığın satış suretiyle giderilmesine ilişkin işlemlere karşı yöneltilecek şikâyetler ortaklığın giderilmesine karar vermiş olan sulh hukuk mahkemesi tarafından incelenir.
 * Terekenin iflas hükümlerine göre tasfiyesinde tasfiye memurlarının işlemlerine karşı yapılacak şikayetler sulh hukuk mahkemesi tarafından incelenir.
-* İhtiyati tedbir kararının uygulanmasına ilişkin şikâyetler ihtiyati tedbir kararını vermiş olan mahkeme tarafından incelenir.[^3] 
+* İhtiyati tedbir kararının uygulanmasına ilişkin şikâyetler ihtiyati tedbir kararını vermiş olan mahkeme tarafından incelenir.[^4] 
 
 >[!Tip]
 > Şikâyet başvuruları icra mahkemesinin takdirine göre duruşmalı ya da duruşmasız incelenir. Fakat bazı özel durumlarda Yargıtay,
@@ -479,7 +484,7 @@ Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe i
 > * Usulsüz tebligata ilişkin
 > * Keşif ya da bilirkişi incelemesine ihtiyaç duyulan hallerde
 > 
-> şikâyet başvurularının duruşmalı olarak incelenmesi gerektiğini içtihat etmiştir.[^4]
+> şikâyet başvurularının duruşmalı olarak incelenmesi gerektiğini içtihat etmiştir.[^5]
 
 ### Şikâyetin Sonuçlanması
 
@@ -493,6 +498,11 @@ Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe i
 >[!Tip]
 > İcra müdürünün icra mahkemesinin kararlarına karşı direnme yetkisi bulunmamaktadır. İcra mahkemesinin şikâyet başvurularını değerlendireceği ve başvurular hakkında karara varacağı herhangi bir süre kısıtı da bulunmamaktadır.
 
+## İcra Masrafları
+
+Borçlu tarafı icraya vermek işin hukuk sistemine harcanan harç ve giderleri içerir.
+
+### İcra Harçları
 
 
 
@@ -500,7 +510,10 @@ Tek istisnası kambiyo senetlerine mahsus iflâsta şikâyetin sadece dilekçe i
 
 
 
-[^1]: Dayanağı [2709 sayılı Türkiye Cumhuriyeti Anayasası](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf)'nın 129. maddesidir.
-[^2]: Şematik İcra ve İflas Hukuku, Prof. Dr. Cenk AKİL, Dr. Öğr. Üyesi Süleyman TOPAK, Güncellenmiş 2. Baskı, Ekim 2024, s.25
-[^3]: a.g.e.
+
+
+[^1]: SchKG üzerine yazılan kitap örneği için [tıklayınız](https://www.amazon.com.tr/dp/3280071283).
+[^2]: Dayanağı [2709 sayılı Türkiye Cumhuriyeti Anayasası](https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf)'nın 129. maddesidir.
+[^3]: Şematik İcra ve İflas Hukuku, Prof. Dr. Cenk AKİL, Dr. Öğr. Üyesi Süleyman TOPAK, Güncellenmiş 2. Baskı, Ekim 2024, s.25
 [^4]: a.g.e.
+[^5]: a.g.e.
