@@ -557,7 +557,7 @@ Tespiti mümkün davalarda ya da ihtiyaci haciz ve ihtiyaci tedbir kararı alın
     <img src="https://zinzinzibidi.com/img/github/icra-harclari.jpg" alt="icra harçları (görsel)" style="width:720px" />
 </p>
 
-Diğer tüm icra harcı bilgilerine (1) Sayılı Tarife'nin "B) İcra ve iflas harçları" bölümünden ulaşabilirsiniz.
+Diğer tüm icra harç bilgilerine (1) Sayılı Tarife'nin "B) İcra ve iflas harçları" bölümünden ulaşabilirsiniz.
 
 
 
