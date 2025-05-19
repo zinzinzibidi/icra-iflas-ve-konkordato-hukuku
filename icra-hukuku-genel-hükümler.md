@@ -619,11 +619,8 @@ olmak üzere 3 farklı tebliğ yöntemi vardır. Kural olarak PTT veya memur eli
 > Aşağıda belirtilen gerçek ve tüzel kişilere tebligatın elektronik yolla yapılması zorunludur.
 > 
 > 1. 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I), (II), (III) ve (IV) sayılı cetvellerde yer alan kamu idareleri ile bunlara bağlı döner sermayeli kuruluşlar.
->
 > 2. 5018 sayılı Kanunda tanımlanan mahallî idareler. 
-> 
 > 3. Özel kanunla kurulmuş diğer kamu kurum ve kuruluşları ile kanunla kurulan fonlar ve kefalet sandıkları.
->
 > 4. Kamu iktisadi teşebbüsleri ile bunların bağlı ortaklıkları, müessese ve işletmeleri.
 > 
 > 5. Sermayesinin yüzde ellisinden fazlası kamuya ait diğer ortaklıklar.
