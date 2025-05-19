@@ -629,6 +629,7 @@ olmak üzere 3 farklı tebliğ yöntemi vardır. Kural olarak PTT veya memur eli
 > 9. Baro levhasına yazılı avukatlar. 
 > 10. Sicile kayıtlı arabulucular ve bilirkişiler. 
 > 11. İdareleri, kamu iktisadi teşebbüslerini veya sermayesinin yüzde ellisinden fazlası kamuya ait diğer ortaklıkları; adli ve idari yargı mercileri, icra müdürlükleri veya hakemler nezdinde vekil sıfatıyla temsile yetkili olan kişilerin bağlı bulunduğu birim.
+> 
 > Birinci fıkra kapsamı dışında kalan gerçek ve tüzel kişilere, talepleri hâlinde elektronik tebligat adresi verilir. Bu durumda bu kişilere tebligatın elektronik yolla yapılması zorunludur.   
 > Birinci ve ikinci fıkra hükümlerine göre elektronik yolla tebligatın zorunlu bir sebeple yapılamaması hâlinde bu Kanunda belirtilen diğer usullerle tebligat yapılır. 
 > Elektronik yolla tebligat, muhatabın elektronik adresine ulaştığı tarihi izleyen beşinci günün sonunda yapılmış sayılır. 
