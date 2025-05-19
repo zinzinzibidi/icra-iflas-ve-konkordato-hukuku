@@ -44,6 +44,8 @@
 
 &nbsp;&nbsp;[İcra Giderleri](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-giderleri)
 
+&nbsp;[Tebligat]()
+
 ## Cebri İcra
 
 Cebri "zor kullanılarak yaptırılan", icra ise "yapma, yerine getirme, yürütme" anlamına gelmektedir.
@@ -564,7 +566,7 @@ Tespiti mümkün davalarda ya da ihtiyaci haciz ve ihtiyaci tedbir kararı alın
 
 Diğer tüm icra harç bilgilerine (1) Sayılı Tarife'nin "B) İcra ve iflas harçları" bölümünden ulaşabilirsiniz.
 
-## İcra Giderleri
+### İcra Giderleri
 
 İcra takibini tam ve doğru bir şekilde yürütebilmek için harcanan paralardır.[^6] 
 
@@ -599,9 +601,11 @@ Mahcuz, hacizli; Muvakkat, geçici demektir. Vekalet ücreti, ki burada avukatl�
 
 Madde 59'da "Alacaklı, yapılmasını talep ettiği muamelenin masrafını ve ayrıca takip talebinde bulunurken borçlunun 62 nci maddeye göre yapabileceği itirazın kendisine tebliğ masrafını da avans olarak peşinen öder." hükmünden anlaşılacağı üzere borçlunun kanuni süreler içerisinde takibe itiraz etme olasılığına karşı alacaklı bu masrafı önceden öder. Diğer bir ifade ile, borçlu itiraz etsin ya da etmesin tebliğ masrafı alacaklı tarafından peşin ödenir. Fakat borçlu itiraz etmezse takip kesinleşir. Haciz sonucu elde edilen paradan daha önce peşin ödenen avans tutarı alacaklıya iade edilir.
 
-492 sayılı Harçlar Kanunun (1) Sayılı Tarife tablosu her yıl güncellenerek Genel Tebliğ ile Resmî Gazete'de yayımlanır. Örnek olması amacıyla [30 Aralık 2024 Tarihli ve 32768 Sayılı Resmî Gazete 2. Mükerrer](https://www.resmigazete.gov.tr/fihrist?tarih=2024-12-30&mukerrer=2) adresindeki [96 Seri No'lu Harçlar Kanunu Genel Tebliği](https://www.resmigazete.gov.tr/eskiler/2024/12/20241230M2-10.htm)ni inceleyebilirsiniz. 
+492 sayılı Harçlar Kanunun (1) Sayılı Tarife tablosu her yıl güncellenerek yıl sonunda Genel Tebliğ ile Resmî Gazete'de yayımlanır. Örnek olması amacıyla [30 Aralık 2024 Tarihli ve 32768 Sayılı Resmî Gazete 2. Mükerrer](https://www.resmigazete.gov.tr/fihrist?tarih=2024-12-30&mukerrer=2) adresindeki [96 Seri No'lu Harçlar Kanunu Genel Tebliği](https://www.resmigazete.gov.tr/eskiler/2024/12/20241230M2-10.htm)ni inceleyebilirsiniz. 
 
+## Tebligat
 
+Alacaklının icra dairesinde takip talebi başlatması sonrası icra dairesinin borçluya ödeme emri tebliğini nasıl yapacağına dair hükümleri içerir. [7201 sayılı Tebligat Kanunu](https://www.mevzuat.gov.tr/mevzuatmetin/1.3.7201.pdf) hükümlerine göre yapılır.
 
 
 
