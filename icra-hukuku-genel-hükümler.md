@@ -586,11 +586,21 @@ Diğer tüm icra harç bilgilerine (1) Sayılı Tarife'nin "B) İcra ve iflas ha
 >
 > Muvakkat hacizler için ayrılmış hisseler vaziyet anlaşılıncaya kadar sağlam bir bankaya, banka bulunmıyan yerlerde mahkeme veya icra sandıklarına yatırılır.
 
+Yediemin giderleri, posta ücretleri, satış ilanı giderleri, vekalet ücreti gibi giderler icra giderlerini oluşturur.
+
+Mahcuz, hacizli; Muvakkat, geçici demektir. Vekalet ücreti, ki burada avukatlık ücretinden bahsedilmektedir, avukatlık ücret tarifesine göre icra dairesi tarafından hesaplanır. Takip sonucu borçlunun haksız olduğu tebliğ edilirse Madde 59'daki "Takip masrafları borçluya aittir" hükmünden de anlaşılacağı üzere tüm masraflar borçludan alınır.
+
+> [!Note]
+> İcra ve İflas Kanunu, Madde 62:
+>
+> İtiraz etmek istiyen borçlu, itirazını, ödeme emrinin tebliği tarihinden itibaren yedi gün içinde dilekçe ile veya sözlü olarak icra dairesine bildirmeye mecburdur. İtiraz, takibi yapan icra dairesinden başka bir icra dairesine yapıldığı takdirde bu daire gereken masrafı itirazla birlikte alarak itirazı derhal yetkili icra dairesine gönderir; alınmayan masraftan memur şahsen sorumludur.
+>
+> Takibe itiraz edildiği, 59 uncu maddeye göre alacaklının yatırdığı avanstan karşılanmak suretiyle üç gün içinde bir muhtıra ile alacaklıya tebliğ edilir.
+
+Madde 59'da "Alacaklı, yapılmasını talep ettiği muamelenin masrafını ve ayrıca takip talebinde bulunurken borçlunun 62 nci maddeye göre yapabileceği itirazın kendisine tebliğ masrafını da avans olarak peşinen öder." hükmünden anlaşılacağı üzere borçlunun kanuni süreler içerisinde takibe itiraz etme olasılığına karşı alacaklı bu masrafı önceden öder. Diğer bir ifade ile, borçlu itiraz etsin ya da etmesin tebliğ masrafı alacaklı tarafından peşin ödenir. Fakat borçlu itiraz etmezse takip kesinleşir. Haciz sonucu elde edilen paradan daha önce peşin ödenen avans tutarı alacaklıya iade edilir.
 
 
 
-
-Yediemin giderleri, posta ücretleri, satış ilanı giderleri, vekalet ücreti 
 
 
 
