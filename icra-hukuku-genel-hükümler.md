@@ -640,7 +640,25 @@ olmak üzere 3 farklı tebliğ yöntemi vardır. Kural olarak PTT veya memur eli
 > 
 > Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikle belirlenir.
 
+e-Postanın[^7] muhatabın mail adresine ulaştığı tarihin 5 gün sonrası tebligat yapılmış sayılır. Örneğin 01 Şubat'ta gönderilen tebligat mail'i 06 Şubat tarihinde 23:59'dan sonra yapılmış sayılır.
 
+> [!Note]
+> Tebligat Kanunu, Madde 33:
+>
+> Resmi ve adli tatil günlerinde de tebligat caizdir.
+
+Resmî tatil günlerinde de tebligat yapılabilmektedir.
+
+> [!Note]
+> Tebligat Kanunu, Madde 11:
+>
+>  Vekil vasıtasıyla takip edilen işlerde tebligat vekile yapılır. Vekil birden çok ise bunlardan birine tebligat yapılması yeterlidir. Eğer tebligat birden fazla vekile yapılmış ise, bunlardan ilkine yapılan tebliğ tarihi asıl tebliğ tarihi sayılır. Ancak, Ceza Muhakemeleri Usulu Kanununun, kararların sanıklara tebliğ edilmelerine ilişkin hükümleri saklıdır.
+>
+> Avukat tarafından takip edilen işlerde, avukatın bürosunda yapılacak tebligatlar, resmî çalışma gün ve saatleri içinde yapılır.
+>
+> Kanuni mümessilleri bulunanlara veya bulunması gerekenlere yapılacak tebligat kanunlara göre bizzat kendilerine yapılması icabetmedikçe bu mümessillere yapılır.
+
+Fakat avukat tarafından takip edilen işlerde tebligat çalışma gün ve saatleri içinde yapılabilir. Resmi tatil günlerinde yapılamaz.
 
 
 
@@ -664,3 +682,4 @@ olmak üzere 3 farklı tebliğ yöntemi vardır. Kural olarak PTT veya memur eli
 [^4]: a.g.e.
 [^5]: a.g.e.
 [^6]: a.g.e.
+[^7]: kısaca mail olarak belirtilecektir.
