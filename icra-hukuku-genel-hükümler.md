@@ -553,6 +553,9 @@ Bu yazıyı okuduğunuz zamanda tutarlarda değişiklik olmuş olabilir. Bu nede
 
 Tespiti mümkün davalarda ya da ihtiyaci haciz ve ihtiyaci tedbir kararı alınması planlanan ilamlı icralarda maktu harç alınır.
 
+> [!Tip]
+> "Maktu" değer, "nispi" oransal anlamına gelir. Vergi Hukukunun terimleridir. 1.000 TL, 27.000 TL gibi değerler "maktu"yu, %1, %5 gibi oranlar "nispi"yi belirtir.
+
 <p align="center">
     <img src="https://zinzinzibidi.com/img/github/icra-harclari.jpg" alt="icra harçları (görsel)" style="width:720px" />
 </p>
