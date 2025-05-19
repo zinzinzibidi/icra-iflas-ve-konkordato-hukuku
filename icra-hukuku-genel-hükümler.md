@@ -42,6 +42,8 @@
 
 &nbsp;&nbsp;[İcra Harçları](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-har%C3%A7lar%C4%B1)
 
+&nbsp;&nbsp;[İcra Harçları](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-har%C3%A7lar%C4%B1)
+
 ## Cebri İcra
 
 Cebri "zor kullanılarak yaptırılan", icra ise "yapma, yerine getirme, yürütme" anlamına gelmektedir.
@@ -562,7 +564,33 @@ Tespiti mümkün davalarda ya da ihtiyaci haciz ve ihtiyaci tedbir kararı alın
 
 Diğer tüm icra harç bilgilerine (1) Sayılı Tarife'nin "B) İcra ve iflas harçları" bölümünden ulaşabilirsiniz.
 
+## İcra Giderleri
 
+İcra takibini tam ve doğru bir şekilde yürütebilmek için harcanan paralardır.[^6] 
+
+> [!Note]
+> İcra ve İflas Kanunu, Madde 59:
+>
+> Takip masrafları borçluya aittir. Alacaklı, yapılmasını talep ettiği muamelenin masrafını ve ayrıca takip talebinde bulunurken borçlunun 62 nci maddeye göre yapabileceği itirazın kendisine tebliğ masrafını da avans olarak peşinen öder.
+>
+> Alacaklı ilk ödenen paradan masraflarını alabilir. 
+
+> [!Note]
+> İcra ve İflas Kanunu, Madde 138:
+>
+> Mahcuz mallar tamamiyle satıldıkta bedelleri alakadarlara hisselerine göre paylaştırılır ve bir kısmı satıldıkta icabına göre bedeli hisseleri nispetinde alakadarlara avans olarak dağıtılır. 
+>
+> Haciz, paraya çevirme ve paylaştırma gibi bütün alacaklıları alakadar eden masraflar önce satış tutarından alınır ve artan para takip masrafları ve işlemiş faizler dahil olduğu halde alacakları nispetinde paylaştırılır.
+>
+> Vekil vasıtasiyle yapılan takiplerde vekalet ücretinin miktarı, alacaklı ile borçlu arasında yapılmış sözleşmeye bakılmaksızın, icra memuru tarafından avukatlık ücret tarifesine göre hasaplanır. Bu şekilde tayin olunan vekalet ücreti de takip masraflarına dahildir.
+>
+> Muvakkat hacizler için ayrılmış hisseler vaziyet anlaşılıncaya kadar sağlam bir bankaya, banka bulunmıyan yerlerde mahkeme veya icra sandıklarına yatırılır.
+
+
+
+
+
+Yediemin giderleri, posta ücretleri, satış ilanı giderleri, vekalet ücreti 
 
 
 
@@ -571,3 +599,4 @@ Diğer tüm icra harç bilgilerine (1) Sayılı Tarife'nin "B) İcra ve iflas ha
 [^3]: Şematik İcra ve İflas Hukuku, Prof. Dr. Cenk AKİL, Dr. Öğr. Üyesi Süleyman TOPAK, Güncellenmiş 2. Baskı, Ekim 2024, s.25
 [^4]: a.g.e.
 [^5]: a.g.e.
+[^6]: a.g.e.
