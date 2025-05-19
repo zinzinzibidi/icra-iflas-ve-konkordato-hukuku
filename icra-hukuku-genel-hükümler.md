@@ -590,7 +590,7 @@ Diğer tüm icra harç bilgilerine (1) Sayılı Tarife'nin "B) İcra ve iflas ha
 
 Yediemin giderleri, posta ücretleri, satış ilanı giderleri, vekalet ücreti gibi giderler icra giderlerini oluşturur.
 
-Mahcuz, hacizli; Muvakkat, geçici demektir. Vekalet ücreti, ki burada avukatlık ücretinden bahsedilmektedir, avukatlık ücret tarifesine göre icra dairesi tarafından hesaplanır. Takip sonucu borçlunun haksız olduğu tebliğ edilirse Madde 59'daki "Takip masrafları borçluya aittir" hükmünden de anlaşılacağı üzere tüm masraflar borçludan alınır.
+Mahcuz, hacizli; muvakkat, geçici demektir. Vekalet ücreti, ki burada avukatlık ücretinden bahsedilmektedir, avukatlık ücret tarifesine göre icra dairesi tarafından hesaplanır. Takip sonucu borçlunun haksız olduğu tebliğ edilirse Madde 59'daki "Takip masrafları borçluya aittir" hükmünden de anlaşılacağı üzere tüm masraflar borçludan alınır.
 
 > [!Note]
 > İcra ve İflas Kanunu, Madde 62:
