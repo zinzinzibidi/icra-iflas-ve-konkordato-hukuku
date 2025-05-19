@@ -44,7 +44,7 @@
 
 &nbsp;&nbsp;[İcra Giderleri](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-giderleri)
 
-&nbsp;[Tebligat]()
+&nbsp;[Tebligat](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#tebligat)
 
 ## Cebri İcra
 
