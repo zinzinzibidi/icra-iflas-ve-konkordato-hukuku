@@ -42,7 +42,7 @@
 
 &nbsp;&nbsp;[İcra Harçları](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-har%C3%A7lar%C4%B1)
 
-&nbsp;&nbsp;[İcra Harçları](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-har%C3%A7lar%C4%B1)
+&nbsp;&nbsp;[İcra Giderleri](https://github.com/zinzinzibidi/icra-iflas-ve-konkordato-hukuku/blob/main/icra-hukuku-genel-h%C3%BCk%C3%BCmler.md#i%CC%87cra-giderleri)
 
 ## Cebri İcra
 
