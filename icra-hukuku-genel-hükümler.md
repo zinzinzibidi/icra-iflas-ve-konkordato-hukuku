@@ -599,6 +599,7 @@ Mahcuz, hacizli; Muvakkat, geçici demektir. Vekalet ücreti, ki burada avukatl�
 
 Madde 59'da "Alacaklı, yapılmasını talep ettiği muamelenin masrafını ve ayrıca takip talebinde bulunurken borçlunun 62 nci maddeye göre yapabileceği itirazın kendisine tebliğ masrafını da avans olarak peşinen öder." hükmünden anlaşılacağı üzere borçlunun kanuni süreler içerisinde takibe itiraz etme olasılığına karşı alacaklı bu masrafı önceden öder. Diğer bir ifade ile, borçlu itiraz etsin ya da etmesin tebliğ masrafı alacaklı tarafından peşin ödenir. Fakat borçlu itiraz etmezse takip kesinleşir. Haciz sonucu elde edilen paradan daha önce peşin ödenen avans tutarı alacaklıya iade edilir.
 
+492 sayılı Harçlar Kanunun (1) Sayılı Tarife tablosu her yıl güncellenerek Genel Tebliğ ile Resmî Gazete'de yayımlanır. Örnek olması amacıyla [30 Aralık 2024 Tarihli ve 32768 Sayılı Resmî Gazete 2. Mükerrer](https://www.resmigazete.gov.tr/fihrist?tarih=2024-12-30&mukerrer=2) adresindeki [96 Seri No'lu Harçlar Kanunu Genel Tebliği](https://www.resmigazete.gov.tr/eskiler/2024/12/20241230M2-10.htm)ni inceleyebilirsiniz. 
 
 
 
