@@ -682,4 +682,4 @@ Fakat avukat tarafından takip edilen işlerde tebligat çalışma gün ve saatl
 [^4]: a.g.e.
 [^5]: a.g.e.
 [^6]: a.g.e.
-[^7]: kısaca mail olarak belirtilecektir.
+[^7]: Kısaca mail olarak belirtilecektir.
